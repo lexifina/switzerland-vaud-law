@@ -24,7 +24,7 @@
 ##### Sous-section IV Commission scolaire d'établissement secondaire
 ##### Sous-section V Commission scolaire d'arrondissement
 ### Chapitre VI Corps enseignant (ch. VII de la loi)
-#### Section I Titres et nominations
+#### Section I Titres et engagements
 #### Section II Obligations des membres du corps enseignant
 #### Section III Droits des membres du corps enseignant
 ### Chapitre VII Organisation des établissements (ch. VIII de la loi)

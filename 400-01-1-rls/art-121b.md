@@ -1,0 +1,3 @@
+# Art. 121b Formation continue collective
+1 En plus des dispositions prévues à l'article 121a, chaque établissement peut organiser une journée ou deux demi-journées de formation continue collective avec mise en congé des élèves, sur les 2 demi-journées de congé supplémentaires que peut lui accorder la commission scolaire. Si ces 2 demi-journées de congé ont déjà été octroyées pour d'autres activités, l'établissement présente une demande spéciale au service.
+2 Lors d'une telle mise en congé des élèves, l'établissement garantit une prise en charge des élèves lorsque leurs parents en font la demande.
