@@ -1,0 +1,7 @@
+# Art. 15c Procédure
+1 La personne qui s'adresse au médiateur se présente personnellement et n'est pas assistée par un mandataire professionnel. Lorsqu'il s'agit du patient, celui-ci peut se faire accompagner par une personne de son choix.
+2 La procédure devant les Commissions d'examen des plaintes doit être simple, rapide et gratuite.
+3 Lorsqu'une plainte est présentée directement à une Commission d'examen des plaintes sans que le médiateur n'ait été préalablement saisi, la Commission informe le plaignant qu'il a le droit de tenter une conciliation devant le médiateur. Si le plaignant accepte cette voie, la plainte est transmise au médiateur, si le plaignant s'y refuse, la Commission se saisit de la plainte et la traite.
+4 L'anonymat est garanti au plaignant qui le demande, auquel cas celui-ci perd sa qualité de partie et les droits qui lui sont attachés (art. 15b). Toutefois, si la plainte est jugée manifestement abusive, l'anonymat est levé.
+5 Dans le cas de l'article 15d, alinéa 4, lettre d, la Commission d'examen des plaintes compétente rend sa décision dans un délai de cinq jours si, lors du dépôt de la requête, la mesure contestée n'a pas cessé. Dans les autres cas, la Commission rend sa décision dans les trois mois qui suivent le dépôt de la requête. L'article 23e est réservé.
+6 Les décisions prises par les Commissions d'examen des plaintes en application de l'article 15d alinéa 4 sont susceptibles d'un recours devant le Tribunal administratif, conformément aux règles de la loi sur la juridiction et la procédure administratives.

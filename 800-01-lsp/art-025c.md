@@ -1,0 +1,2 @@
+# Art. 25c Commission d'éthique de la recherche
+1 Le Département reconnaît une ou des commissions d'éthique de la recherche. Elles procèdent à l'évaluation éthique des projets de recherche et en vérifient la qualité scientifique. Ce faisant, elles veillent à préserver les droits, la sécurité et le bien-être des sujets de recherche conformément aux règles reconnues des bonnes pratiques des essais cliniques, les recherches impliquant des populations vulnérables ou en situation d'urgence médicale faisant l'objet d'une attention particulière.

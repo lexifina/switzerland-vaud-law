@@ -1,0 +1,5 @@
+# Art. 153a
+1 Sont considérés comme laboratoires indépendants d'analyses pour la médecine humaine les laboratoires mandatés par d'autres fournisseurs de prestations et qui font d'autres analyses que celles effectuées dans le cadre des soins de base au sens de la législation fédérale sur l'assurance-maladie.
+2 Le directeur du laboratoire indépendant est au bénéfice du titre de spécialiste en analyses de laboratoire médical FAMH (Association suisse des chefs de laboratoire d'analyses médicales) ou d'une formation reconnue par le département, dans les domaines d'activité du laboratoire.
+3 Des analyses dans une discipline où le directeur ne possède pas les qualifications nécessaires peuvent être admises si un collaborateur est au bénéfice du titre de spécialiste en analyses de laboratoire médical FAMH ou d'une formation reconnue par le département dans cette discipline.
+4 Le directeur peut diriger plus d'un laboratoire, mais au maximum trois. Dans ce cas, il désigne un remplaçant dans chaque laboratoire.

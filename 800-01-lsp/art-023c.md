@@ -1,0 +1,4 @@
+# Art. 23c d) Personne incapable de discernement
+1 Si le patient est incapable de discernement, le professionnel de la santé doit rechercher s'il a rédigé des directives anticipées ou désigné un représentant thérapeutique. En l'absence de telles directives ou de représentant thérapeutique, le professionnel de la santé doit obtenir l'accord de son représentant légal ou, à défaut, recueillir l'avis de ses proches après leur avoir fourni les informations nécessaires conformément à l'article 21.
+2 Lorsque la décision du représentant thérapeutique, respectivement du représentant légal, met en danger la santé du patient, le professionnel de la santé peut recourir à l'autorité tutélaire.
+3 En cas d'urgence ou en l'absence d'un représentant légal, le professionnel de la santé doit agir conformément aux intérêts objectifs du patient, en tenant compte de la volonté présumée de celui-ci.

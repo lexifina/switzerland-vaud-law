@@ -1,0 +1,4 @@
+# Art. 23e b) Modalités et protection des patients
+1 La surveillance du patient est renforcée pendant toute la durée de la mesure de contrainte dont le maintien fait l'objet d'évaluations. Un protocole comprenant le but et le type de chaque mesure utilisée, ainsi que le nom de la personne responsable et le résultat des évaluations est inséré dans le dossier du patient.
+2 La personne concernée, son représentant thérapeutique, respectivement son représentant légal, ses proches ou un accompagnant peuvent s'adresser à la commission d'examen des plaintes compétente pour demander l'interdiction ou la levée des mesures de contrainte conformément à l'article 15d. La commission décide si la plainte a effet suspensif dès réception de celle-ci.
+3 La Commission rend sa décision dans un délai de cinq jours après le dépôt du recours. La procédure de plainte est réservée.
