@@ -1,0 +1,4 @@
+# Art. 64a Secrétariat général
+1 Chaque département est doté d'un secrétariat général qui regroupe en un état-major les fonctions d'appui à la direction du département.
+2 Au titre de ces fonctions d'état-major, le secrétariat général appuie la direction politique et administrative du département; il assume notamment des fonctions de coordination, d'information, de contrôle de gestion et de relais. Il collabore à la conception et à la mise en oeuvre de politiques communes ou coordonnées de l'Etat. Il peut aussi être chargé d'une ou plusieurs tâches particulières.
+3 En outre, le secrétariat général peut assumer des tâches logistiques ou d'appui pour le compte des services du département, par exemple en matière de gestion du personnel, de finances et de comptabilité, de recherche ou d'informatique.
