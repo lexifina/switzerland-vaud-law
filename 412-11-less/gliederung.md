@@ -3,7 +3,7 @@
 #### Section I Ecole de maturité
 #### Section II Ecoles de diplôme
 #### Section III Formations complémentaires
-### Chapitre III Ecole de perfectionnement
+### Chapitre III Office de perfectionnement scolaire, de transition et d'insertion professionnelle
 ### Chapitre IV Conditions générales d'admission
 ### Chapitre V Déroulement des études gymnasiales
 ### Chapitre VI Corps enseignant
