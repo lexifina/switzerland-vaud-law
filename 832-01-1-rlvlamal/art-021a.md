@@ -1,0 +1,5 @@
+# Art. 21a Subside spécifique (art. 17a à 17c loi) – Principes
+1 Peuvent bénéficier d'une augmentation du subside, sous forme de subside spécifique, les membres d'une UER au sens des art. 9 et 10 LHPS pour laquelle le paiement des primes de l'assurance obligatoire des soins, après déduction des subsides octroyés au titre des art. 11 à 13 LVLAMal, représente un pourcentage de leur revenu déterminant unifié (ci-après : « RDU ») au sens de l'art. 6 LHPS (taux d'effort) supérieur à 10%. L'al. 2 est réservé.
+2 Lorsqu'un membre de l'UER bénéficie des prestations complémentaires au sens de la LPCFam, elles sont prises en compte dans le calcul du RDU de l'UER.
+3 Les primes de l'assurance obligatoire des soins de chacun des membres de l'UER au sens de l'al. 1 sont limitées aux primes de référence figurant dans l'arrêté annuel concernant les subsides aux primes de l'assurance-maladie obligatoire qui correspondent à la situation de l'UER.
+4 Les personnes bénéficiant de l'une des catégories particulières de subside de l'art. 18 al. 1 et 2 LVLAMal n'ont pas droit à un subside spécifique.
