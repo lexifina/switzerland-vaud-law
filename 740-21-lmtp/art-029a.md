@@ -1,0 +1,4 @@
+# Art. 29a Aménagement d'infrastructures
+1 L'Etat peut accorder une subvention aux communes à raison de 15% pour participer au financement de mesures d'aménagements d'infrastructures en faveur des deux-roues non motorisés sur les routes communales ou sur routes cantonales en traversée de localité, sous réserve que le coût déterminant d'une mesure ou d'un groupe de mesures présentant une cohérence d'ensemble soit égal ou supérieur à 250'000 francs.
+2 La subvention est portée à 20% pour les ouvrages de franchissement sous réserve que le coût déterminant de la mesure ou d'un groupe de mesures présentant une cohérence d'ensemble soit égal ou supérieur à 250'000 francs.
+3 La subvention à une mesure est conditionnée à l'octroi d'une subvention de la Confédération dans le cadre des projets d'agglomération en application de la loi fédérale sur le fonds d'infrastructure.

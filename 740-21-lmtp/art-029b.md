@@ -1,0 +1,2 @@
+# Art. 29b Mesures de promotion
+1 L'Etat peut accorder une subvention pour des mesures de promotion de la mobilité douce d'intérêt cantonal, notamment pour la signalisation des itinéraires de mobilité douce, pour des mesures de sensibilisation du public et d'incitation à l'utilisation de la mobilité douce ainsi que pour des actions de sensibilisation et de conseil aux responsables de l'aménagement de l'espace public.
