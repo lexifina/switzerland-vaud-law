@@ -4,7 +4,7 @@
 #### Section II Des dispositifs d'alarmes
 #### Section III Des centrales d'alarmes
 ##### Sous-section I Généralités
-#### Section IV Des centrales d'alarmes de police
+#### Section IV ...
 ### Chapitre III Des maîtres-chiens
 ### Chapitre IV Autorités compétentes
 ### Chapitre V Dispositions diverses
