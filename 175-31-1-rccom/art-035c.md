@@ -1,0 +1,3 @@
+# Art. 35c Qualification des réviseurs
+1 La révision des comptes ne peut être exercée que par une personne au bénéfice d'un brevet fédéral de spécialiste en finance et comptabilité ou d'un titre jugé équivalent par le département.
+2 Pour les communes dont le total du bilan dépasse CHF 50 mios et pour lesquelles le total du compte de fonctionnement est supérieur à CHF 25 mios pour une durée de 2 ans consécutifs, la révision des comptes des communes doit être effectuée par un réviseur particulièrement qualifié, les critères étant ceux mentionnés à l'article 1er de l'ordonnance fédérale sur les qualifications professionnelles des réviseurs particulièrement qualifiés.
