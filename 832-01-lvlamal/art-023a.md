@@ -1,0 +1,4 @@
+# Art. 23a
+1 L'OCC rembourse l'arriéré effectif de primes facturées par l'assureur, conformément aux dispositions du règlement. Toutefois, l'assuré déjà au bénéfice d'un subside intégral au sens de l'article 18 et qui est en demeure pour le paiement de la différence entre la prime cantonale de référence et la prime effective facturée par son assureur, ne peut prétendre au remboursement de cette différence.
+2 Les créances irrécouvrables remboursées aux assureurs sont imputées sur les subsides au sens de l'article 66 LAMal.
+3 L'OCC prend également à sa charge les frais de poursuite, sous réserve que la périodicité du dépôt des réquisitions de poursuite respecte les normes établies par le règlement et les directives. Il dispose d'une action récursoire à l'égard du débiteur, prescrite par cinq ans dès le paiement.
