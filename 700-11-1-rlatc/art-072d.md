@@ -1,0 +1,10 @@
+# Art. 72d Objets pouvant être dispensés d'enquête publique
+1 La municipalité peut dispenser de l'enquête publique notamment les objets mentionnés ci-dessous pour autant qu'aucun intérêt public prépondérant ne soit touché et qu'ils ne soient pas susceptibles de porter atteinte à des intérêts dignes de protection, en particulier à ceux des voisins :
+- les constructions et installations de minime importance ne servant pas à l'habitation ou à l'activité professionnelle, telles que cabane, garage à deux voitures, place de stationnement pour trois voitures, chemin d'accès privé, piscine non couverte, fontaine, bassin, clôture fixe ou mur de clôture, cheminée extérieure, ouvrage lié à l'utilisation des énergies renouvelables et antenne réceptrice privée ou collective de petites dimensions ;
+- les constructions et installations mobilières ou provisoires de minime importance telles que mobilhome, tente, dépôt et matériel pour une durée de 3 à 6 mois, non renouvelable ;
+- les travaux de transformation de minime importance d'un bâtiment existant consistant en travaux de rénovation, d'agrandissement, de reconstruction, tels que la création d'un avant-toit, d'un balcon, d'une saillie, d'une isolation périphérique, d'une rampe d'accès ;
+- les aménagements extérieurs tels que la modification de minime importance de la topographie d'un terrain ;
+- les autres ouvrages de minime importance tels que les excavations et les travaux de terrassement.
+2 L'alinéa 1 n'est pas applicable aux demandes de permis de construire accompagnées de demandes de dérogation (loi, art. 85 ).
+3 A l'exception des constructions de minime importance au sens de l'article 106 de la loi, les objets dispensés d'enquête publique sont élaborés par des architectes (loi, art. 107) ou des ingénieurs pour les plans particuliers relevant de leur spécialité (loi, art. 107a).
+4 A l'exception des installations techniques intérieures mentionnées à l'article 68a, les objets dispensés d'enquête publique sont soumis à permis de construire.

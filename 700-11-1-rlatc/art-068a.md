@@ -1,0 +1,3 @@
+# Art. 68a Objets dispensés d'autorisation de construire{6}
+1 Ne sont pas soumis à autorisation de construire les installations techniques intérieures telles que les installations électriques, les installations sanitaires et les canalisations d'eau et d'égout dans la mesure où la destination principale des locaux les rend nécessaires et pour autant qu'elles ne concernent pas des bâtiments situés en dehors de la zone à bâtir et qu'elles ne sont pas susceptibles de porter atteinte à des intérêts dignes de protection.
+2 La municipalité est informée de la réalisation de ces installations avant leur utilisation. Elle procède à un contrôle de conformité.
