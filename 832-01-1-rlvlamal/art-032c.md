@@ -1,0 +1,3 @@
+# Art. 32c e) limitation du montant des primes recouvrées
+1 Conformément à l'article 23a de la loi, l'assuré qui bénéficie d'un subside partiel ou qui n'est pas subsidié, peut se voir rembourser l'arriéré effectif de primes facturées par l'assureur, sous réserve des limitations fixées à l'alinéa suivant.
+2 Lorsque la prime est supérieure à la prime cantonale de référence prévue par l'article 17 de la loi, elle est en principe remboursée jusqu'au terme de l'année civile durant laquelle l'arriéré a pris naissance mais au plus tard jusqu'au prochain terme de résiliation de l'assurance au sens de la LAMal. Passés ces délais, un éventuel recouvrement est limité à la prime cantonale de référence.
