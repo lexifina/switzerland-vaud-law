@@ -1,0 +1,2 @@
+# Art. 73a
+1 L'Etablissement participe aux frais de prévention des incendies et à ceux du service de défense contre l'incendie et de secours (SDIS) par la mise à disposition des communes d'équipements, de matériel et de véhicules, par l'allocation de subventions et par d'autres prestations prévues par les articles 73d et 73e de la présente loi. Le montant annuel total de cette participation ne peut pas dépasser le 35 % des primes encaissées l'année précédente.
