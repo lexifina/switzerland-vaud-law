@@ -1,0 +1,3 @@
+# Art. 39a Téléphone
+1 Les fonctionnaires de police sont tenus d'être abonnés au téléphone.
+2 …
