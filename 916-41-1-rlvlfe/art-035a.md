@@ -1,0 +1,3 @@
+# Art. 35a
+1 Hormis les cas d'épizooties réglés par l'article 35, les frais d'entreposage intermédiaire, de transport - à partir des centres d'entreposage - et de destruction des cadavres sont à la charge de la commune de stationnement ordinaire des animaux, ou de celle d'où proviennent les matières, sous réserve des exceptions résultant de l'alinéa suivant et des articles 35b à 35d.
+2 Lorsqu'il s'agit d'animaux enregistrés dans d'autres cantons et qui se trouvent en estivage ou en hivernage dans le Canton de Vaud, ces frais incombent à la commune de stationnement temporaire, les exceptions résultant des articles 35b et 35c étant réservées.
