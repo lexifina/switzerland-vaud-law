@@ -1,0 +1,5 @@
+# Art. 43bis Révision de la classification
+1 La classification peut être révisée si des circonstances nouvelles le justifient, notamment lorsque des biens visés par l'article 33, lettre b font ultérieurement l'objet de travaux (drainages, canalisations ou autres ouvrages, etc.) qui ont pour effet d'augmenter, d'une façon appréciable, le débit du cours d'eau ou la rapidité de ses crues et ses frais d'entretien.
+2 La demande de révision est adressée, en double exemplaire, au département. Elle n'est recevable que si elle est motivée conformément à l'alinéa précédent et si elle est faite par des communes ou des propriétaires de biens non assujettis à l'impôt communal dont les contributions représentent au moins la moitié en pour-mille de la part incombant aux propriétaires des immeubles sis dans le périmètre selon la classification en vigueur.
+3 Le département statue sur la recevabilité de la demande. Si celle-ci est admise, le Conseil d'Etat charge une commission de classification ad hoc de statuer sur le fond.
+4 Les règles de la procédure sont fixées pour le surplus par le règlement d'application de la présente loi.

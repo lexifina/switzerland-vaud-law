@@ -1,0 +1,3 @@
+# Art. 12a Autorisation de déversement ou d'infiltration d'eaux claires
+1 Le déversement d'eaux claires dans les cours d'eau ou leur infiltration dans le sous-sol est soumise à l'autorisation du département.
+2 La procédure est fixée par les articles 121 à 123 de la loi du 4 décembre 1985 sur l'aménagement du territoire et les constructions pour les travaux soumis à autorisation de construire. Tous autres travaux modifiant les conditions hydrologiques naturelles autorisés ou prévus dans le cadre de procédures distinctes sont soumis aux dispositions du premier alinéa et de l'article 12b de la présente loi.

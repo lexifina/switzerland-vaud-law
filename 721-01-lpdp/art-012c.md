@@ -1,0 +1,2 @@
+# Art. 12c Assainissement hydraulique
+1 Lorsqu'un cours d'eau n'est plus en mesure d'absorber les débits qui lui sont restitués par des canalisations d'eaux claires existantes, le département peut imposer la réduction de ces déversements. Ces mesures d'amélioration de déversements existants ne peuvent intervenir que si le cours d'eau subit de graves dommages, génère des risques d'inondations ou fait courir des dangers aux ouvrages tels que notamment ponts, voûtages, barrages.

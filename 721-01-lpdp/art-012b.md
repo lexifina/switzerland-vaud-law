@@ -1,0 +1,4 @@
+# Art. 12b Conditions de l'autorisation
+1 Les eaux claires provenant de l'étanchéification de surface sont en principe réinfiltrées dans le sous-sol. Si ces eaux ne peuvent être réinfiltrées pour des raisons hydrogéologiques impérieuses, elles peuvent être évacuées par le réseau des canalisations publiques prévu par l'article 21 de la loi du 17 septembre 1974 sur la protection des eaux contre la pollution .
+2 L'autorisation de déversement des eaux claires par des canalisations dans un cours d'eau est délivrée à la condition que le cours d'eau puisse supporter l'augmentation de débit compte tenu des déversements existants à l'amont et des conditions d'écoulement à l'aval.
+3 Le département fixe les modalités d'évacuation. Il peut notamment imposer la création de bassins de rétention ou de zones inondables.
