@@ -1,0 +1,7 @@
+# Art. 93a
+1 La municipalité invite les propriétaires et les titulaires de droits réels touchés à procéder à une correction de limites dans un but d'intérêt public prépondérant en vue d'assurer notamment une utilisation rationnelle du sol en relation avec la densité de la zone constructible ou la mise en oeuvre des pôles de développement économique cantonaux inscrits au plan directeur cantonal, et sur la base des études préliminaires éventuelles.
+2 A défaut d'entente, la municipalité transmet le dossier au département . Celui-ci charge une commission de classification et un géomètre officiel d'établir un plan de correction de limites ainsi qu'un règlement financier qui sont soumis aux propriétaires.
+3 En cas de désaccord, la commission de classification est tenue d'examiner les autres variantes des propriétaires et des autres titulaires de droits réels.
+4 Avec l'accord préalable du département , la commission de classification approuve le plan de correction de limites conformément au principe de la compensation réelle. La participation financière des propriétaires, des autres titulaires de droits réels et de la commune à cette opération est également définie. La mise en oeuvre de cette décision est assurée par la commission de classification.
+5 L'inscription au registre foncier est requise par la commission de classification.
+6 L'exigibilité des soultes et des frais de l'opération intervient simultanément à l'inscription au registre foncier.
