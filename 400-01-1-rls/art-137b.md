@@ -1,0 +1,2 @@
+# Art. 137b Décharges de fin de carrière pour les maîtres engagés à temps partiel
+1 Le droit aux décharges pour les enseignants travaillant à temps partiel est calculé sur la moyenne du taux d'activité sur les sept dernières années scolaires précédant ce droit selon tableau ci-dessous : jusqu'à 26% non compris, mais au moins 5 périodes :2 périodesde 26% à 51% non compris :3 périodesde 51% à 71% non compris :4 périodesde 71% à 91% non compris :5 périodesde 91% à 100% :6 périodes

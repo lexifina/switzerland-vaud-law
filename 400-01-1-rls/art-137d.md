@@ -1,0 +1,2 @@
+# Art. 137d Cas des maîtres détachés partiellement dans une activité ne donnant pas droit aux décharges de fin de carrière
+1 Pour les maîtres engagés par un service concerné par la disposition légale relative aux décharges de fin de carrière et détachés partiellement dans un secteur ne bénéficiant pas de cette disposition, c'est le taux intégral de l'engagement de base qui est pris en compte pour l'octroi des périodes de décharge. La décharge ainsi octroyée est attribuée entièrement à l'activité d'enseignement définie dans le contrat de base.

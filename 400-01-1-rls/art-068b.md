@@ -1,0 +1,3 @@
+# Art. 68b Conseil de la psychologie, la psychomotricité et la logopédie en milieu scolaire
+1 Le Conseil d'Etat nomme le conseil de la psychologie, la psychomotricité et la logopédie en milieu scolaire (ci-après : le conseil). Il comprend des représentants des associations de parents, des associations professionnelles concernées et des organes cantonaux impliqués.
+2 Le conseil assiste le département dans l'élaboration, la mise en oeuvre et l'évaluation des principes directeurs cantonaux. Il peut fonctionner en sous-commissions pour appuyer le département dans sa tâche de haute surveillance des activités professionnelles exercées en milieu scolaire.
