@@ -16,6 +16,6 @@
 ### Chapitre V Le juge d'instruction cantonal
 ### Chapitre VI Les juges d'instruction
 ### Chapitre VII Les justices de paix
-### Chapitre VIII Les juges de paix
+### Chapitre VIII ...
 ## Titre III Dispositions complémentaires sur la compétence et la procédure
 ## Titre IV Dispositions transitoires, abrogatoires et finales
