@@ -1,0 +1,2 @@
+# Art. 93c
+1 Le rapport de la municipalité sur la gestion, les comptes arrêtés au 31 décembre précédent, accompagnés cas échéant du rapport-attestation du réviseur, sont remis au conseil général ou communal au plus tard le 31 mai de chaque année et renvoyés à l'examen d'une commission.
