@@ -1,0 +1,2 @@
+# Art. 83g Congé de maternité ou d'adoption
+1 Dans le cadre des dispositions prévues par le règlement d'application de la Lpers , les modalités de fixation des dates des congés de maternité des enseignantes ou des congés d'adoption tiennent compte des contraintes pédagogiques en relation avec les vacances scolaires et sont fixées d'un commun accord entre l'enseignant et le directeur. En cas de désaccord, le service compétent prend la décision.
