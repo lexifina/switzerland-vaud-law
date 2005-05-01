@@ -5,7 +5,7 @@
 #### Section II Rétribution
 #### Section III Surveillance et discipline
 #### Section IV Cessation des fonctions
-### Chapitre III Fonctionnaires de l'ordre judiciaire
+### Chapitre III Collaborateurs de l'ordre judiciaire
 ### Chapitre IV Formation professionnelle
 ### Chapitre V Dispositions diverses
 ## Titre II Partie spéciale
