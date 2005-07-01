@@ -1,2 +1,2 @@
-# Art. 128a
-1 Toute commune peut fonder une association à but idéal, conformément aux articles 60 et suivants du Code civil suisse, avec une ou d'autres communes ou avec des personnes privées. Elle peut aussi adhérer à une telle association.
+# Art. 128a Principe
+1 Les communes peuvent collaborer sous la forme d'une fédération de communes pour accomplir ensemble des tâches de compétence communale.

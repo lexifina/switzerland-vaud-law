@@ -19,7 +19,9 @@
 ### Chapitre X Ententes intercommunales
 ### Chapitre Xbis
 ### Chapitre XI Associations de communes
-### Chapitre XIbis Associations et fondations de droit privé
+### Chapitre XIbis Fédérations de communes
+### Chapitre XIter Agglomérations
+### Chapitre XIquater Associations et fondations de droit privé
 ### Chapitre XII Des fractions de communes
 ### Chapitre XIII De la surveillance de l'Etat sur les communes
 ### Chapitre XIV De la mise sous régie et de la mise sous contrôle des communes
