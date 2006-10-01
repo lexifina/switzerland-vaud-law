@@ -30,15 +30,15 @@
 #### Section II Périmètres, secteurs et aires de colonisation
 #### Section III Restrictions du droit de disposer
 ### Chapitre II Remaniement parcellaire agricole
-#### Section I Répartition des terres
-#### Section II Estimation des terres
+#### Section I Répartition des immeubles
+#### Section II Estimation des immeubles
 #### Section IIbis Terrains à sous-sols industriels
 #### Section III Valeurs passagères
 #### Section IV Ouvrages collectifs et privés
 #### Section V Protection de la nature; expropriation
 #### Section VI Adaptation des servitudes et des autres droits, et des lignes aériennes
 #### Section VII Enquêtes
-#### Section VIII Mise en culture des nouvelles parcelles
+#### Section VIII Mise en culture des nouveaux immeubles
 #### Section IX Transfert de propriété et des autres droits
 #### Section X Mutation des droits réels et des autres droits
 #### Section XI Mensuration parcellaire

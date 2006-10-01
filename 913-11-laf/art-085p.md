@@ -1,6 +1,7 @@
-# Art. 85p Mise à l'enquète
-1 Sont soumis à l'enquête publique, en règle générale de manière simultanée et pendant un délai de trente jours:
+# Art. 85p {12}
+1 Sont soumis à l'enquête publique, en règle générale de manière simultanée et pendant un délai de trente jours :
 - le périmètre général de l'entreprise et des sous-périmètres;
+- l'avant-projet des travaux collectifs;
 - l'estimation des terres et des valeurs passagères, la répartition des nouveaux biens-fonds et l'adaptation des servitudes et des autres droits, les contributions de plus-value spéciale, ainsi que le tableau des soultes;
 - le projet d'exécution des travaux collectifs et privés;
 - la clé de répartition des frais d'exécution.
