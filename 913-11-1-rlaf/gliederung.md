@@ -4,8 +4,8 @@
 ### Chapitre II Création du syndicat
 ### Chapitre III Avant-projet des travaux
 ### Chapitre IV Remaniement parcellaire
-#### Section I Estimation des terres et calcul des valeurs foncières de l'ancien état
-#### Section II Répartition des terres
+#### Section I Estimation des immeubles et calcul des valeurs foncières de l'ancien état
+#### Section II Répartition des immeubles
 #### Section III Nouvel état de propriété
 #### Section IV Entrée en vigueur du nouvel état
 #### Section V Inscription du nouvel état au registre foncier
