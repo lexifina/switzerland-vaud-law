@@ -13,6 +13,7 @@
 #### Section IV Dépendances de peu d'importance
 #### Section V Places de dépôt et de stationnement pour véhicules
 #### Section VI Aménagements de parcelles, terrassements et dépôts de déblais d'excavation (décharges terreuses)
+#### Section VII Utilisation rationnelle et economies d'énergie dans les constructions (Loi, article 97){9}
 ### Chapitre II Utilisation rationnelle et économie d'énergie dans les constructions (Loi, articles 97 à 102)
 #### Section I Isolation thermique (Loi, article 98)
 #### Section II Installations de climatisation et de ventilation (Loi, article 98, lettre b)

@@ -1,3 +1,1 @@
-# Art. 52a Bâtiments existants
-1 Les bâtiments existants à chauffage central desservant au moins cinq utilisateurs seront équipés des dispositifs permettant d'enregistrer et régler la consommation de chaleur (chauffage) de chacun d'eux, si la technique et l'exploitation le permettent et s'il n'en résulte pas des coûts disproportionnés; dans le cas contraire, une demande motivée de dispense sera adressée à la municipalité.
-2 Une dispense pourra notamment être accordée, pour les bâtiments existants, si l'indice de dépense d'énergie, défini par le règlement concernant la fourniture de chaleur et d'eau chaude dans les bâtiments, est inférieur à 600 MJ/m² a sur la moyenne des deux précédentes périodes de chauffage.
+# Art. 52a …

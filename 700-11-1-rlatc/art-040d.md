@@ -1,0 +1,4 @@
+# Art. 40d Dérogations liées à une utilisation rationnelle de l'énergie
+1 Sont considérées comme exigences supérieures aux normes en vigueur (art. 97, al. 3 LATC ), les valeurs du coefficient de transmission thermique (valeurs limites ponctuelles) meilleures que celles exigées à l'article 19, alinéa 1 RLVLEne .
+2 On entend par performances énergétiques sensiblement supérieures aux normes en vigueur (art. 97, al. 4 LATC), un bâtiment certifié selon le standard Minergie® ou une autre norme équivalente reconnue par le service cantonal en charge de l'énergie.
+3 Le supplément d'isolation par rapport aux valeurs limites ponctuelles (art. 97, al. 3 LATC) est cumulable avec le bonus de 5% accordé aux bâtiments neufs ou rénovés atteignant des performances énergétiques sensiblement supérieures aux normes en vigueur (art. 97, al. 4 LATC).
