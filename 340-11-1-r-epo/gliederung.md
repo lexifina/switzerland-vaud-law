@@ -17,13 +17,5 @@
 #### Section XV Les surveillants-chefs de maison
 #### Section XVI Les surveillants-sous-chefs
 #### Section XVII Les surveillants
-### Chapitre III Du régime applicable aux détenus
-#### Section I Dispositions générales
-#### Section II Nourriture, vêtements, logement
-#### Section III Travail et pécule
-#### Section IV Enseignement, sports, loisirs, assistance sociale et spirituelle, relations avec la direction
-#### Section V Soins médicaux
-#### Section VI Visites, congés, permissions, correspondance, téléphones, transmission d'objets, remise d'argent
-#### Section VII Discipline
-#### Section VIII Régimes spéciaux
+### Chapitre III …
 ### Chapitre IV Dispositions finales
