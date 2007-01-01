@@ -1,3 +1,3 @@
 # Art. 25a Assurances
-1 Les prestations d'assurance imposables en vertu de l'article 11, alinéa 2, lettre c, sont estimées au montant de la somme acquise par le bénéficiaire ou de la valeur capitalisée des rentes obtenues, calculée selon le barème prévu à l'article 9.
+1 Les prestations d'assurance imposables en vertu de l'article 11, alinéa 2, lettre c), sont estimées, s'agissant des assurances de capitaux privées susceptibles de rachat, au montant de la somme acquise par le bénéficiaire et, s'agissant des contrats d'assurance de rentes viagères, à 60% de la somme acquise par le bénéficiaire ou à 60% de la valeur capitalisée des rentes obtenues, calculées selon le barème prévu à l'article 9.
 2 Les assurances dévolues gratuitement, qui ne sont pas échues au décès du défunt ou lors de leur donation, sont estimées à leur valeur de rachat.
