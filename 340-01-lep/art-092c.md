@@ -1,0 +1,4 @@
+# Art. 92c
+1 Les conflits collectifs de travail sont réglés par la négociation.
+2 En cas d'échec de la négociation, les parties recourent à la médiation.
+3 Un ou plusieurs médiateurs sont désignés, d'un commun accord entre les parties
