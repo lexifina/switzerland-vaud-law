@@ -17,12 +17,12 @@
 ### Chapitre IV Organisation territoriale (ch. IV de la loi)
 ### Chapitre V Autorités (ch. V et VI de la loi)
 #### Section I Autorités cantonales
-#### Section II Autorités communales
-##### Sous-section I Municipalité et conseil exécutif
-##### Sous-section II Commissions scolaires en général
-##### Sous-section III Commissions scolaires primaires
-##### Sous-section IV Commission scolaire d'établissement secondaire
-##### Sous-section V Commission scolaire d'arrondissement
+#### Section II Conseil d'établissement
+##### Sous-section I ...
+##### Sous-section II ...
+##### Sous-section III …
+##### Sous-section IV …
+##### Sous-section V …
 ### Chapitre VI Corps enseignant (ch. VII de la loi)
 #### Section I Titres et engagements
 #### Section II Obligations des membres du corps enseignant
