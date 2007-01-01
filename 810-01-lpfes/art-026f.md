@@ -1,0 +1,3 @@
+# Art. 26f Charges d'entretien et mobilières des EMS
+1 Au sens de la présente loi, les charges d'entretien et mobilières des EMS d'intérêt public ne sont pas considérées comme des charges d'investissements. Elles sont intégrées dans les charges d'exploitation et financées conformément aux conventions tarifaires applicables aux prestations socio-hôtelières ou, à défaut, aux tarifs arrêtés par le Conseil d'Etat.
+2 Le Conseil d'Etat définit les modalités d'intégration des charges d'entretien et mobilières dans les conventions ou les tarifs, ainsi que les modalités d'utilisation et d'affectation des revenus y relatifs.
