@@ -1,0 +1,2 @@
+# Art. 9a Personnes liées par un partenariat enregistré
+1 Le revenu et la fortune des partenaires enregistrés vivant en ménage commun s'additionnent. Dans la présente loi, les personnes liées par un partenariat enregistré sont soumises aux mêmes règles que les époux. Ce principe vaut également pour les contributions d'entretien durant le partenariat enregistré ainsi que pour les contributions d'entretien et la liquidation des biens découlant de la suspension de la vie commune ou de la dissolution du partenariat.
