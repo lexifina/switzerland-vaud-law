@@ -1,0 +1,3 @@
+# Art. 4b Conditions d'engagement et de travail
+1 En l'absence de conventions collectives de travail de force obligatoire, le Conseil d'Etat peut poser des exigences en matière de conditions d'engagement et de travail pour l'ensemble du personnel travaillant dans les établissements sanitaires d'intérêt public.
+2 Dans tous les cas, après consultation des associations faîtières, il fixe un barème de rémunération pour les fonctions directoriales et administratives de ces établissements, qui tient compte de leurs spécificités, en particulier de leur taille, de leurs missions et des responsabilités dévolues à ces fonctions.

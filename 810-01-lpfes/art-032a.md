@@ -1,0 +1,3 @@
+# Art. 32a Surveillance financière
+1 Le département contrôle que les établissements sanitaires d'intérêt public et les réseaux de soins utilisent les ressources allouées conformément à l'affectation prévue.
+2 Le Conseil d'Etat, après évaluations faites lors des contrôles antérieurs, détermine la portée et les modalités de ce contrôle, y compris en ce qui concerne les sous-traitants qui délivrent régulièrement des prestations couvertes par la présente loi. Le règlement définit les modalités, en particulier les principes comptables à respecter et les règles relatives à la mission, à la qualification et à l'indépendance des organes de révision.
