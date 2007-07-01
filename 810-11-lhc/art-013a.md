@@ -1,4 +1,6 @@
 # Art. 13a Contrat de prestations
-1 Le Conseil d'Etat établit avec les Hospices cantonaux, en association avec l'Université de Lausanne et sa Faculté de médecine, un contrat de prestations pour une durée d'une année, concernant les prestations de soins, de services, de recherche et d'enseignement.
-2 Ce contrat contient notamment le budget de prestations et les engagements des Hospices et de la Faculté de médecine en matière de quantité, de qualité et de coût des prestations.
-3 Il sert de base au calcul de la participation financière de l'Etat mentionnée à l'article 13 ci-dessus.
+1 Le département définit avec le CHUV un contrat annuel de prestations qui sert de base au calcul de la participation de l'Etat au sens de l'article 13, pour la fourniture, par le CHUV, des prestations cliniques et de santé publique.
+2 Ce contrat fixe notamment les objectifs assignés au CHUV ainsi que ses engagements en matière de quantité, de qualité et de coût des prestations fournies.
+3 Le règlement d'application précise la nature de ces engagements et détermine la procédure d'établissement de ce contrat ainsi que les modalités de son évaluation.
+4 Le département publie annuellement un rapport relatif à l'exécution de ce contrat.
+5 Le contrat de prestations est transmis au Grand Conseil à l'appui de la demande de la participation financière de l'Etat au CHUV.
