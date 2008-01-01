@@ -1,5 +1,5 @@
 # Art. 17b Types
 1 Les formations complémentaires sont :
-- la formation à la maturité professionnelle commerciale ;
-- le cas échéant, la formation à la maturité spécialisée.
-2 Le Conseil d'Etat peut créer la formation à la maturité spécialisée dans la perspective de l'admission aux formations tertiaires des domaines de la santé, de l'enseignement, socio-éducatif et artistique. Il en fixera les modalités d'admission, d'organisation et de délivrance du titre.
+- la formation passerelle permettant aux détenteurs d'une maturité professionnelle d'accéder aux hautes écoles universitaires ;
+- les formations complémentaires en vue de l'admission dans les hautes écoles spécialisées ou à l'école de culture générale du soir.
+2 …

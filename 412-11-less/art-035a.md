@@ -4,5 +4,5 @@
 3 Le Conseil d'Etat détermine par voie réglementaire les conditions et modalités du détachement.
 4 Si l'activité prévue par le contrat de travail ne peut plus être garantie, le directeur en informe le maître et le service, lequel propose une affectation dans un autre établissement aussi proche que possible ou, en collaboration avec le service concerné, un transfert dans un autre service, pour une activité correspondant à la formation et aux capacités du maître.
 5 La décision de détachement, d'une autre affectation ou de transfert dans un autre service revient au chef de service compétent, après que celui-ci a entendu le maître.
-6 En cas d'impossibilité de proposer un détachement, une nouvelle affectation ou un transfert, le chef de service résilie le contrat conformément à l'article 62, alinéa 2 de la Lpers.
+6 En cas d'impossibilité de proposer un détachement, une nouvelle affectation ou un transfert, le chef de département résilie le contrat conformément à l'article 62, alinéa 2 de la Lpers .
 7 Si le maître refuse les propositions (en principe deux) de détachement, de nouvelle affectation ou de transfert qui lui sont faites, le chef de service résilie le contrat conformément à l'article 62, alinéa 2 de la Lpers. L'article 60, alinéa 2 de la Lpers est inapplicable.
