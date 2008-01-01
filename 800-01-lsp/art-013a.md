@@ -1,2 +1,1 @@
-# Art. 13a Commissions sanitaires de zone
-1 Dans chaque zone sanitaire définie par le Plan cantonal des établissements sanitaires, une commission sanitaire de zone est constituée pour permettre la participation des communes, de représentants et responsables de la gestion des établissements sanitaires d'intérêt public, de médecins et d'institutions médico-sociales aux tâches de coordination des activités sanitaires et médico-sociales, ainsi qu'aux tâches de prévention.
+# Art. 13a …
