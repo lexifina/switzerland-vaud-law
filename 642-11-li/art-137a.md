@@ -1,0 +1,4 @@
+# Art. 137a Procédure simplifiée
+1 Pour les petites rémunérations provenant d'une activité lucrative dépendante, l'impôt est prélevé à la source au taux fixe de 4.5 pour cent sans tenir compte des autres revenus, ni d'éventuels frais professionnels ou déductions sociales, à la condition que l'employeur paie l'impôt dans le cadre de la procédure simplifiée prévue aux articles 2 et 3 de la loi fédérale du 17 juin 2005 concernant des mesures en matière de lutte contre le travail au noir (loi fédérale sur le travail au noir LTN).
+2 Les impôts cantonaux et communaux sur le revenu sont ainsi acquittés. Ces revenus ne sont pas pris en compte pour déterminer le taux d'imposition dans la procédure ordinaire de taxation.
+3 Les modalités relatives à la procédure simplifiée édictées par le Conseil fédéral s'appliquent par analogie.

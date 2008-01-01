@@ -53,13 +53,13 @@
 ### Chapitre II Calcul de l'impôt
 #### Section I Sociétés de capitaux et coopératives
 #### Section II Régimes spéciaux
-#### Section III Associations, fondations, autres personnes morales et fonds de placement pour leurs immeubles en propriété directe
+#### Section III Associations, fondations, autres personnes morales et placements collectifs pour leurs immeubles en propriété directe
 ## Titre III Impôt sur le capital
 ### Chapitre I Objet de l'impôt
 #### Section I Principe
 #### Section II Sociétés de capitaux et coopératives
 #### Section III Sociétés de capitaux et coopératives en liquidation
-#### Section IV Associations, fondations, autres personnes morales et fonds de placement pour leurs immeubles en propriété directe
+#### Section IV Associations, fondations, autres personnes morales et placements collectifs pour leurs immeubles en propriété directe
 ### Chapitre II Calcul de l'impôt
 ## Titre IV Imposition dans le temps
 ## Titre V Impôt minimum
