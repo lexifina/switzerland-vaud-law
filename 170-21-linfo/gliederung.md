@@ -8,4 +8,5 @@
 ### Chapitre VI Procédure et droit de recours
 #### Section I Demandes portant sur l'activité de l'administration cantonale
 #### Section II Demandes portant sur les activités du Conseil d'Etat, du Grand Conseil, de l'Ordre judiciaire et des autorités communales
+### Chapitre VIbis Préposé à la protection des données et à l'information
 ### Chapitre VII Dispositions transitoires et finales
