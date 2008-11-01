@@ -1,19 +1,20 @@
 ## Titre I Dispositions générales
 ### Chapitre I But et champ d'application de la loi
 ### Chapitre II Autorités compétentes
+### Chapitre III Base de données informatique
 ## Titre II Emploi et aide aux chômeurs
 ### Chapitre I Placement privé et location de services
 ### Chapitre II Service public de l'emploi et chômage
 #### Section I Organisation
 #### Section II Divers
-### Chapitre III Revenu d'insertion (ci-après : RI) - Mesures cantonales d'insertion professionnelle
+### Chapitre III Revenu d'insertion (ci-après : RI) - Insertion professionnelle
 #### Section I Généralités
 #### Section II Mesures cantonales d'insertion professionnelle
 ##### Sous-section I Stages professionnels cantonaux
 ##### Sous-section II Allocations cantonales d'initiation au travail
 ##### Sous-section III Prestations cantonales de formation
 ##### Sous-section IV Soutien à la prise d'activité indépendante
-##### Sous-section V Allocations cantonales à l'engagement
+##### Sous-section V ...
 ##### Sous-section VI Emplois d'insertion
 #### Section III Suppression des mesures cantonales d'insertion professionnelle
 #### Section IV Evaluation
@@ -34,13 +35,13 @@
 #### Section XI Obligation des parties signataires de conventions collectives de travail
 ### Chapitre II Procédures d'extension du champ d'application des conventions collectives de travail et d'institution de contrats-types de travail
 ## Titre IV Main-d'oeuvre étrangère
-### Chapitre I Exécution de l'OLE et de l'OLCP
+### Chapitre I Exécution de la LEtr et de l'OLCP
 ### Chapitre II Mesures d'accompagnement
-## Titre V Travail illicite
-### Chapitre I Dispositions générales
-### Chapitre II Exécution
-### Chapitre III Mesures et poursuite des infractions
-### Chapitre IV Collaboration
+## Titre V Lutte contre le travail au noir
+### Chapitre I ...
+### Chapitre II ...
+### Chapitre III ...
+## Titre Vbis Collaboration avec des tiers
 ## Titre VI Décisions, oppositions et recours
 ## Titre VII Disposition pénale
 ## Titre VIII Disposition finale et exécution
