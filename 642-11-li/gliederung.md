@@ -106,7 +106,7 @@
 ### Chapitre IV Remise de l'impôt
 ### Chapitre V Garanties
 ### Chapitre VI Prescription du droit de percevoir l'impôt
-### Chapitre VII Recours
+### Chapitre VII Réclamation
 ### Chapitre VIII Dispositions d'application
 ## Partie VI Dispositions pénales
 ## Titre I Violation des obligations de procédure et soustraction d'impôt
