@@ -1,7 +1,7 @@
 ### Chapitre I Disposition générale
 ### Chapitre II Organisation et compétences
 #### Section I Conseil d'Etat
-#### Section II Département de l'intérieur et de la santé publique
+#### Section II Département en charge des affaires vétérinaires
 #### Section III Vétérinaire cantonal
 #### Section IV Vétérinaires-délégués
 #### Section V Vétérinaires
