@@ -1,5 +1,5 @@
 # Art. 149b Responsabilité infirmière
-1 Pour tout établissement sanitaire offrant des soins infirmiers, une infirmière-chef ou une infirmière-conseil garantit les soins infirmiers offerts.
-2 Elle a pour tâche d'organiser le service infirmier, de veiller à ce que l'activité infirmière soit conforme à la législation en la matière, de veiller à ce que les patients reçoivent les soins infirmiers selon leurs besoins. Dans ce cadre, elle collabore avec les directions médicale et administrative de l'établissement ainsi qu'avec le responsable de la surveillance pharmaceutique.
-3 Le règlement précise les exigences en matière de formation et les conditions d'exercice de la fonction.
+1 Les soins infirmiers délivrés dans les établissements sanitaires sont placés sous la responsabilité d'une infirmière responsable qui organise le service infirmier et veille à ce que l'activité infirmière soit conforme à la législation et aux bonnes pratiques. Elle garantit la qualité, la coordination et le développement des soins dispensés dans l'établissement.
+2 Les hôpitaux et les cliniques comportant plusieurs départements ou sites disposent, en plus, d'une personne assumant la direction des soins. Celle-ci veille notamment au développement d'une philosophie et d'une pratique commune des soins entre les sites.
+3 Ces responsables collaborent avec les directions médicale et administrative, ainsi qu'avec le responsable de la surveillance pharmaceutique de l'établissement.
 4 Le règlement précise les exigences en matière de formation et les conditions d'exercice de la fonction.

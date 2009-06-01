@@ -19,8 +19,8 @@
 #### Section I Etablissements sanitaires de droit privé
 #### Section II Etablissements apparentés de droit privé
 #### Section III Etablissements et instituts sanitaires cantonaux
-### Chapitre IX Formation aux professions de la santé
-### Chapitre X Médicaments, vaccins et autres agents thérapeutiques
+### Chapitre IX ...
+### Chapitre X Produits thérapeutiques
 ### Chapitre XI Mesures préparatoires et mesures sanitaires d'urgence
 ### Chapitre XII Dispositions pénales et mesures d'exécution
 ### Chapitre XIII Dispositions transitoires et finales

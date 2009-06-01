@@ -1,2 +1,1 @@
-# Art. 151b Mesures provisionnelles
-1 En cas d'urgence, le département peut retirer provisoirement le droit de diriger un établissement au responsable de l'exploitation et retirer au médecin sa qualité de responsable. L'organe compétent de l'établissement dispose alors d'un délai de 1 mois pour remplacer le responsable de l'exploitation ou le médecin responsable. A défaut, le département désigne un responsable de l'exploitation provisoire ou un médecin responsable provisoire.
+# Art. 151b …
