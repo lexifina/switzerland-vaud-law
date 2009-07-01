@@ -3,4 +3,4 @@
 ### Chapitre III Devoirs et droits des fonctionnaires de police envers les tiers
 ### Chapitre IV Résolution des conflits
 ### Chapitre V Organisation
-### Chapitre VI Dispositions finales
+### Chapitre VI Dispositions transitoires et finales
