@@ -32,6 +32,7 @@
 #### Section II Composition
 #### Section III Organisation
 #### Section IV Compétences
+#### Section V Ministère public
 ### Chapitre IV Tribunaux
 #### Section I Principes généraux
 #### Section II Tribunal Cantonal
