@@ -1,0 +1,3 @@
+# Art. 6h Modalités et protection
+1 La surveillance de la personne handicapée ou en grandes difficultés sociales hébergée est renforcée pendant toute la durée de la mesure de contrainte dont le maintien fait l'objet d'évaluations. Un protocole comprenant le but et le type de chaque mesure utilisée ainsi que le nom de la personne responsable, la fréquence et le résultat des évaluations est inséré dans le dossier de la personne handicapée ou en grandes difficultés sociales.
+2 La personne concernée, son représentant légal, sa personne de confiance ou ses proches peuvent s'adresser à la Commission d'examen des plaintes compétente pour demander l'interdiction ou la levée des mesures de contrainte.

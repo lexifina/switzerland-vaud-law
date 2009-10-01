@@ -1,0 +1,3 @@
+# Art. 6b Choix de l'établissement
+1 Chaque personne handicapée ou en grandes difficultés sociales a le droit, si son état le justifie d'être accueillie dans un établissement socio-éducatif de son choix, pour autant que les prestations fournies correspondent de manière adéquate à ses besoins, et que l'équipement et la capacité d'accueil de cet établissement le permettent.
+2 Après consultation du milieu institutionnel et des associations de défense des personnes en situation de handicap, le département peut recourir à un service ou un organisme chargé d'évaluer le besoin du placement en établissement socio-éducatif en fonction des problématiques de chaque bénéficiaire.

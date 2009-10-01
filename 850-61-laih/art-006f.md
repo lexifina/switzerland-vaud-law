@@ -1,0 +1,4 @@
+# Art. 6f Accès au dossier
+1 La personne handicapée ou en grandes difficultés sociales personnellement ou par son représentant légal, a le droit de consulter son dossier et de s'en faire expliquer la signification. Elle peut s'en faire remettre en principe gratuitement les pièces, en original ou en copie.
+2 Ce droit ne s'étend pas aux notes rédigées par les professionnels de l'établissement exclusivement pour leur usage personnel, ni aux données concernant des tiers couvertes par le secret professionnel.
+3 Si le professionnel concerné de l'établissement a des raisons de craindre que la consultation du dossier puisse avoir de graves conséquences pour la personne handicapée ou en grandes difficultés sociales, il peut demander que la consultation n'ait lieu qu'en sa présence ou celle d'un autre professionnel désigné par la personne handicapée ou en grandes difficultés sociales.

@@ -1,0 +1,5 @@
+# Art. 6c Conseil et assistance
+1 Toute personne séjournant dans un établissement socio-éducatif soumis à la présente loi a droit à une assistance et à des conseils pendant toute la durée de son séjour. Elle a le droit en particulier de requérir le soutien de ses proches et de maintenir le contact avec son entourage.
+2 Des organismes indépendants à but non lucratif reconnus par le département offrent leur assistance et leurs conseils aux personnes en établissement et ce, à titre gratuit. Ils peuvent à cet effet désigner des accompagnants, ainsi qu'organiser et coordonner leurs activités. Les établissements tiennent à disposition des personnes handicapées ou en grandes difficultés sociales une liste à jour de ces accompagnants.
+3 A la demande d'une personne handicapée ou en grandes difficultés sociales, une personne de confiance peut l'assister dans ses démarches auprès des professionnels de l'établissement socio-éducatif et des autorités qui ne peuvent refuser sa présence.
+4 Si la personne handicapée ne dispose pas de sa capacité de discernement, sa personne de confiance ne peut exercer aucune forme de représentation, sous réserve de l'article 6e.
