@@ -1,0 +1,3 @@
+# Art. 11b Garantie de l'Etat
+1 Si l'expert technique constate que les RP ne peuvent faire face durablement à leurs engagements et que les intérêts des assurés paraissent menacés, l'Etat supporte l'intérêt du découvert à un taux supérieur de ¼ % au taux technique.
+2 En contrepartie du risque assumé selon l'alinéa 1er ci-dessus, les RP versent à l'Etat une contribution annuelle correspondant à 0.25% de la différence entre le montant de la réserve de fluctuation de valeurs nécessaire et celui de la réserve effective au bouclement des comptes de l'exercice précédent. Le Conseil d'Etat règle les modalités, après consultation des RP.
