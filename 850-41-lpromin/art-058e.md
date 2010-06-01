@@ -1,0 +1,2 @@
+# Art. 58e Modification des prestations
+1 Toute modification notamment du concept de prise en charge, du contenu des prestations, du nombre de places d'une institution d'éducation spécialisée ou du nombre de prestations subventionnées tels que décrits dans le contrat de prestations, la convention de subventionnement, ou la décision d'octroi de subvention, fait l'objet d'un avenant conclu d'entente entre les parties.
