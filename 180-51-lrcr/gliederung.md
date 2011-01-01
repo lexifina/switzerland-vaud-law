@@ -4,4 +4,5 @@
 ### Chapitre IV Procédure
 ### Chapitre V Suivi et contrôle des conditions d'octroi
 ### Chapitre VI Sanctions
+### Chapitre VIbis Divers
 ### Chapitre VII Dispositions finales
