@@ -40,6 +40,7 @@
 ### Chapitre XI Publication et archives
 ### Chapitre XII Elections
 #### Section I Elections judiciaires
+#### Section Ibis Election du procureur général
 #### Section II Election des membres de la Cour des comptes
 #### Section III Commission de présentation
 ### Chapitre XIII Dispositions transitoires et finales
