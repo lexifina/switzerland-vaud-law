@@ -5,4 +5,4 @@ b. de verser périodiquement les impôts à la caisse de compensation AVS compé
 2 L'impôt est également retenu lorsque le travailleur ou la travailleuse est domicilié ou en séjour dans un autre canton.
 3 L'employeur répond du paiement de l'impôt.
 4 La caisse de compensation AVS remet au contribuable un relevé ou une attestation indiquant le montant de l'impôt retenu. Elle verse les impôts encaissés à l'autorité fiscale compétente.
-5 Le droit à une commission de perception selon l'article 135, alinéa 5, est transféré à la caisse de compensation AVS compétente.
+5 Le droit à une commission de perception selon l'article 135, alinéa 4, est transféré à la caisse de compensation AVS compétente.

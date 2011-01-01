@@ -1,3 +1,3 @@
 # Art. 277a Principes régissant l'établissement des barèmes de l'impôt à la source
 1 Pour la période fiscale 2004, les coefficients cantonal et communal prévus à l'article 132, alinéa 2, dernière phrase, sont déterminés par le décret du 2 juillet 2003 réglant les détails suite à la suppression du compte de régulation et de l'aide scolaire aux communes dans le cadre du projet EtaCom (bascule) .
-2 Pour la période fiscale 2011, les coefficients cantonal et communal prévus à l'article 132, alinéa 2, dernière phrase, sont ceux fixés par l'article 9 du décret du 15 juin 2010 fixant pour les années 2011 à 2018 les modalités d'application de la loi sur les péréquations intercommunales.
+2 Pour la période fiscale 2011, les coefficients cantonal et communal prévus à l'article 132, alinéa 2, dernière phrase, sont ceux fixés par l'article 9 du décret du 15 juin 2010 fixant pour les années 2011 à 2018 les modalités d'application de la loi sur les péréquations intercommunales .
