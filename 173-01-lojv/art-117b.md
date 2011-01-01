@@ -1,2 +1,1 @@
-# Art. 117b
-1 La disposition qui précède ne s'applique pas: aux jugements en contradictoire et arrêts sur recours rendus par l'une des sections du Tribunal cantonal;aux décisions de toute nature rendues dans une procédure intéressant l'état ou la capacité des personnes;aux décisions de toute nature rendues en matière non contentieuse;aux décisions incidentes non susceptibles de recours immédiat;aux décisions des commissions préfectorales de conciliation en matière de baux;ainsi que dans les cas expressément prévus par la loi.
+# Art. 117b …

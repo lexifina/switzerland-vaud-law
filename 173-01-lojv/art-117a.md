@@ -1,4 +1,1 @@
-# Art. 117a
-1 En matière civile et sous réserve des exigences du droit fédéral, les jugements au fond et incidents, les ordonnances et arrêts sur mesures provisionnelles, les prononcés ne sont motivés ni en fait ni en droit. Seul le dispositif est notifié d'office aux parties, dans un délai de quinze jours dès l'audience ou l'échéance du délai fixé pour le dépôt de déterminations écrites.
-2 Cette notification indique, en lieu et place de l'avis du délai, de l'autorité et de la forme du recours ou de l'appel, que les parties ont le droit de requérir la motivation dans un délai de dix jours, faute de quoi la décision deviendra définitive et exécutoire. S'agissant d'un jugement par défaut, il est également fait mention des conditions du droit au relief.
-3 Si la motivation est requise, la décision est notifiée selon les formes et avec les avis prévus par la loi. Dans ce cas, le délai de recours ou d'appel commence à courir dès cette notification pour toutes les parties.
+# Art. 117a …

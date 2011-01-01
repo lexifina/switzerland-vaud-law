@@ -12,9 +12,10 @@
 ### Chapitre I Le Tribunal cantonal
 ### Chapitre II Le Tribunal neutre
 ### Chapitre III Les tribunaux d'arrondissement
-### Chapitre IV Les jurés
-### Chapitre V Le juge d'instruction cantonal
-### Chapitre VI Les juges d'instruction
+### Chapitre IIIbis La Chambre patrimoniale cantonale
+### Chapitre IV ...
+### Chapitre V ...
+### Chapitre VI ...
 ### Chapitre VII Les justices de paix
 ### Chapitre VIII ...
 ## Titre III Dispositions complémentaires sur la compétence et la procédure
