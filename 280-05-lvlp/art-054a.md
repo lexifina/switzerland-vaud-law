@@ -1,2 +1,1 @@
-# Art. 54a
-1 En matière de faillite et de concordat et en matière de reconnaissance d'une décision étrangère, le prononcé est publié (art. 35 LP et 169 LDIP) dans les cas prévus par la législation fédérale et communiqué au débiteur, ainsi qu'aux créanciers qui se sont opposés à l'octroi d'un sursis concordataire ou à l'homologation du concordat et aux parties intéressées qui se sont opposées à la reconnaissance de la décision étrangère.
+# Art. 54a …
