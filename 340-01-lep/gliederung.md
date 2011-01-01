@@ -15,7 +15,7 @@
 ## Titre IV Voies de recours
 ### Chapitre I Auprès du Service pénitentiaire
 ### Chapitre II Auprès du juge d'application des peines
-### Chapitre III Auprès de la cour de cassation du Tribunal cantonal
+### Chapitre III Auprès de la Chambre des recours pénale
 ## Titre V Dispositions finales
 ## Titre VI Dispositions en vigueur de la Loi du 18 septembre 1973 sur l'exécution des condamnations pénales et de la détention préventive
 #### Section III Personnel des établissements
