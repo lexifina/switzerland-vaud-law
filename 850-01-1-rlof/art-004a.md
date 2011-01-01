@@ -1,0 +1,2 @@
+# Art. 4a Aide aux études et à la formation professionnelle (Art. 10, al. 1, lit. b et c LOF)
+1 En matière d'aide aux études et à la formation professionnelle, le Conseil participe à titre consultatif à l'élaboration des règlements d'application, de même qu'il est informé et consulté lors de décisions importantes, uniquement si ces règlements et décisions comportent des options ayant des incidences financières pour les communes.
