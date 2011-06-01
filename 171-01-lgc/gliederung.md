@@ -16,6 +16,7 @@
 ##### Sous-section I Dispositions générales et communes aux commissions en matière de gestion et de finances
 ##### Sous-section II Commission de gestion
 ##### Sous-section III Commission des finances
+#### Section IIbis Commission de haute surveillance
 #### Section III Commissions thématiques
 #### Section IV Commission thématique en charge des affaires extérieures
 #### Section V Commissions ad hoc
