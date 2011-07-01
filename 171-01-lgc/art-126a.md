@@ -1,0 +1,5 @@
+# Art. 126a Procédure de traitement de la motion par une commission
+1 Lorsque la motion prise en considération est renvoyée à une commission, le Bureau du Grand Conseil met en oeuvre cette dernière.
+2 La commission est chargée de présenter directement au Grand Conseil dans le délai fixé par ce dernier un rapport et un projet de loi ou de décret. Elle dispose à cet effet des appuis techniques nécessaires qui peuvent lui être fournis, notamment par l'administration, sous réserve, dans ce cas, d'un refus motivé du Conseil d'Etat. Elle requiert les avis extérieurs qui lui paraissent nécessaires.
+3 La commission peut consulter les milieux intéressés sur son projet de loi ou de décret. Elle consulte d'office le Conseil d'Etat. Celui-ci remet son avis dans le délai fixé par la commission, qui est de deux mois au moins.
+4 L'avis du Conseil d'Etat est transmis au Grand Conseil. Le cas échéant, le Conseil d'Etat peut adresser des déterminations complémentaires au Grand Conseil, en vue des débats.

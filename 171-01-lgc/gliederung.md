@@ -43,5 +43,6 @@
 #### Section I Elections judiciaires
 #### Section Ibis Election du procureur général
 #### Section II Election des membres de la Cour des comptes
+#### Section IIbis Election des assesseurs
 #### Section III Commission de présentation
 ### Chapitre XIII Dispositions transitoires et finales
