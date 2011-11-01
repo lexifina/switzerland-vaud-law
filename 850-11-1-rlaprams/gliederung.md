@@ -5,7 +5,7 @@
 #### Section II Unité d'accueil temporaire
 #### Section III Logement protégé
 #### Section IV Court séjour
-### Chapitre II Subvention aux organismes favorisant l'aide et le maintien à domicile
+### Chapitre II Subvention aux organismes favorisant l'aide et le maintien à domicile et aux établissements médico-sociaux pour les prestations de maintien à domicile
 ## Titre III Hébergement en établissement médico-social et en home non médicalisé
 ### Chapitre I Dispositions générales
 ### Chapitre II Prestations
