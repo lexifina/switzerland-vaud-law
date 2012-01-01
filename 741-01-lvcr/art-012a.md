@@ -1,0 +1,2 @@
+# Art. 12a Communes sans police communale
+1 Dans les communes dépourvues de police communale, la municipalité peut habiliter aux conditions prévues par le règlement un ou plusieurs de ses membres ou employés à constater et dénoncer, à l'intérieur des localités du territoire communal et sur les routes et chemins communaux du territoire communal, selon les règles ordinaires de la procédure en matière de sentences municipales, les contraventions aux règles de stationnement des véhicules commises à l'intérieur des localités définies par le règlement.
