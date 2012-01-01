@@ -11,6 +11,7 @@
 #### Section Ibis Devoirs des bénéficiaires RI suivis par l'ORP et sanctions
 #### Section II Mesures cantonales d'insertion professionnelle
 #### Section III Suppression des mesures cantonales d'insertion professionnelle
+#### Section IV Subventionnement
 ## Titre III Protection des travailleurs
 ### Chapitre I Dispositions générales
 ### Chapitre II Procédures d'extension du champ d'application des conventions collectives de travail et d'institution de contrats-types de travail
