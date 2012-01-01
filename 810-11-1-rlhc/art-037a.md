@@ -1,0 +1,3 @@
+# Art. 37a Rénovations et transformations d'immeubles à charge du CHUV
+1 Le Grand Conseil accorde, par la voie du budget de fonctionnement de l'Etat, les moyens destinés au financement des rénovations et transformations d'immeubles comprises entre 1 et 8 millions à charge du CHUV, selon l'article 14, alinéa 1a LHC.
+2 Le CHUV transmet pour information, chaque année jusqu'au 31 mars, la liste des investissements de rénovations et de transformations inférieurs à 8 millions décidés et effectués au cours de l'année écoulée, ainsi que les investissements prévus au cours des 5 prochaines années, au Conseil d'Etat, ainsi qu'aux Commissions de gestion et des finances du Grand Conseil.
