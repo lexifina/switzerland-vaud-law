@@ -1,2 +1,3 @@
-# Art. 32d f) obligation de renseigner (art. 3 loi)
-1 Dans le cadre de la procédure de recouvrement des primes, franchises et quote-parts prévue aux articles 31, 32a et 32b, les assureurs sont tenus de mettre à disposition de l'OCC tout justificatif qu'il peut exiger. Si nécessaire, l'OCC peut procéder à toute vérification utile, notamment comptable, auprès des assureurs.
+# Art. 32d f) contrôles
+1 L'organe de révision externe de l'assureur, au sens de l'article 86 OAMal , exerce en principe la fonction d'organe de contrôle au sens de l'article 64a, alinéa 3, LAMal . Afin de garantir la bonne et fidèle exécution de cette tâche, l'OVAM peut désigner une autre instance comme organe de contrôle.
+2 L'OVAM peut effectuer des contrôles des décomptes de contentieux de l'assureur, directement dans les locaux de ce dernier. Le contrôle se fait en principe par pointage. L'assureur est tenu de collaborer en fournissant à l'OVAM tous les documents et informations nécessaires au contrôle.

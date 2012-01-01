@@ -1,11 +1,11 @@
-## Titre I Organe cantonal de contrôle de l'assurance en cas de maladie et d'accidents (OCC)
+## Titre I Office vaudois de l'assurance-maladie (OVAM)
 ### Chapitre I Organisation
 ### Chapitre II Tâches
 ### Chapitre III ...
 ### Chapitre IV Affiliation, dispenses et données statistiques
-## Titre II Subsides individuels et recouvrement des primes, franchises et quotes-parts de l'assurance obligatoire des soins
+## Titre II Subsides et non-paiement des arriérés de primes et de participation aux coûts
 ### Chapitre I Bénéficiaires
 ### Chapitre II Calcul du subside et cas spéciaux
 ### Chapitre III Octroi des subsides
-### Chapitre IV Recouvrement des primes, franchises et quotes-parts
+### Chapitre IV Non-paiement des primes et des participations aux coûts
 ## Titre III Dispositions finales

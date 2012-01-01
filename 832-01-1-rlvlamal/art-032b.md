@@ -1,3 +1,3 @@
-# Art. 32b d) prise en charge par l'OCC
-1 Conformément à l'article 23 de la loi, l'OCC prend en charge les primes et la participation aux coûts des assurés, si l'assureur a fait preuve de diligence et pour autant que le cas soit digne d'intérêt au sens des critères de la condition économique modeste, tels que définis par les articles 9 de la loi et 17 du présent règlement.
-2 L'OCC définit la notion de diligence dans une directive.
+# Art. 32b d) rapport trimestriel
+1 L'assureur renseigne l'OVAM par courrier chaque fin de trimestre (31.03., 30.06., 30.09., 31.12.) sur l'évolution globale du contentieux depuis le début de l'année considérée. Simultanément, l'assureur transmet par voie électronique les fichiers informatiques correspondants selon un format défini par l'office.
+2 …
