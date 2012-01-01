@@ -15,9 +15,10 @@
 ##### Sous-section III Prestations cantonales de formation
 ##### Sous-section IV Soutien à la prise d'activité indépendante
 ##### Sous-section V ...
-##### Sous-section VI Emplois d'insertion
+##### Sous-section VI Programmes d'insertion
 #### Section III Suppression des mesures cantonales d'insertion professionnelle
 #### Section IV Evaluation
+#### Section V Subventionnement
 ### Chapitre IV Financement et contrôles
 ### Chapitre V Procédure en cas de licenciements
 ## Titre III Protection des travailleurs
