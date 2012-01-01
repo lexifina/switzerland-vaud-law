@@ -1,4 +1,1 @@
-# Art. 26e Investissements périodiques des hôpitaux privés reconnus d'intérêt public
-1 Les dépenses supportées par l'Etat au titre de la prise en charge des investissements périodiques et des investissements informatiques des hôpitaux privés reconnus d'intérêt public sont considérées comme des dépenses d'investissement au sens de l'article 24 de la loi sur les finances. Elles sont inscrites au budget d'investissement.
-2 Constituent des investissements périodiques les investissements annuels d'un montant par objet compris entre Fr. 15'000.- et Fr. 1'000'000.- et qui portent sur des objets techniques (non médicaux) et médico-techniques nécessaires pour assurer la continuité et la sécurité des soins et la poursuite des activités des hôpitaux dans le cadre de leur mission.
-3 Le Conseil d'Etat peut prévoir des exceptions au régime qui précède pour les investissements périodiques et des investissements informatiques des hôpitaux privés reconnus d'intérêt public au bénéfice d'une convention avec les Hospices cantonaux.
+# Art. 26e …

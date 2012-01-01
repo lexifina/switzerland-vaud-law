@@ -1,0 +1,9 @@
+# Art. 4h Contrôle des investissements
+1 Les hôpitaux d'intérêt public sont responsables de la gestion de leurs investissements dans les limites fixées par le mandat de prestations.
+2 Pour contribuer à assurer la maîtrise de l'évolution des dépenses, les décisions d'investissement structurel ou en grands appareils qui ont un effet sur la localisation, la dimension et la nature de l'offre hospitalière, sont soumises au contrôle du Conseil d'Etat. Celui-ci fixe les critères qui déterminent les investissements concernés. Ces critères tiennent notamment compte du volume d'activité des hôpitaux et sont différenciés selon que l'investissement porte sur l'achat d'équipements ou sur l'infrastructure immobilière.
+3 Sous réserve d'un accord partenarial conclu entre le département et les hôpitaux, le contrôle du Conseil d'Etat sur ces investissements s'exerce selon les modalités suivantes :
+a. Chaque hôpital soumet tous les cinq ans au Conseil d'Etat pour approbation un programme pluriannuel des investissements prévus. Ces programmes font l'objet d'un rapport consolidé soumis au Grand Conseil.
+b. Le département contrôle régulièrement la bonne exécution du programme pluriannuel, en particulier dans le cadre de l'évaluation et du suivi du contrat de prestations passé avec l'hôpital concerné.
+4 Le département contrôle en outre que les hôpitaux respectent les règles fixées par le Conseil d'Etat en matière de comptabilisation des ressources d'investissement, d'amortissement et d'entretien. Chaque hôpital doit à cet égard constituer un fonds de rénovation et provisionner les montants non utilisés, selon les modalités définies par le Conseil d'Etat.
+5 Les hôpitaux doivent fournir au département les informations nécessaires à la mise en œuvre du présent article, conformément aux dispositions arrêtées par le Conseil d'Etat.
+6 Les modalités spécifiques de contrôle des investissements prévues par la loi sur les Hospices cantonaux sont réservées.
