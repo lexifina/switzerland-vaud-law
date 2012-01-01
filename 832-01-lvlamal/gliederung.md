@@ -1,8 +1,8 @@
 ## Titre I Assurance-maladie sociale
 ### Chapitre I Dispositions générales
-### Chapitre II Organe cantonal de contrôle de l'assurance en cas de maladie et d'accidents (OCC)
+### Chapitre II Office vaudois de l'assurance-maladie (OVAM)
 ### Chapitre III Affiliation et données statistiques
-## Titre II Subsides individuels et recouvrement des primes, franchises et quotes-parts de l'assurance obligatoire des soins
+## Titre II Subsides et non-paiement des arriérés de primes et de participations aux coûts
 ### Chapitre I Principes généraux
 ### Chapitre II Subsides
 ### Chapitre III Recouvrement des primes, franchises et quotes-parts
