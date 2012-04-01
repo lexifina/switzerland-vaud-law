@@ -1,0 +1,5 @@
+# Art. 19j Collaboration à l'établissement des faits
+1 L'assuré qui fait valoir son droit aux prestations est tenu de fournir gratuitement tous les renseignements nécessaires pour établir ce droit et déterminer les prestations dues.
+2 Il est notamment tenu d'autoriser dans des cas particuliers toutes les personnes ou institutions, notamment les employeurs, les médecins, les assurances et organes officiels, à fournir des renseignements, pour autant que ceux-ci soient nécessaires pour établir le droit aux prestations.
+3 Il doit apporter la preuve de son incapacité de travail en produisant un certificat médical. Le Service peut en tout temps ordonner, aux frais de l'APGM, un examen médical par un médecin-conseil.
+4 Si l'assuré refuse de collaborer dans la mesure prévue aux alinéas 1 à 3, le Service peut se prononcer en l'état du dossier. Au préalable, il doit avoir adressé à l'assuré une mise en demeure écrite l'avertissant des conséquences de son refus et lui impartissant un délai de réflexion convenable.

@@ -1,0 +1,6 @@
+# Art. 19q Subsidiarité des prestations de l'APGM
+1 Les prestations de l'APGM sont subsidiaires à celles versées à l'assuré par d'autres assurances sociales ou privées ou par des employeurs en couverture d'une diminution de sa capacité de gain durant la période concernée (prestations de tiers). L'assuré qui bénéficie de prestations de tiers doit en informer immédiatement le Service.
+2 Le montant des prestations de tiers versées à l'assuré est déduit du montant des prestations de l'APGM auxquelles il a droit pour la période concernée. Si l'assuré reçoit des prestations de l'APGM et que son droit à des prestations de tiers pour la même période est établi ultérieurement, la part des prestations de l'APGM qui correspond à une surindemnisation doit être restituée.
+3 Les prestations qui doivent être restituées en vertu de l'alinéa 2 sont considérées comme des avances de l'APGM sur les prestations de tiers dont l'assuré bénéficie. Pour obtenir leur remboursement, le Service peut :
+a. en réclamer la restitution à l'assuré. L'article 19r est applicable ;
+b. demander aux assurances sociales ou privées ou aux employeurs concernés de lui verser directement des prestations qu'ils doivent à l'assuré, à concurrence du montant des avances faites par l'APGM sur ces prestations, l'Etat étant alors subrogé aux droits de l'assuré envers ces organismes pour ce montant.

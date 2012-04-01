@@ -1,3 +1,3 @@
 # Art. 7a Base de données informatique
-1 Le Service gère une base de données unique pour tout le canton lui permettant d'assurer de manière efficace les tâches qui lui incombent en vertu de la présente loi.
-2 La législation en matière de protection des données est réservée. Le règlement d'application fixe des règles relatives à la constitution, au contenu et aux conditions d'utilisation de la base de données.
+1 Le Service gère des bases de données pour tout le canton lui permettant d'assurer de manière efficace les tâches qui lui incombent en vertu de la présente loi.
+2 La législation en matière de protection des données est réservée. Le règlement d'application fixe des règles relatives à la constitution, au contenu et aux conditions d'utilisation des bases de données.

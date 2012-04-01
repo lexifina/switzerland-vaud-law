@@ -7,6 +7,12 @@
 ### Chapitre II Service public de l'emploi et chômage
 #### Section I Organisation
 #### Section II Divers
+### Chapitre IIa Assurance perte de gain maladie pour les bénéficiaires d'indemnités de chômage
+#### Section I Généralités
+#### Section II Prestations
+#### Section III Obligations de l'assuré
+#### Section IV Financement de l'assurance
+#### Section V Dispositions diverses
 ### Chapitre III Revenu d'insertion (ci-après : RI) - Insertion professionnelle
 #### Section I Généralités
 #### Section II Mesures cantonales d'insertion professionnelle
@@ -43,6 +49,6 @@
 ### Chapitre II ...
 ### Chapitre III ...
 ## Titre Vbis Collaboration avec des tiers
-## Titre VI Décisions, oppositions et recours
+## Titre VI Procédure
 ## Titre VII Disposition pénale
 ## Titre VIII Disposition finale et exécution
