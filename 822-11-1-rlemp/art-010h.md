@@ -1,0 +1,2 @@
+# Art. 10h Versement des prestations APGM pendant une période de délai d'attente ou de suspension du droit aux indemnités de chômage (Art. 19i, al. 3 LEmp)
+1 Si, au terme de l'incapacité de travail, l'assuré doit encore subir une période de délai d'attente ou le solde d'une période de suspension du droit aux indemnités de chômage, il a droit, à l'issue de celles-ci, au versement des prestations qui avait été suspendu en application de l'article 19i, alinéa 3 LEmp.

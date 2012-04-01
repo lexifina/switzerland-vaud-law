@@ -6,6 +6,11 @@
 ### Chapitre I Service public de l'emploi et chômage
 #### Section I ORP
 #### Section II Commission tripartite ORP
+### Chapitre Ibis Assurance perte de gain maladie pour les bénéficiaires d'indemnités de chômage (APGM)
+#### Section I Généralités
+#### Section II Prestations
+#### Section III Financement de l'assurance
+#### Section IV Dispositions diverses
 ### Chapitre II Revenu d'insertion (ci-après : RI) - Insertion professionnelle
 #### Section I Compétences et collaboration
 #### Section Ibis Devoirs des bénéficiaires RI suivis par l'ORP et sanctions
