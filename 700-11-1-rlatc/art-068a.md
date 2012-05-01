@@ -14,6 +14,7 @@ a. les constructions et les installations de minime importance ne servant pas à
 - fontaines, sculptures, cheminées de jardin autonomes ;
 - sentiers piétonniers privés ;
 - panneaux solaires d'une surface maximale de 8 m² ;
+- panneaux solaires d'une surface maximale de 32 m² intégrés dans le plan du toit et ne dépassant pas de plus de 10 cm la couverture de celui-ci ;
 b. les aménagements extérieurs, les excavations et les travaux de terrassement de minime importance tels que
 - clôtures ne dépassant pas 1,20 m de hauteur ;
 - excavations et travaux de terrassement ne dépassant pas la hauteur de 0,50 m et le volume de 10 m³ ;
