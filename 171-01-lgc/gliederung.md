@@ -19,6 +19,7 @@
 #### Section IIbis Commission de haute surveillance
 #### Section III Commissions thématiques
 #### Section IV Commission thématique en charge des affaires extérieures
+#### Section IVbis Commission des visiteurs du Grand Conseil
 #### Section V Commissions ad hoc
 #### Section VI Commission de rédaction
 #### Section VII Commission d'enquête parlementaire

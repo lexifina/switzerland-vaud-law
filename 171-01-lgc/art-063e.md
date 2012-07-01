@@ -1,0 +1,6 @@
+# Art. 63e Moyens
+1 La commission a librement accès, en toutes circonstances, à tous les locaux des lieux de détention qu'elle visite ainsi qu'à tous les documents concernant les détenus dont elle surveille les conditions de détention.
+2 Elle peut procéder à toutes les investigations, et notamment aux auditions, qu'elle juge utiles. A cette fin, elle est en droit d'obtenir du Conseil d'Etat, de l'administration cantonale ou des personnes exerçant des tâches publiques déléguées par l'Etat, les informations utiles à l'accomplissement de sa mission et à la présentation de son rapport annuel au Grand Conseil.
+3 Lorsqu'elle s'adresse directement à l'administration cantonale ou à des personnes exerçant des tâches publiques déléguées par l'Etat, elle en informe au préalable le chef du département concerné. Celui-ci peut demander à être entendu avant que la commission ne procède à l'investigation envisagée et, exceptionnellement, à y participer, sous réserve des visites inopinées.
+4 En cas d'urgence et après en avoir débattu en séance de commission, celle-ci transmet toute recommandation ou observation qu'elle estime justifiée à l'autorité compétente.
+5 Si durant son activité, la commission découvre des éléments importants relevant du mandat de la commission de gestion du Grand Conseil, elle adresse des observations à cette dernière.

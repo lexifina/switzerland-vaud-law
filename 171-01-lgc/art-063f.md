@@ -1,0 +1,5 @@
+# Art. 63f Visites régulières
+1 La commission, ou une délégation de celle-ci, procède, une fois par année en principe, à la visite des établissements sis à l'intérieur et hors du canton où se trouvent des personnes ayant fait l'objet d'une décision visée à l'article 63d, alinéa 1 de la présente loi. Elle établit un programme de visites.
+2 La Direction du lieu de détention informe, au moins 5 jours à l'avance, les personnes privées de liberté de la visite de la commission en affichant dans l'établissement un avis de visite qui indique la date prévue et décrit les compétences de la commission.
+3 Lorsqu'elle s'apprête à visiter un établissement pénitentiaire concordataire situé dans un autre canton, la commission en informe le Service pénitentiaire cantonal, qui en fait immédiatement part à la Direction de l'établissement concerné en la chargeant d'en informer les personnes privées de liberté placées par les autorités vaudoises.
+4 Si elle le juge utile, la commission peut se faire accompagner par le chef du Service pénitentiaire ou du directeur de l'établissement pénitentiaire visité, moyennant l'accord du canton dont ils relèvent.
