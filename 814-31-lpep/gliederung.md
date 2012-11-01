@@ -8,7 +8,7 @@
 ### Chapitre II Exécution des installations collectives
 ### Chapitre III Exploitation et entretien des installations d'épuration
 ## Titre VI Ouvrages intercommunaux
-## Titre VII Installations d'entreposage de liquides
+## Titre VII Installations contenant des liquides de nature à polluer les eaux
 ## Titre VIII Centre de ramassage des liquides
 ## Titre IX Expropriation
 ## Titre X Secteurs, zones et périmètres de protection des eaux souterraines
