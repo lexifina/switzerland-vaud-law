@@ -8,4 +8,4 @@
 ##### Sous-section I Organisation, obligation de renseigner et financement
 ##### Sous-section II Restitution et disposition pénale
 ##### Sous-section III Procédure et voies de droit
-#### Section V DISPOSITION FINALE
+#### Section V DISPOSITIONS FINALES ET TRANSITOIRES
