@@ -1,6 +1,6 @@
 ## Titre I Prestations en application de la loi fédérale sur les allocations familiales (lafam)
 ### Chapitre I Disposition générale
-### Chapitre II Salariés exerçant une activité lucrative non agricole
+### Chapitre II Salariés exerçant une activité lucrative non agricole et personnes exerçant une activité lucrative indépendante non agricole
 ### Chapitre III Personnes sans activité lucrative
 ## Titre II Prestations cantonales
 ### Chapitre I ...
