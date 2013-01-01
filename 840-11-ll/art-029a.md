@@ -1,0 +1,2 @@
+# Art. 29a
+1 Pour l'attribution d'un logement liée à l'aide à la pierre et pour l'aide individuelle au logement au sens des articles 28 et 29, la loi sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises est applicable en ce qui concerne le calcul du revenu déterminant, la composition de l'unité économique de référence et la hiérarchisation des prestations sociales.
