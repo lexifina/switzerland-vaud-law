@@ -1,0 +1,2 @@
+# Art. 24b Désignation du curateur
+1 Lorsque l'autorité judiciaire ou l'autorité de protection de l'enfant entend confier au service une curatelle éducative, une curatelle de surveillance des relations personnelles ou de représentation en application des articles 21, 22 et 24 de la présente loi, elle désigne nommément un collaborateur du service chargé de l'exécution de la curatelle, sur proposition de ce dernier.
