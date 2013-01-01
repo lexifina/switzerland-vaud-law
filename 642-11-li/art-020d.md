@@ -1,0 +1,2 @@
+# Art. 20d Imposition proportionnelle
+1 Si le contribuable n'était ni domicilié ni en séjour en Suisse au regard du droit fiscal pendant tout l'intervalle entre l'acquisition et la naissance du droit d'exercice de l'option de collaborateur non négociable (art. 20b, al. 3), les avantages appréciables en argent dérivant de cette option sont imposés proportionnellement au rapport entre la totalité de cet intervalle et la période passée en Suisse.

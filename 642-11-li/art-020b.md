@@ -1,0 +1,4 @@
+# Art. 20b Revenus provenant de participations de collaborateur proprement dites
+1 Les avantages appréciables en argent dérivant de participations de collaborateur proprement dites, excepté les options non négociables ou non cotées en bourse, sont imposables à titre de revenu d'une activité lucrative salariée au moment de leur acquisition. La prestation imposable correspond à la valeur vénale de la participation diminuée, le cas échéant, de son prix d'acquisition.
+2 Lors du calcul de la prestation imposable des actions de collaborateur, il est tenu compte des délais de blocage par un escompte de 6% sur la valeur vénale des actions par année de blocage. L'escompte est limité à dix ans.
+3 Les avantages appréciables en argent provenant d'options de collaborateur non négociables ou non cotées en bourse sont imposés au moment de l'exercice des options. La prestation imposable est égale à la valeur vénale de l'action moins le prix d'exercice.

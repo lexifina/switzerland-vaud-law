@@ -84,7 +84,7 @@
 #### Section IV Renseignements de tiers
 #### Section V Informations de tiers
 ### Chapitre III Taxation
-### Chapitre IV Tableau des contribuables
+### Chapitre IV Résultats de la taxation
 ### Chapitre V Réclamation
 ### Chapitre VI Demandes d'exonération de l'impôt
 ## Titre IV Procédure en cas de perception de l'impôt à la source
