@@ -1,2 +1,2 @@
 # Art. 25c Obligations des institutions d'éducation spécialisée
-1 Le règlement détermine dans quelle mesure le département, par le SPJ, peut obliger une institution, avec laquelle il a conclu un contrat de prestations au sens de l'article 25a, après avoir entendu la direction, à accueillir un mineur au bénéfice d'une mesure de protection confiée au SPJ par l'autorité judiciaire ou prise en accord avec les parents.
+1 Le règlement détermine dans quelle mesure le service peut obliger une institution, avec laquelle il a conclu un contrat de prestations au sens de l'article 25a, après avoir entendu la direction, à accueillir un mineur au bénéfice d'une mesure de protection confiée au service par l'autorité judiciaire ou prise en accord avec les parents.
