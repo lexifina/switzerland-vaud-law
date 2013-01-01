@@ -10,4 +10,5 @@
 ### Chapitre VIII Procédure applicable à la répression des infractions de droit cantonal
 ### Chapitre IX Décisions judiciaires ultérieures
 ### Chapitre X Frais
-### Chapitre XI Dispositions finales
+### Chapitre XI De la grâce
+### Chapitre XII Dispositions finales
