@@ -6,6 +6,7 @@
 a. elle instruit les plaintes citées aux alinéas 2 et 3 ci-dessus et, dans la mesure du possible, tente la conciliation entre les parties ;
 b. elle peut demander aux professionnels de la santé et aux établissements sanitaires toutes les informations utiles à l'exécution de sa tâche ;
 c. elle transmet au chef du département son préavis sur les mesures à prendre ainsi que ses éventuelles recommandations ;
-d. elle peut ordonner la cessation des violations caractérisées des droits que la LSP reconnaît aux patients et résidents, notamment en matière de contrainte ;
+d. elle peut ordonner la cessation des violations caractérisées des droits que la LSP reconnaît aux patients et résidents, en particulier en matière de contrainte (art. 23b à 23e LSP) ;
 e. elle exerce en outre les tâches qui lui sont attribuées par la présente loi.
 6 Lorsque des faits graves sont allégués qui pourraient justifier la prise de mesures provisionnelles par le département (art. 191a LSP), ce dernier est immédiatement informé du dépôt de la plainte.
+7 Les compétences de l'autorité de protection de l'adulte liées aux articles 20, 20a et 23d sont réservées.

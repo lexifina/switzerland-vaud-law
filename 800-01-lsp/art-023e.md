@@ -1,4 +1,5 @@
-# Art. 23e b) Modalités et protection des patients
-1 La surveillance du patient est renforcée pendant toute la durée de la mesure de contrainte dont le maintien fait l'objet d'évaluations. Un protocole comprenant le but et le type de chaque mesure utilisée, ainsi que le nom de la personne responsable et le résultat des évaluations est inséré dans le dossier du patient.
-2 La personne concernée, son représentant thérapeutique, respectivement son représentant légal, ses proches ou un accompagnant peuvent s'adresser à la commission d'examen des plaintes compétente pour demander l'interdiction ou la levée des mesures de contrainte conformément à l'article 15d. La commission décide si la plainte a effet suspensif dès réception de celle-ci.
-3 La Commission rend sa décision dans un délai de cinq jours après le dépôt du recours. La procédure de plainte est réservée.
+# Art. 23e Procédure en cas de contestation
+1 La personne concernée, son représentant, ses proches ou un accompagnant peuvent en appeler à la commission d'examen des plaintes compétente contre la mesure limitant la liberté de mouvement, conformément à l'article 15d.
+2 Lorsque la mesure concerne une personne incapable de discernement en EMS ou divisions C d'hôpitaux, les personnes indiquées à l'alinéa précédent doivent s'adresser à l'autorité de protection de l'adulte.
+3 Le Bureau cantonal de la médiation des patients et des résidents ou usagers d'établissements sanitaires et d'établissements socio-éducatifs peut être sollicité au préalable dans tous les cas.
+4 L'autorité de surveillance au sens de l'article 151 LSP est informée du dépôt de la requête ainsi que de la décision rendue. S'il s'agit d'un détenu, le Médecin cantonal en est informé.

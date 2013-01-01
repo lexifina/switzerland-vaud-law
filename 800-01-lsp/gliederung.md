@@ -2,10 +2,7 @@
 ### Chapitre II Organisation et compétences
 ### Chapitre III Relation entre patient, médecin et personnel soignant
 ### Chapitre IV Prévention
-### Chapitre V Privation de liberté à des fins d'assistance
-#### Section I Hospitalisation ou placement des malades mentaux
-#### Section II Hospitalisation ou placement des alcooliques et autres toxicomanes
-#### Section III Droit de recours
+### Chapitre V Placement à des fins d'assistance
 ### Chapitre VI Mesures diverses
 ### Chapitre VII Professions de la santé
 #### Section I Dispositions générales

@@ -1,2 +1,2 @@
-# Art. 56c Information aux proches
-1 La personne détenue ou privée de liberté à des fins d'assistance a le droit de faire informer ses proches et les tiers qui doivent être avisés dans les douze heures.
+# Art. 56c Personne de confiance
+1 Les dispositions du Code civil relatives à la personne de confiance s'appliquent par analogie aux personnes détenues (art. 23b LSP).
