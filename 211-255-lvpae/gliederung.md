@@ -5,6 +5,7 @@
 ### Chapitre III Autorité de recours
 ### Chapitre IV Autorité compétente en matière de placement à des fins d'assistance
 ### Chapitre V Entités de curateurs et tuteurs professionnels
+### Chapitre VI Autorités centrales en vertu de Conventions internationales de protection de l'adulte et de l'enfant
 ## Titre III Procédure en matière de protection de l'adulte et de l'enfant
 ### Chapitre I Principes
 ### Chapitre II Procédure devant l'autorité de protection
