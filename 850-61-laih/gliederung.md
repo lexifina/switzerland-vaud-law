@@ -4,15 +4,17 @@
 #### Section I Droits
 #### Section II Mesures de contrainte
 #### Section III Bureau de la médiation et commission d'examen des plaintes des résidents
+#### Section IV Prestations et établissements socio-éducatifs
 ## Titre II Organisation
 ### Chapitre I Compétences du département
 ### Chapitre II Surveillance
 ## Titre III Mesures financières
 ### Chapitre I Généralités
 ### Chapitre II Subvention, aide individuelle et contribution personnelle
-#### Section I Subvention à l'investissement
-#### Section II Aide individuelle et subvention à l'exploitation
+#### Section I Financement - Principes
+#### Section II Aide individuelle et contribution personnelle
 #### Section III Financement d'autres mesures
+#### Section IV Infrastructures
 ## Titre IV Répartition des charges
 ## Titre V Dispositions disciplinaires, pénales et voies de droit
-## Titre VI Dispositions finales
+## Titre VI Dispositions transitoires et finales

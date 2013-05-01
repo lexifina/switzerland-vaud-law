@@ -1,0 +1,5 @@
+# Art. 43c Garantie de l'Etat - Principes
+1 L'Etat garantit les emprunts et prêts liés aux investissements immobiliers reconnus pour des frais de construction, de transformation et d'aménagement des institutions.
+2 Les garanties émises ne doivent pas dépasser en principe le 80% du coût de l'investissement accepté par le département. Les établissements participent en principe à hauteur de 20% de fonds propres au financement des investissements immobiliers. Les terrains mis à disposition par l'établissement pour la réalisation de l'investissement sont pris en compte dans le calcul des fonds propres.
+3 Le Grand Conseil détermine chaque année, par voie de décret, le montant maximum des garanties que le département peut octroyer au nom de l'Etat pour les emprunts contractés par les établissements socio-éducatifs afin de financer leurs investissements, le total des engagements de l'Etat sous cette forme ne pouvant dépasser 350 millions de francs.
+4 Le Conseil d'Etat décide, dans les limites fixées par le Grand Conseil, de l'octroi de la garantie de l'Etat pour les emprunts contractés par les établissements socio-éducatifs afin de financer leurs investissements.

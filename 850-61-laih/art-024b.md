@@ -1,6 +1,6 @@
 # Art. 24b Autorisation de diriger
-1 Les institutions spécialisées, les petites institutions et les ateliers protégés sont dirigés par un directeur au bénéfice d'une autorisation de diriger.
-2 Le département délivre une autorisation de diriger après avoir contrôlé que le candidat au poste de directeur proposé par l'organe de haute direction de l'institution spécialisée, de la petite institution ou de l'atelier protégé, remplit les conditions suivantes :
+1 Les établissements socio-éducatifs sont dirigés par un directeur au bénéfice d'une autorisation de diriger.
+2 Le département délivre une autorisation de diriger après avoir contrôlé que le candidat au poste de directeur proposé par l'organe de haute direction de l'établissement socio-éducatif remplit les conditions suivantes :
 a. avoir l'exercice des droits civils ;
 b. jouir d'une bonne réputation ;
 c. ne pas avoir été condamné à raison d'infractions intentionnelles contraire à la probité ou à l'honneur ;
