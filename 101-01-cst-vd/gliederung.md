@@ -49,7 +49,7 @@
 ### Chapitre III Districts
 ## Titre VII Régime des finances
 ### Chapitre I Principes généraux
-### Chapitre II Cour des comptes
+### Chapitre II Surveillance et contrôle des finances
 ### Chapitre III Fiscalité et péréquation intercommunale
 ## Titre VIII Eglises et communautés religieuses
 ## Titre IX Révision de la constitution
