@@ -8,5 +8,5 @@
 ### Chapitre IV Budget de fonctionnement
 ### Chapitre V Investissement
 ### Chapitre VI Les comptes de l'Etat
-### Chapitre VII Contrôle des finances
+### Chapitre VII …
 ### Chapitre VIII Dispositions transitoire, abrogatoire et finale
