@@ -1,2 +1,3 @@
 # Art. 93c
-1 Le rapport de la municipalité sur la gestion, les comptes arrêtés au 31 décembre précédent, accompagnés cas échéant du rapport-attestation du réviseur, sont remis au conseil général ou communal au plus tard le 31 mai de chaque année et renvoyés à l'examen d'une commission.
+1 La commission de gestion est compétente pour procéder à l'examen de la gestion et des comptes de la commune. Le règlement d'organisation du conseil peut confier l'examen des comptes et, cas échéant, du rapport et du rapport-attestation du réviseur à une commission des finances.
+2 Le rapport de la municipalité sur la gestion, les comptes arrêtés au 31 décembre précédent, accompagnés cas échéant du rapport et du rapport-attestation du réviseur, sont remis au conseil général ou communal au plus tard le 31 mai de chaque année et renvoyés à l'examen de la commission de gestion. Les compétences de la commission des finances prévues par le règlement du conseil sont réservées.

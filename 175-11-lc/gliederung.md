@@ -3,6 +3,9 @@
 #### Section I Du conseil général
 #### Section II Du conseil communal
 #### Section III Dispositions communes au conseil général et au conseil communal
+##### Sous-section I Droit d'initiative des membres du conseil
+##### Sous-section II Pétition
+##### Sous-section III Procédures et fonctionnement du conseil général et du conseil communal
 ### Chapitre III De la municipalité
 #### Section I Attributions
 #### Section II Organisation
@@ -12,7 +15,7 @@
 ### Chapitre VI Règles générales applicables aux autorités communales
 #### Section I Budget, comptes et gestion
 #### Section II Règles diverses
-### Chapitre VII De la responsabilité civile des membres des autorités et des fonctionnaires communaux
+### Chapitre VII De la responsabilité civile des membres des autorités et des collaborateurs communaux
 ### Chapitre VIII Territoire communal
 ### Chapitre IX Constitution de nouvelles communes, fusion de communes
 ### Chapitre IXbis Collaboration intercommunale

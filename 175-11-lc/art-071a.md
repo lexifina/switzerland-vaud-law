@@ -1,0 +1,2 @@
+# Art. 71a Actes du conseil général ou communal
+1 Pour être réguliers en la forme, les actes du conseil général ou communal doivent être donnés sous la signature du président et du secrétaire ou de leur remplaçant désigné par le conseil, et munis du sceau de cette autorité ; s'ils sont pris à la suite d'une décision ou d'une proposition de la municipalité, ils doivent mentionner cette décision ou cette proposition, laquelle est jointe à l'acte.

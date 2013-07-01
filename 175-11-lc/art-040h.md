@@ -1,0 +1,3 @@
+# Art. 40h Droit à l'information des membres des commissions
+1 L'article 40c de la présente loi régit le droit à l'information des commissions et de leurs membres, sous réserve de dispositions particulières ou contraires de la présente loi.
+2 Après consultation préalable de la municipalité, une commission peut recevoir ou consulter des intervenants extérieurs pour l'objet traité. Lorsque la commission s'adresse directement à l'administration communale, la municipalité peut demander à être entendue avant que la commission ne procède à l'investigation envisagée et à y participer. En cas d'engagement financier, l'accord de la municipalité est nécessaire.
