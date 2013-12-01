@@ -1,5 +1,5 @@
 ### Chapitre I Dispositions générales
-### Chapitre II Contribution financière
+### Chapitre II Subventions accordées aux entreprises de transport public
 ### Chapitre III Lignes de trafic régional
 ### Chapitre IV Lignes de trafic urbain
 ### Chapitre V Communauté tarifaire
