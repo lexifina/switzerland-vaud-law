@@ -1,0 +1,8 @@
+# Art. 33a Subvention cantonale
+1 Le vétérinaire cantonal peut allouer une subvention, sous forme d'aide financière, aux organismes privés ou publics mettant en œuvre un programme de prévention des accidents par morsure en faveur des enfants (ci-après : PAM) et bénéficiant des autorisations nécessaires à cela.
+2 Le montant total des subventions accordées en faveur des PAM est limité par le crédit porté en la matière au budget ordinaire du Département en charge des affaires vétérinaires .
+3 La subvention est octroyée pour une durée d'une année sur la base d'une décision qui fixe les charges et les conditions auxquelles elle est subordonnée. Elle se fonde sur le plan des activités PAM déployées par l'organisme subventionné et sur le budget de ce plan. La subvention doit répondre à un besoin pour l'organisme subventionné et lui permettre soit de toucher un nombre plus grand d'enfants que sans subvention, soit de compenser tout ou partie des charges non couvertes par une refacturation.
+4 La subvention consiste généralement dans un montant forfaitaire par enfant ou classe touché par le programme PAM.
+5 Le vétérinaire cantonal est l'autorité chargée du suivi et du contrôle des subventions qu'il octroie. Il s'assure que la subvention accordée est utilisée conformément à l'affectation prévue et que les conditions et charges auxquelles elle est soumise sont respectées par le bénéficiaire. Pour cela, le vétérinaire cantonal peut requérir tout document utile.
+6 L'organisme subventionné est soumis à l'obligation de renseigner conformément à l'article 19 de la loi sur les subventions .
+7 Le vétérinaire cantonal supprime, réduit la subvention ou en exige la restitution totale ou partielle aux conditions des articles 29 à 31 de la loi sur les subventions.

@@ -1,0 +1,6 @@
+# Art. 12a Promeneur de chien
+1 Est considéré comme promeneur celui qui n'est ni le propriétaire, ni le détenteur habituel d'un ou de plusieurs chiens qu'il se voit confier pour les promener.
+2 N'est pas considéré comme promeneur celui qui fait ménage commun avec le détenteur habituel du ou des chiens qu'il se voit confier pour les promener.
+3 Le promeneur ne peut pas avoir sous sa garde plus de deux chiens en même temps, dont un seul chien potentiellement dangereux pour lequel il doit bénéficier de l'autorisation de détention s'y rapportant. S'agissant des promeneurs de chiens professionnels, les dispositions fédérales en matière de prise en charge d'animaux s'appliquent.
+4 Sur le domaine public, y compris en forêt, le promeneur doit en tout temps prendre les mesures visant à maîtriser le ou les chiens qu'il a sous sa garde. S'agissant de chiens potentiellement dangereux ou de grande taille, le promeneur a le devoir de leur faire porter une muselière si les circonstances l'exigent du point de vue sécuritaire.
+5 Sauf dérogation exceptionnelle du vétérinaire cantonal, le promeneur ne peut pas avoir sous sa garde un chien qui fait l'objet d'une mesure de proximité, d'une mesure d'intervention ou d'une mesure provisoire.
