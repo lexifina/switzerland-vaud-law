@@ -1,0 +1,8 @@
+# Art. 30b Chauffages au gaz, au mazout ou au charbon
+1 Les installations de chauffage au gaz des constructions nouvelles et des extensions ne peuvent couvrir plus du 80% des besoins de chaleur admissibles pour le chauffage. La part d'énergie renouvelable découlant de l'article 28a ne peut pas être prise en compte.
+2 Les installations de chauffage au mazout ou au charbon des constructions nouvelles et des extensions ne peuvent couvrir plus du 60% des besoins de chaleur admissibles pour le chauffage. La part d'énergie renouvelable découlant de l'article 28a ne peut pas être prise en compte.
+3 Sont dispensées des exigences de la présente disposition les extensions de bâtiments existants si la nouvelle construction comporte moins de 50 m2 de surface de référence énergétique ou si elle représente moins de 20% de la surface de référence énergétique du bâtiment existant, sans pour autant dépasser 1'000 m2.
+4 Des dérogations exceptionnelles pour le chauffage des bâtiments et la production d'eau chaude sanitaire sont définies dans le règlement. Elles ne peuvent être octroyées que lorsque le recours à un autre système de chauffage est impossible ou disproportionné.
+5 Les besoins de chaleur admissibles sont définis par le règlement.
+6 Lors du remplacement d'une installation de chauffage par une nouvelle installation fonctionnant au gaz, au mazout ou au charbon, le propriétaire de l'installation doit faire établir à ses frais un certificat énergétique du bâtiment, tel que défini à l'article 39a.
+7 Le Conseil d'Etat fixe un seuil de consommation au-delà duquel une analyse des possibilités d'assainissement doit être effectuée.

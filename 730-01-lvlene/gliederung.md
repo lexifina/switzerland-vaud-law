@@ -4,4 +4,6 @@
 ## Titre IV Distribution
 ## Titre V Consommation
 ## Titre VI Conseils, promotion et aides financières
+## Titre VIbis Subventions
+## Titre VIter Procédures et recours
 ## Titre VII Dispositions pénale et finale
