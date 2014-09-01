@@ -1,0 +1,6 @@
+# Art. 34a Dispositions transitoires de la loi du 21.01.2014
+1 Le Plan d'affectation cantonal et l'adaptation des plans d'affectation communaux auxquels il renvoie doivent être mis à l'enquête publique dans un délai de 5 ans à compter de l'entrée en vigueur de la présente loi.
+2 Les plans mentionnés à l'alinéa 1er doivent être adoptés dans un délai de 2 ans dès la date de clôture de l'enquête publique.
+3 Pendant le délai prévu à l'alinéa 1er, les municipalités des communes concernées peuvent refuser des permis de construire qui seraient contraires aux plans d'affectation mentionnés à l'alinéa 1er, alors même que ceux-ci ne sont pas encore soumis à l'enquête publique. Lors de la délivrance de permis de construire, elles prennent en compte prioritairement la préservation du site défini par le périmètre du plan de protection de Lavaux et le plan directeur cantonal.
+4 Dès le début de l'enquête publique et pendant le délai prévu à l'alinéa 2, les municipalités des communes concernées refusent tout permis de construire allant à l'encontre des plans mis à l'enquête.
+5 Le département dispose du droit de recours prévu par l'article 104a LATC à l'encontre des permis de construire délivrés par les municipalités des communes concernées avant l'adoption des plans prévus à l'alinéa 1er.

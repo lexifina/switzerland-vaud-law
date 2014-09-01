@@ -1,5 +1,5 @@
 ### Chapitre I Dispositions générales
-### Chapitre II Tâches communales
+### Chapitre II Planifications
 ### Chapitre III Tâches cantonales
 ### Chapitre IV Territoires et principes matériels
 ### Chapitre V Principes généraux

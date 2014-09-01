@@ -1,0 +1,6 @@
+# Art. 4a
+1 Le service en charge de l'aménagement du territoire et de la police des constructions, ci-après : le service, élabore le plan d'affectation cantonal.
+2 Avant l'enquête publique, le service remet le projet de plan aux municipalités des communes intéressées et recueille leurs déterminations. En cas de désaccord, l'avis de la Commission cantonale consultative d'urbanisme et d'architecture peut être requis. Le droit d'opposition de la commune dans l'enquête est réservé.
+3 Le service met le projet à l'enquête publique dans les communes dont le territoire est concerné pendant 30 jours. L'avis d'enquête est publié dans la Feuille des avis officiels du Canton de Vaud et dans un journal au moins, si possible régional, et affiché au pilier public des communes dont le territoire est concerné. Pour le surplus, l'article 57, alinéas 1, 3 et 4 de la loi sur l'aménagement du territoire et les constructions est applicable par analogie.
+4 A l'issue de l'enquête, les municipalités transmettent les observations et oppositions au département en charge de l'aménagement du territoire et de la police des constructions (ci-après : le département).
+5 A la demande de l'une des parties, les opposants sont entendus par le département lors d'une séance de conciliation.
