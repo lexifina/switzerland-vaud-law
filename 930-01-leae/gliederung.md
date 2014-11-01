@@ -3,14 +3,16 @@
 ## Titre III Activités économiques soumises à autorisation
 ### Chapitre I Procédure d'autorisation
 ### Chapitre II Activités relevant de la compétence du canton
-#### Section I Maître de sports de neige, entreprise et école de sports de neige
-#### Section II Guide de montagne, accompagnateur en montagne, entreprise et école proposant ces activités
+#### Section I Guides de montagne et organisateurs d'autres activités à risque
+#### Section II Enseignement des sports de neige aux mineurs
 #### Section III Vente aux enchères publiques volontaire
-#### Section IV Collectes, ventes et manifestations destinées à des oeuvres de bienfaisance ou d'utilité publique
+#### Section IV …
 #### Section V Activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant
 #### Section VI Application de la loi fédérale sur le crédit à la consommation
 #### Section VII Prêt sur gage et achat à réméré
-### Chapitre III Autorisation délivrée par la préfecture
+### Chapitre III Autorisations délivrées par la préfecture
+#### Section I Commerce itinérant, forains et cirques
+#### Section II Vente en détail de tabac
 ### Chapitre IV Autorisation délivrée par la commune
 #### Section I Commerce d'occasions
 #### Section II Appareils automatiques mis à disposition du public contre finance
@@ -19,8 +21,10 @@
 #### Section II Indication des prix
 #### Section III Surveillance des prix
 #### Section IV Activité ayant une influence sur le psychisme
+#### Section V Solariums
 ## Titre V Surveillance et voies de droit
 #### Section I En général
 #### Section II Procédure de surveillance
+#### Section III Achats tests
 ## Titre VI Dispositions pénales et poursuite des infractions
 ## Titre VII Dispositions transitoires et finales
