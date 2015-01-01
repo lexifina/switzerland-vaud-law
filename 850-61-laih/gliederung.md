@@ -3,7 +3,7 @@
 ### Chapitre II Prestations et fournisseurs de prestations
 #### Section I Droits
 #### Section II Mesures de contrainte
-#### Section III Bureau de la médiation et commission d'examen des plaintes des résidents
+#### Section III Bureau de la médiation et commission d'examen des plaintes
 #### Section IV Prestations et établissements socio-éducatifs
 ## Titre II Organisation
 ### Chapitre I Compétences du département
