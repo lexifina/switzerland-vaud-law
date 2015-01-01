@@ -3,7 +3,7 @@
 a. évaluation des besoins en matière de prise en charge des urgences préhospitalières ;
 b. coordination de l'activité des services de prise en charge des urgences préhospitalières ;
 c. aménagement et développement du dispositif de prise en charge des urgences préhospitalières ;
-d. décisions relatives aux autorisations d'exploiter et de diriger (services assurant la prise en charge des urgences préhospitalières) et aux autorisations de pratiquer (ambulanciers) sous réserve des compétences du Conseil de santé et des Commissions d'examen des plaintes ;
+d. décisions relatives aux autorisations d'exploiter et de diriger (services assurant la prise en charge des urgences préhospitalières) et aux autorisations de pratiquer (ambulanciers) sous réserve des compétences du Conseil de santé et de la Commission d'examen des plaintes ;
 e. fixation des niveaux de formation des intervenants préhospitaliers ;
 f. dispositions à prendre en cas d'événement majeur ou de catastrophe ;
 g. collaboration intercantonale et transfrontalière.

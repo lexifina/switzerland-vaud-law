@@ -1,0 +1,2 @@
+# Art. 199a Dispositions transitoires de la loi du 3 juin 2014
+1 Dans un délai de trois mois dès l'entrée en vigueur de la loi du 3 juin 2014, le département informe les institutions de soins ambulatoires et les institutions de soins dentaires ambulatoires qui sont assimilées à des établissements sanitaires en application des articles 97, alinéa 4 et 105, alinéa 4. Ces institutions ont un délai d'un an dès la communication du département pour satisfaire aux conditions d'obtention de l'autorisation d'exploiter.

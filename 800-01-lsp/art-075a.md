@@ -1,0 +1,3 @@
+# Art. 75a Autorisation de pratiquer pour les titulaires d'un diplôme ou d'un titre postgrade délivré par un Etat tiers
+1 Lorsque l'offre de soins médicaux est insuffisante selon les critères fixés par le département, ce dernier peut délivrer une autorisation de pratiquer à titre dépendant ou indépendant aux titulaires d'un diplôme ou d'un titre postgrade délivré par un Etat avec lequel la Suisse n'a pas conclu de traité sur la reconnaissance réciproque des diplômes. Le professionnel doit être titulaire d'un diplôme ou d'un titre postgrade équivalent à un diplôme ou à un titre postgrade fédéral et disposer de connaissances suffisantes du français.
+2 Pour le surplus, le requérant doit remplir les conditions prévues par l'article 75.

@@ -1,20 +1,17 @@
 # Art. 15e Composition
-1 La Commission d'examen des plaintes des patients est composée de treize membres, à savoir :
-- deux juristes, dont un qui la préside ;
-- deux représentants d'associations de patients ;
-- deux médecins, dont un psychiatre ;
-- deux infirmiers ;
-- deux représentants du domaine social ou éthique ;
-- un responsable administratif d'un établissement sanitaire ;
-- un représentant d'une association du personnel ;
-- un membre choisi en dehors des milieux de la santé.
-2 La Commission d'examen des plaintes des résidents est composée de treize membres, à savoir :
-- deux juristes, dont un qui la préside ;
-- deux représentants d'associations d'usagers ;
-- deux médecins dont un psychiatre ;
-- un infirmier pour les établissements sanitaires ;
-- un éducateur pour les établissements socio-éducatifs ;
-- un représentant du domaine social ou éthique ;
-- un représentant de la direction d'un établissement sanitaire ;
-- un représentant de la direction d'une institution socio-éducative ;
-- deux représentants d'associations du personnel.
+1 La Commission d'examen des plaintes est composée de seize membres, à savoir :
+a. deux juristes, dont un président et un vice-président ;
+b. un représentant d'associations de patients ;
+c. un représentant d'associations de résidents ;
+d. un représentant d'associations d'usagers ;
+e. deux médecins, dont un psychiatre ;
+f. un infirmier ;
+g. un éducateur ;
+h. un représentant du domaine social ;
+i. un représentant du domaine éthique ;
+j. un représentant de la direction d'un établissement hospitalier ;
+k. un représentant de la direction d'un établissement médico-social ;
+l. un représentant de la direction d'une institution socio-éducative ;
+m. un représentant d'une association du personnel du domaine de la santé ;
+n. un représentant d'une association du personnel du domaine du social.
+2 La Commission d'examen des plaintes dispose d'un secrétariat et d'un greffier engagés par le Service de la santé publique, sur préavis de la commission.

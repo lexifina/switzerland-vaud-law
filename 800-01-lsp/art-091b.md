@@ -1,0 +1,4 @@
+# Art. 91b Garde médicale des hôpitaux et cliniques
+1 L'organisation du dispositif de garde des hôpitaux et cliniques défini à l'article 91a, alinéa 2, fait l'objet d'une convention particulière entre le département et l'association professionnelle cantonale des médecins. Cette dernière règle les modalités d'application avec les associations représentatives des hôpitaux et des cliniques.
+2 A défaut d'une convention entre le département et l'association professionnelle cantonale des médecins et après avoir entendu les intéressés, le département peut fixer les modalités pour une durée déterminée de 3 mois, renouvelable une fois, lorsqu'il estime qu'une situation de pénurie de médecins hospitaliers présente un risque pour la sécurité et la continuité de la mission d'un hôpital.
+3 Pour le surplus, les dispositions de l'article 91a, alinéas 3, 5 et 6 s'appliquent.
