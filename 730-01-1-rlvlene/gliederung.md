@@ -7,6 +7,6 @@
 ### Chapitre IV Décompte individuel des frais de chauffage et d'eau chaude sanitaire
 ## Titre IV Mesures diverses visant à l'efficacité énergétique
 ### Chapitre I Mesures générales
-### Chapitre II Gros consommateurs
+### Chapitre II Grands consommateurs
 ### Chapitre III Installations diverses
-### Chapitre IV Piscines chauffées
+### Chapitre IV Piscines et jacuzzis chauffés

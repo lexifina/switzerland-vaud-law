@@ -1,0 +1,2 @@
+# Art. 50d Sites de consommation existants – dénonciation ou non-respect des objectifs des conventions
+1 En cas de dénonciation ou non-respect de la convention passée avec le canton ou sous l'égide de la Confédération au sens de l'article 50a alinéa 1 lettres a) et b) du présent règlement, les grands consommateurs sont alors soumis au régime de la lettre c) de l'article 50a alinéa 1. La même règle est applicable aux grands consommateurs exclus d'un groupe.

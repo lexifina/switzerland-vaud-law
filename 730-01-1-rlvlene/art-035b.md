@@ -1,0 +1,3 @@
+# Art. 35b Isolation thermique d'installations techniques de ventilation
+1 Les canaux d'aération, les tuyaux ainsi que les appareils de ventilation et de climatisation doivent être protégés contre les transmissions de chaleur (perte ou prise de chaleur), en fonction de la différence de température à la valeur de dimensionnement et de la valeur "lambda" ¿du matériau isolant indiquée dans l'annexe 6.
+2 Les épaisseurs d'isolation peuvent être réduites dans des cas justifiés tels que, par exemple, les intersections ou traversées de murs ou de dalles, les conduites peu utilisées dont les clapets se trouvent à l'intérieur de l'enveloppe thermique ou les problèmes d'espaces lors du remplacement ou de l'assainissement d'installations.
