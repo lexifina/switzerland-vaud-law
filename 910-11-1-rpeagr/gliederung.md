@@ -15,6 +15,7 @@
 ### Chapitre IV Projets de développement
 #### Section I Etudes économiques et projets de produits innovants (art. 27 et 28 LVLAgr)
 #### Section II Projets de développement régional agricole (art. 29 LVLAgr)
+#### Section III Aide individuelle à la conversion des vergers (art. 29a LVLAgr)
 ### Chapitre V Marchés agricoles
 #### Section I Marchés surveillés de bétail
 #### Section II Transparence des marchés

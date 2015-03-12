@@ -1,0 +1,4 @@
+# Art. 39h Contrôle, versement et suivi
+1 Sur annonce de l'exploitant au service, un contrôle des plants est effectué par ce dernier au plus tard 30 jours après la plantation. Le versement de l'aide n'a lieu qu'après décision positive rendue suite au contrôle et sur présentation de la facture des plants et des nouvelles installations de baies sur substrat.
+2 Le versement des aides a lieu sous la forme d'un paiement unique.
+3 Les plants fruitiers et les nouvelles installations de baies sur substrat doivent être maintenus et entretenus selon les bonnes pratiques agricoles durant 5 ans à partir de la date d'octroi de l'aide. Le non respect de cette clause peut entraîner la restitution de tout ou partie de l'aide versée, cas de rigueurs signalés par écrit exclus. Durant cette période, le service peut effectuer des contrôles aléatoires.
