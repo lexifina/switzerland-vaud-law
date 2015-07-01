@@ -1,0 +1,3 @@
+# Art. 10a Débit de boissons alcooliques (art. 24 de la loi)
+1 Est considérée comme vente au détail de boissons alcooliques, toute forme de vente, de livraison ou de moyen de commercialisation depuis un magasin, laboratoire, dépôt, bureau ou local assimilé, telle que notamment la vente à l'emporter, la livraison à des particuliers, la vente par internet ou par téléphone (télémarketing).
+2 N'est pas considérée comme vente au détail de boissons alcooliques, la vente et la livraison à des revendeurs, à des restaurateurs ou à des entreprises qui emploient des boissons alcooliques dans l'élaboration de leurs produits (vente en gros de boissons alcooliques).

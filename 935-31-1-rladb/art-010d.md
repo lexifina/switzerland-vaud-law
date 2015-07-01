@@ -1,0 +1,3 @@
+# Art. 10d Employeur
+1 Lorsqu'une personne morale est titulaire d'une autorisation d'exploiter, seules les personnes détenant un pouvoir décisionnel déterminant au sein de cette personne morale sont considérées comme employeur et sont dispensées de produire leur contrat de travail lorsqu'elles demandent une autorisation d'exercer.
+2 Est notamment considérée comme ayant un pouvoir décisionnel déterminant au sens de l'alinéa 1, toute personne inscrite au registre du commerce en qualité d'administrateur d'une société anonyme, ou comme associé gérant au sein d'une société à responsabilité limitée.
