@@ -4,10 +4,10 @@
 ### Chapitre I Etablissements avec alcool
 ### Chapitre II Etablissements sans alcool
 ### Chapitre III Autres établissements
-## Titre IV Traiteurs et débits à l'emporter
+## Titre IV Service traiteurs et magasins ne permettant pas la consommation sur place
 ## Titre V Permis temporaires
-## Titre VI Octroi des licences d'établissement et des autorisations simples
-## Titre VII Droits et obligations des titulaires de licences d'établissement et d'autorisations simples
+## Titre VI Octroi de licences
+## Titre VII Droits et obligations des titulaires de licences
 ## Titre VIII Conditions d'exploitation
 ## Titre IX Mesures de police
 ## Titre X Taxes, émoluments et contributions

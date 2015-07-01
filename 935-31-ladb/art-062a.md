@@ -1,0 +1,2 @@
+# Art. 62a Obligation de suivre une formation complémentaire
+1 Le département peut imposer une formation complémentaire aux titulaires d'autorisations d'exercer ou d'exploiter, auteurs ou responsables de manquements graves en matière sanitaire et d'hygiène alimentaire, de police du feu, de droit du travail et en rapport avec le service de boissons alcooliques ou de lutte contre l'abus de consommation d'alcool.
