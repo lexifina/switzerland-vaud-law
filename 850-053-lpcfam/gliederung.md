@@ -6,6 +6,6 @@
 #### Section III PRESTATIONS CANTONALES DE LA RENTE-PONT
 #### Section IV DISPOSITIONS COMMUNES
 ##### Sous-section I Organisation, obligation de renseigner et financement
-##### Sous-section II Restitution et disposition pénale
+##### Sous-section II Restitution, sanctions et disposition pénale
 ##### Sous-section III Procédure et voies de droit
-#### Section V DISPOSITIONS FINALES ET TRANSITOIRES
+#### Section V Dispositions transitoires et finales
