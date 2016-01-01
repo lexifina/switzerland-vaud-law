@@ -1,0 +1,2 @@
+# Art. 3a
+1 Les stagiaires, tels que définis par le Conseil d'Etat, sont affiliés à une institution de prévoyance inscrite dans le registre de la prévoyance professionnelle autre que la Caisse de pensions de l'Etat de Vaud et désignée par le Conseil d'Etat, pour autant qu'ils soient soumis à l'assurance obligatoire en vertu des articles 2 et 7 de la loi fédérale sur la prévoyance professionnelle, vieillesse, survivants et invalidité (LPP) .
