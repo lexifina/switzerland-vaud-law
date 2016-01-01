@@ -1,3 +1,2 @@
-# Art. 53i Taxe communale
-1 Les communes sont autorisées à percevoir également une taxe d'exploitation auprès des titulaires d'autorisations simples de débits de boissons alcooliques à l'emporter.
-2 Le montant de la taxe communale ne peut pas être supérieur à la taxe cantonale.
+# Art. 53i Répartition
+1 Le produit de la taxe d'exploitation, après déduction des frais de taxation et de perception qui incombent à l'Etat, est réparti par moitié entre l'Etat et les communes selon le lieu d'exploitation des débits de boissons alcooliques à l'emporter.
