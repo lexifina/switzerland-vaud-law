@@ -1,0 +1,2 @@
+# Art. 14a Facilités de paiement
+1 A la demande de la personne morale établissant que le recouvrement des tranches dans les délais prévus doit entraîner de réelles difficultés pour elle, l'autorité fiscale peut prolonger le délai de paiement ou autoriser un paiement échelonné d'une ou plusieurs tranches. Elle peut également renoncer à l'intérêt de retard et à l'intérêt compensatoire (art. 230 LI ).
