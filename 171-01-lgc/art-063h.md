@@ -1,5 +1,6 @@
 # Art. 63h Audition des détenus
-1 Les personnes privées de liberté dans les lieux de détention du canton ou placées hors du canton par une autorité vaudoise sont avisées du fait qu'elles peuvent s'adresser en tout temps à la commission.
-2 La commission entend, dans le cadre de ses visites ordinaires, les personnes privées de liberté qui en font la demande écrite. Elle peut également entendre celles qui en font la demande en cours de visite, régulière ou inopinée.
-3 L'audition a lieu en présence de deux commissaires au moins. Elle se déroule à huis clos et ne fait l'objet d'aucun procès-verbal.
-4 La commission transmet à l'autorité compétente les demandes qui ne sont pas de son ressort.
+1 Les personnes privées de liberté dans les lieux de détention du canton ou placées hors du canton par une autorité vaudoise sont avisées du fait qu'elles peuvent s'adresser à la commission en s'inscrivant sur une liste en vue d'une visite annoncée ou en lui adressant un courrier.
+2 La commission entend, dans le cadre de ses visites ordinaires, les personnes privées de liberté qui en ont fait la demande. A titre exceptionnel, elle peut également entendre celles qui en font la demande en cours de visite, régulière ou inopinée.
+3 L'audition a lieu en présence de deux commissaires au moins et, en principe, d'un expert. Elle se déroule à huis clos et ne fait l'objet d'aucun procès-verbal.
+4 Les auditions ont pour but de permettre à la commission de formuler des recommandations et des observations, consignées dans le rapport annuel établi en application de l'article 63j de la présente loi. La commission transmet à l'autorité compétente les demandes qui ne sont pas de son ressort.
+5 Le rapport annuel fait état des auditions de détenus menées par la commission et ses délégations. Il respecte les règles relatives à la protection des données et à la confidentialité.
