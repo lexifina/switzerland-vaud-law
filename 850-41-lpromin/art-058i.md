@@ -1,3 +1,5 @@
-# Art. 58i Conditions de travail
-1 Le département peut poser des exigences relatives aux conditions de travail du personnel engagé dans les institutions d'éducation spécialisée relevant de la politique socio-éducative, pour les catégories de professions ne faisant pas l'objet d'une convention collective de travail.
-2 Si de telles conditions sont posées, elles figurent dans le contrat de prestations.
+# Art. 58i Utilisation et mise à disposition des biens de l'institution
+1 Les biens, mobiliers ou immobiliers, acquis à titre gratuit par l'institution ou les personnes morales dont elle dépend, en dernier ressort, économiquement ou juridiquement, font partie de la fortune propre de l'institution.
+2 Leur utilisation ou leur mise à disposition, même conforme à la volonté du donateur ou du légataire, par l'institution ou les personnes morales dont elle dépend, en dernier ressort, économiquement ou juridiquement, est considérée comme gratuite et ne peut donner lieu à l'octroi d'une subvention ou d'une quelconque contrepartie de la part de l'Etat.
+3 Ainsi et notamment, l'institution n'est pas admise à inscrire à son budget des loyers pour l'utilisation de locaux dont elle est propriétaire ou dont l'usage lui est cédé par une personne morale dont elle dépend, en dernier ressort, juridiquement ou économiquement.
+4 La question de la prise en compte des frais d'entretien des biens mobiliers ou immobiliers mis à disposition par l'institution dans le cadre de l'exécution de la tâche subventionnée est réglée dans le contrat de prestations ou la convention de subventionnement.
