@@ -1,0 +1,4 @@
+# Art. 48b Dispositions transitoires de la loi du 29.09.2015
+1 Le montant minimum de l'allocation pour enfant au sens de l'article 3, alinéa 1, de la loi s'élève à 230 francs jusqu'au 31 août 2016. Il est fixé à 250 francs du 1er septembre 2016 au 31 décembre 2018.
+2 Le montant minimum de l'allocation de formation professionnelle au sens de l'article 3, alinéa 1bis, de la loi s'élève à 300 francs jusqu'au 31 août 2016. Il est fixé à 330 francs dès le 1er septembre 2016 et à 360 francs du 1er janvier 2019 au 31 décembre 2021.
+3 Le montant minimum de l'augmentation des allocations selon l'article 3, alinéa 1ter, de la loi s'élève à 140 francs jusqu'au 31 août 2016. Cette augmentation est fixée à 120 francs à compter du 1er septembre 2016 et à 80 francs du 1er janvier 2019 au 31 décembre 2021.
