@@ -1,0 +1,7 @@
+# Art. 21a Exigences pour les salles particulières
+1 Chaque arrondissement d'état civil peut bénéficier jusqu'à trois lieux de célébrations dans des salles particulières, aux fins de couvrir l'ensemble du territoire cantonal. Dans des cas exceptionnels motivés, le service peut autoriser des salles particulières supplémentaires.
+2 Les salles particulières doivent, pour obtenir l'autorisation du département, répondre aux critères suivants :
+a. le lieu où se déroule la célébration de mariage ou de partenariat enregistré doit s'inscrire en priorité dans un site public, doté d'un cadre à caractère exceptionnel d'ordre historique (châteaux, bâtiments similaires, bateaux "belle époque", etc.), patrimonial (site culturel reconnu, monument classé, lieux possédant des particularités historiques, architecturales, etc.) ou touristique (situation originale, lieu touristique d'exception, etc.) ;
+b. la salle particulière peut être utilisée tous les jours ouvrables, du lundi au samedi, en particulier jusqu'à trois samedis par mois ; elle doit être mise à disposition pour accueillir plus d'une célébration de mariage ou de partenariat enregistré le samedi ;
+c. la salle particulière doit être accessible aux personnes à mobilité réduite.
+3 Une convention précisant la mise à disposition et les modalités d'utilisation de chaque salle particulière est conclue entre le propriétaire-exploitant de la salle et le Service de la population.
