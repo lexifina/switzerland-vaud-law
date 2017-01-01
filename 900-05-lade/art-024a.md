@@ -1,0 +1,2 @@
+# Art. 24a Abaissement du prix de vente ou de location des terrains en zones industrielles
+1 Exceptionnellement, compte-tenu des possibilités financières des communes ou des entités constituées par elles et de l'importance du projet pour l'économie régionale, des aides à fonds perdu à hauteur de 10 pour cent maximum du coût engendré par l'accomplissement efficace et économe du projet peuvent leur être octroyées pour la vente ou la location de terrains destinés à des entreprises industrielles, pour autant qu'elles fournissent un effort financier équivalent.
