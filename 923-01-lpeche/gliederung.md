@@ -3,7 +3,9 @@
 ### Chapitre III Exercice de la pêche
 ### Chapitre IV Aménagement piscicole
 ### Chapitre V Protection des biotopes
-### Chapitre VI Mesures d'encouragement
+### Chapitre VI Subventions
+#### Section I Principes (LSubv, art. 11)
+#### Section II Domaines de subventionnement
 ### Chapitre VII Surveillance de la pêche
 ### Chapitre VIII Voies de droit
 ### Chapitre IX Dispositions pénales
