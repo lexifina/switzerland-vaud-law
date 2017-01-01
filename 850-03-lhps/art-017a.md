@@ -1,0 +1,2 @@
+# Art. 17a Entrée en vigueur de l'article 7a
+1 L'article 7a de la présente loi n'est pas applicable aux aides au sens de la loi du 1er juillet 2014 sur l'aide aux études et à la formation professionnelle (LAEF) octroyées pour l'année de formation en cours au moment de son entrée en vigueur. Ces aides demeurent soumises à l'article 22, alinéa 2 LAEF, que la décision d'octroi ait été rendue avant ou après l'entrée en vigueur de l'article 7a LHPS.
