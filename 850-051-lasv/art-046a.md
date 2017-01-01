@@ -1,0 +1,4 @@
+# Art. 46a Remboursement des parts de prime à charge
+1 Lorsque le bénéficiaire n'effectue pas, par choix ou par négligence, les démarches visant à maintenir le montant de sa prime d'assurance-maladie dans le cadre de la prime de référence déterminant le subside cantonal à l'assurance-maladie, il est tenu de payer la part de sa prime restant à charge.
+2 Si, nonobstant un avertissement écrit et motivé, le bénéficiaire persiste à ne pas payer la part de sa prime restant à charge, l'autorité d'application lui en demande le remboursement sur la base de l'article 23a, alinéa 1ter de la loi du 25 juin 1996 d'application vaudoise de la loi fédérale sur l'assurance-maladie.
+3 Le règlement d'application définit les modalités de ce remboursement, lequel peut se cumuler avec les réductions prévues aux articles 43a et 45.

@@ -1,0 +1,2 @@
+# Art. 53a Mesures de soutien à la prise d'emploi
+1 Le soutien à la prise d'emploi consiste en une participation aux frais liés à l'emploi et/ou à la formation nécessaire au bénéficiaire pour occuper un poste de travail spécifique. En contrepartie, l'employeur s'engage à conclure un contrat de travail au terme de la période. Le règlement fixe la durée de la mesure et le montant de la participation aux frais.

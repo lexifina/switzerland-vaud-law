@@ -1,2 +1,2 @@
 # Art. 43a Compensation
-1 L'autorité compétente peut compenser les montants indûment perçus avec les prestations futures en prélevant chaque mois un montant équivalent à 15% de la prestation financière allouée.
+1 L'autorité compétente peut compenser les montants indûment perçus avec les prestations futures en prélevant chaque mois un montant équivalent à 15% de la prestation financière allouée lorsque le montant indu est inférieur ou égal à Fr. 20'000.- et à 25% lorsque le montant indu est supérieur à Fr. 20'000.-. Dans tous les cas, le prélèvement ne peut porter atteinte au minimum vital absolu destiné à couvrir les besoins essentiels et vitaux.
