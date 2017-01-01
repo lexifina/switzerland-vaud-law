@@ -1,0 +1,5 @@
+# Art. 32b Dispositions transitoires de la loi du 14.12.2016
+1 Les paramètres d'octroi pour le calcul des subsides aux primes de l'assurance-maladie obligatoire, fixés par le Conseil d'Etat en application de l'article 17, alinéa 2 de la loi, applicables au 1er janvier 2017, restent en vigueur jusqu'au 31 décembre 2018. L'alinéa 2 est réservé.
+2 Le Conseil d'Etat peut modifier les paramètres d'octroi au sens de l'alinéa précédent par voie d'arrêté prenant effet au 1er janvier 2018 en vue d'une augmentation du subside applicable aux personnes suivantes :
+1. Les bénéficiaires de l'une des catégories particulières de subside de l'article 18, alinéas 1 et 2 de la loi ;
+2. Les membres d'une unité économique de référence pour laquelle le montant des primes de l'assurance obligatoire des soins, après déduction des subsides octroyés au titre des articles 11 à 13 de la loi, représente un pourcentage de leur revenu déterminant unifié au sens de l'article 6 LHPS (taux d'effort) supérieur à une quotité fixée par le Conseil d'Etat. Cette dernière ne peut être inférieure à 10%.
