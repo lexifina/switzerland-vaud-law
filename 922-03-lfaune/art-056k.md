@@ -1,0 +1,4 @@
+# Art. 56k c) Prévention des dommages dans les forêts
+1 Conformément aux règles prescrites par la loi forestière vaudoise (LVLFo) , les dommages causés par le gibier aux forêts sont indemnisés dans les limites fixées par l'article 56l de la présente loi, sans qu'il soit nécessaire de prendre des mesures de prévention pour protéger les arbres. Des mesures de prévention peuvent toutefois être exigées dans une zone où des dommages ont déjà donné lieu à une indemnisation.
+2 La subvention n'est octroyée que pour prévenir les dommages causés aux jeunes peuplements ou aux peuplements en voie de rajeunissement.
+3 Lorsque des subventions pour protéger les forêts peuvent être accordées en application d'autres législations, l'allocation de subventions fondée sur les articles 56i à 56k de la présente loi ne peut être que complémentaire.
