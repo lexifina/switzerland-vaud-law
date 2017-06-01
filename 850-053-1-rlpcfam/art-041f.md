@@ -1,0 +1,3 @@
+# Art. 41f Tâches spécifiques des agences en matière de rente-pont
+1 En matière de prestations de la rente-pont, les agences, en sus des tâches énumérées à l'article 41d, examinent les pièces justificatives et vérifient l'exactitude des renseignements fournis en s'assurant qu'aucune omission n'a été faite dans la description des éléments nécessaires au calcul de la rente-pont et que tous les documents utiles ont été fournis.
+2 Si nécessaire, elles font signer un acte de cession pour chacune des aides auxquelles le requérant pourrait prétendre au sens de l'article 41d, alinéa 3, à concurrence des montants des prestations de la rente-pont, qui devront être restitués en cas d'octroi rétroactif des aides précitées.

@@ -1,0 +1,2 @@
+# Art. 17a Allocation cantonale de maternité ou d'adoption
+1 L'allocation cantonale en cas de maternité ou d'adoption est prise en compte dans le revenu déterminant, à l'exception du montant minimum de l'allocation complémentaire octroyée conformément à l'article 20, alinéa 4 de la loi du 23 septembre 2008 d'application de la loi fédérale sur les allocations familiales et sur des prestations cantonales en faveur de la famille (LVLAFam) et du montant forfaitaire alloué conformément à l'article 21 LVLAFam.
