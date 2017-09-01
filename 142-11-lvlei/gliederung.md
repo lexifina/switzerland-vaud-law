@@ -8,5 +8,5 @@
 #### Section IV Procédure de recours
 #### Section V Perquisition et fouille
 ### Chapitre V Protection des données personnelles
-### Chapitre VI Taxes
+### Chapitre VI Emoluments
 ### Chapitre VII Responsabilité des communes
