@@ -1,0 +1,3 @@
+# Art. 32a Organisation et financement
+1 Les communes financent et organisent de manière indépendante un accueil collectif parascolaire secondaire surveillé. Elles peuvent sous leur responsabilité déléguer cette compétence, notamment à des associations sportives, culturelles ou à des organisations de jeunesse. Les communes s'assurent que les personnes en contact avec les jeunes n'aient pas fait l'objet d'une condamnation en raison d'infractions contre l'intégrité corporelle ou sexuelle ou autres infractions pouvant mettre en danger un mineur. A cet effet, elles requièrent des intéressés la production des extraits ordinaire et spécial du casier judiciaire.
+2 Cet accueil n'est pas subventionné par la Fondation.
