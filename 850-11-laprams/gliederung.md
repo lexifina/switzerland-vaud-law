@@ -2,7 +2,7 @@
 ## Titre II Maintien à domicile
 ### Chapitre I Définitions et prestations
 #### Section I Maintien à domicile
-#### Section II Unité d'accueil temporaire
+#### Section II Centre d'accueil temporaire
 #### Section III Logement protégé
 #### Section IV Court séjour
 ### Chapitre II Subventions aux organismes favorisant le maintien à domicile
