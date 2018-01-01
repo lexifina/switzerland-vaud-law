@@ -1,2 +1,3 @@
-# Art. 26i Coûts socio-hôteliers
+# Art. 26i Coûts socio-hôteliers et socio-éducatifs
 1 Les coûts des prestations socio-hôtelières fournies par les EMS reconnus d'intérêt public sont couverts conformément aux conventions tarifaires applicables en la matière ou, à défaut, au tarif édicté par le Conseil d'Etat sur la base de l'article 4, alinéa 1bis, lettre a).
+2 Les coûts des prestations socio-éducatives fournies par les EPSM reconnus d'intérêt public sont couverts conformément aux conventions tarifaires applicables en la matière ou, à défaut, au tarif édicté par le Conseil d'Etat sur la base de l'article 4, alinéa 1bis, lettre f).
