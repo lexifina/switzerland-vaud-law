@@ -12,10 +12,12 @@
 #### Section I Dispositions générales
 #### Section II Organisations de soins à domicile
 #### Section III Organisations d'ergothérapie
+#### Section IV Organisations de physiothérapie
+#### Section V Organisations de diététique
 ### Chapitre VIII Etablissements sanitaires
 #### Section I Etablissements sanitaires de droit privé
 #### Section II Etablissements apparentés de droit privé
-#### Section III Etablissements et instituts sanitaires cantonaux
+#### Section III Etablissements et instituts sanitaires cantonaux et établissements sanitaires autonomes de droit public
 ### Chapitre IX ...
 ### Chapitre X Produits thérapeutiques
 ### Chapitre XI Mesures préparatoires et mesures sanitaires d'urgence

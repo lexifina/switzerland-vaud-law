@@ -6,3 +6,4 @@ c. donner les premiers soins au nouveau-né et à l'accouchée ainsi qu'enseigne
 d. prescrire les examens et prescrire ou administrer les médicaments ou pansements nécessaires à l'exercice de sa profession. Le département fixe la liste de ces examens et de ces médicaments ;
 e. contribuer à l'amélioration de la qualité et de l'efficacité des soins, au développement de la profession et collaborer à des programmes de promotion de la santé publique.
 2 La sage-femme pratique à titre dépendant ou indépendant.
+3 La sage-femme peut délivrer des certificats d'incapacité dans le cadre de situations de grossesse ou d'allaitement.

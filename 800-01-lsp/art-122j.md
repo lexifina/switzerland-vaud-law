@@ -1,4 +1,4 @@
 # Art. 122j
-b) Formation
-1 L'exercice de la profession est réservé aux porteurs d'un diplôme d'une école suisse reconnue par l'Association suisse des thérapeutes de la psychomotricité ou par un organisme désigné en application de l'accord intercantonal sur la reconnaissance des diplômes.
-2 En l'absence d'un tel organisme, le département statue sur l'équivalence d'autres diplômes après avoir pris l'avis de l'association professionnelle.
+b) Autorisation de pratiquer
+1 L'autorisation de pratiquer est délivrée au thérapeute de la psychomotricité porteur d'un titre admis en Suisse conformément à un accord international, au droit fédéral ou à un accord intercantonal.
+2 Le Conseil d'Etat peut fixer des conditions supplémentaires.

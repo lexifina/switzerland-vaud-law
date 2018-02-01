@@ -1,4 +1,5 @@
 # Art. 125a Masseurs médicaux
-1 Le masseur médical administre, sur prescription d'un médecin ou d'un chiropraticien, ou sur l'indication d'un physiothérapeute ou d'un ostéopathe, les traitements de massothérapie (massages manuels) et de médecine physique pour lesquels il a été formé en application de l'accord intercantonal sur la reconnaissance des diplômes.
-2 Dans ce cadre, il exerce à titre dépendant sous le contrôle et la responsabilité du médecin, du chiropraticien, de l'ostéopathe ou du physiothérapeute autorisés à pratiquer.
-3 Le massage sportif, de bien-être, de confort ou à but esthétique pratiqué sur une personne présumée en bonne santé ne relève pas de la présente loi.
+1 Le masseur médical est spécialisé dans le domaine des traitements de médecine physique propres à exercer la mobilisation tissulaire manuelle et instrumentale à l'aide d'appareils, et par là-même, à participer au processus thérapeutique scientifiquement fondé qui influence de manière locale, réflexe ou générale, les différents tissus, organes et systèmes du corps humain.
+2 Le masseur médical exerce à titre dépendant ou indépendant sur prescription d'un médecin. Il est détenteur d'un titre admis en Suisse conformément à un accord international, au droit fédéral ou à un accord intercantonal.
+3 Le masseur médical titulaire d'une autorisation délivrée sur la base d'un certificat de capacité reconnu par le département reste au bénéfice de cette autorisation.
+4 Le massage sportif, de bien-être, de confort ou à but esthétique pratiqué sur une personne présumée en bonne santé ne relève pas de la présente loi.

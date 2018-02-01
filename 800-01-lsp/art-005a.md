@@ -1,0 +1,3 @@
+# Art. 5a Département en charge des affaires vétérinaires
+1 Le département en charge des affaires vétérinaires est l'autorité compétente dans les domaines relevant de la médecine vétérinaire. Il est notamment compétent pour délivrer, suspendre ou retirer les autorisations de pratiquer et prendre toute mesure utile au bon exercice de la médecine vétérinaire. Il peut déléguer certaines tâches au vétérinaire cantonal. Les attributions du Conseil de santé sont réservées.
+2 Le département en charge des affaires vétérinaires assure l'exécution des lois, ordonnances, arrêtés et règlements fédéraux et cantonaux, ainsi que des conventions intercantonales afférant à la médecine vétérinaire.
