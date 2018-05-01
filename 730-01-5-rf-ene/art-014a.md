@@ -1,6 +1,7 @@
 # Art. 14a Pont RPC cantonal
 1 La rétribution à prix coûtant (RPC) est le dispositif mis en place par la Confédération sur la base duquel celle-ci rétribue l'électricité produite au moyen des énergies renouvelables à des tarifs permettant d'assurer la rentabilité des installations de production (art. 7a de la loi fédérale sur l'énergie).
 2 Un pont RPC cantonal est prévu pour se substituer au dispositif fédéral afin de rétribuer des installations en liste d'attente auprès de la RPC fédérale, sur une base de 90% de cette dernière. Le Conseil d'Etat peut décider d'un taux différent, pour des projets spécifiques.
-3 Le pont RPC cantonal est destiné aux projets photovoltaïques et de biomasse humide, situés sur le territoire vaudois. Le SEVEN précise les critères techniques pour la prise en considération des projets.
-4 La durée du pont cantonal sera définie par le SEVEN en fonction du budget à disposition. Il sera octroyé pour une période de deux ans, renouvelable deux fois au maximum (soit 6 ans au maximum). Le Conseil d'Etat peut octroyer une rétribution d'une durée plus longue pour des projets spécifiques.
+3 Le pont RPC cantonal est destiné aux projets photovoltaïques et de biomasse humide, situés sur le territoire vaudois. Le service précise les critères techniques pour la prise en considération des projets.
+4 La durée du pont cantonal sera définie par le service en fonction du budget à disposition. Il sera octroyé pour une période de deux ans, renouvelable deux fois au maximum (soit 6 ans au maximum). Le Conseil d'Etat peut octroyer une rétribution d'une durée plus longue pour des projets spécifiques.
+5 Le montant de l'aide cantonale est estimé sur la base de la production annuelle annoncée en kWh multipliée par le taux défini à l'alinéa 2 et la durée de rétribution définie à l'alinéa 4.
 6 Si la production annuelle n'est pas connue, le service la calcule en se basant sur des valeurs estimées.
