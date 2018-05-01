@@ -2,6 +2,7 @@
 ### Chapitre II Conditions d'agrément et règles déontologiques
 ### Chapitre III Inscription au tableau
 ### Chapitre IV Commission de préavis
+### Chapitre IVbis Permanence de médiation de l'Ordre judiciaire vaudois
 ### Chapitre V Sanctions disciplinaires et radiation
 ### Chapitre VI Tarif des médiations gratuites
 ### Chapitre VII Dispositions finales
