@@ -1,5 +1,5 @@
 ## Titre I Dispositions générales
-## Titre II Registre des entreprises
+## Titre II ...
 ## Titre III Activités économiques soumises à autorisation
 ### Chapitre I Procédure d'autorisation
 ### Chapitre II Activités relevant de la compétence du canton
