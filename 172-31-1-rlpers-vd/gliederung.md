@@ -34,6 +34,7 @@
 ### Chapitre V Devoirs
 #### Section I Temps de travail
 #### Section II Aménagement du temps de travail
+#### Section IIbis Télétravail
 #### Section III Heures supplémentaires, heures de nuit et jours fériés
 #### Section IV Devoirs du collaborateur
 #### Section V Activités accessoires
