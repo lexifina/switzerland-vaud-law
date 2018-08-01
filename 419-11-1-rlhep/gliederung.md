@@ -4,6 +4,7 @@
 #### Section II Conseil de la HEP
 #### Section III Unité d'enseignement et de recherche
 #### Section IV Filière
+#### Section V Unité de service
 ### Chapitre III Personnel
 #### Section I Dispositions générales
 #### Section II Engagement du corps professoral
@@ -17,7 +18,7 @@
 #### Section III Procédure
 #### Section IV Arrêt des études
 #### Section V Sanctions disciplinaires
-#### Section VI Droits d'inscription et taxe semestrielle
+#### Section VI Taxes
 #### Section VII Associations des étudiants et des anciens étudiants
 #### Section VIII Dispositions diverses
 ### Chapitre VI Promotion de l'égalité et médiation

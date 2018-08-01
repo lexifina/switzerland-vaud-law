@@ -1,0 +1,2 @@
+# Art. 11b Intégration au personnel d'enseignement et de recherche à l'issue du mandat
+1 Les membres du Comité de direction qui, à l'issue de leur mandat, répondent aux conditions définies par les articles 42, 43 ou 44 LHEP, intègrent, s'ils en font la demande, le personnel d'enseignement et de recherche dans une fonction correspondant à leurs qualifications, sous réserve de la disponibilié d'un poste correspondant.
