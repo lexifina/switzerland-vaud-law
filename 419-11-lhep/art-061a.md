@@ -1,0 +1,3 @@
+# Art. 61a Régime transitoire applicable aux professeurs formateurs
+1 Les personnes engagées par la HEP en qualité de professeur formateur obtiennent la qualité de professeur HEP associé dès l'entrée en vigueur de la modification de l'article 43 prévoyant ce nouveau statut, si elles satisfont aux exigences requises.
+2 Les personnes engagées en qualité de professeur formateur qui ne satisfont pas aux exigences requises par l'article 43 pour obtenir la qualité de professeur HEP associé conservent leur fonction et leur titre de professeur formateur. Elles continuent à appartenir au corps professoral.

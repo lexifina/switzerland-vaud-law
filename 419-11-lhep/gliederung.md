@@ -6,8 +6,9 @@
 ### Chapitre VI Finances
 ### Chapitre VII Personnel
 #### Section I Définition et droit applicable
-#### Section II Corps enseignant
-#### Section III Durée de l'engagement du corps enseignant
+#### Section II Personnel d'enseignement et de recherche
+#### Section III Durée de l'engagement du personnel d'enseignement et de recherche
+### Chapitre VIIbis Valorisation et propriété intellectuelle
 ### Chapitre VIII Etudiants
 ### Chapitre IX Recours
 ### Chapitre X Dispositions transitoires et finales
