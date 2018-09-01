@@ -1,0 +1,6 @@
+# Art. 2b Modalités
+1 La municipalité somme par écrit les locataires expulsés de venir récupérer leurs biens dans les meilleurs délais et les informe qu'à défaut, passés six mois au moins, ils pourront être vendus, ou s'il n'ont pas de valeur marchande, détruits ou laissés à disposition de la commune. La municipalité peut fixer un délai plus bref lorsque les coûts de conservation sont particulièrement importants, lorsque les choses conservées sont susceptibles de se déprécier rapidement ou pour d'autres motifs impérieux.
+2 Une fois le délai de conservation échu, la municipalité peut ordonner la vente des biens ou s'ils n'ont pas de valeur marchande, leur destruction ou la mise à disposition de la commune. Elle notifie sa décision aux locataires expulsés.
+3 La municipalité notifie aux locataires expulsés une décision fixant le montant des frais à leur charge après que les biens ont été récupérés, vendus ou détruits.
+4 Les locataires expulsés ont droit à la restitution du produit de la vente, sous déduction des frais fixés conformément à l'alinéa 3. Ce droit s'éteint cinq ans après la vente.
+5 Si l'adresse des locataires expulsés est inconnue, les communications qui leur sont destinées interviennent par voie de publication dans la Feuille des avis officiels.
