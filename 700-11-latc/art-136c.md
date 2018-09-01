@@ -1,0 +1,3 @@
+# Art. 136c Dispositions transitoires de la loi du 28.09.2004
+1 Le département en charge de l'aménagement du territoire et de la police des constructions approuve les plans d'affectation communaux et cantonaux et statue sur les recours dirigés contre les décisions communales sur opposition conformément aux dispositions transitoires de l'article 3 de la loi du 4 mars 2003 modifiant la LATC.
+2 Le département en charge des affaires intérieures statue sur les recours dirigés contre les plans d'affectation cantonaux conformément aux dispositions transitoires de l'article 3 de la loi du 4 mars 2003 modifiant la LATC.
