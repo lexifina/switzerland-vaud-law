@@ -1,10 +1,8 @@
 ## Titre I Aménagement du territoire
-### Chapitre I Principes généraux (Loi, articles 1 à 7)
-### Chapitre II Plans directeurs (Loi, articles 25 à 42)
-### Chapitre III Plans d'affectation (Loi, articles 43 à 74)
-#### Section I Dispositions générales de procédure
-#### Section II Dispositions spéciales de procédure
-### Chapitre IV Plans de quartier de compétence municipale
+### Chapitre I …
+### Chapitre II …
+### Chapitre III …
+### Chapitre IV …
 ## Titre II Des constructions (loi, articles 86 à 129)
 ### Chapitre I Dispositions générales de construction
 #### Section I Solidité, sécurité des constructions (Loi, articles 89 à 93)
