@@ -14,6 +14,6 @@
 ### Chapitre VI Droits et devoirs des étudiants suivant les cours préparatoires
 #### Section I Dispositions communes (étudiants MC, PP, SP et AP-FI)
 #### Section II Domaine de la santé
-#### Section III Domaine du design et des arts visuels
-#### Section IV Domaine de l'ingénierie
+#### Section III …
+#### Section IV …
 ### Chapitre VII Disposition finale
