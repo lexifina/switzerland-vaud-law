@@ -1,0 +1,2 @@
+# Art. 6a Financement ou cofinancement lié au marché du travail (Art. 18, al. 2, let. 2 LEmp)
+1 En cas difficultés économiques sérieuses et dans le but de maintenir des emplois dont le caractère social, économique ou scientifique peut s'avérer stratégique, le Conseil d'Etat peut octroyer une aide à fonds perdu ou un prêt sans intérêt provenant du Fonds cantonal de lutte contre le chômage à une entreprise qui en a présenté la demande auprès du Département.
