@@ -3,7 +3,7 @@
 1. inobservation de la présente loi ou de ses dispositions d'application ou encore d'autres dispositions légales auxquelles il est soumis ;
 2. retrait de la reconnaissance d'intérêt public ou renonciation à celle-ci ;
 3. désaffectation ou aliénation d'un bien immobilier subventionné par l'Etat sous la forme d'une garantie d'emprunt ou d'une prise en charge du service de la dette.
-1bis Dans les cas mentionnés à l'alinéa 1, chiffre 1, ou en cas de retrait de la reconnaissance d'intérêt public, le département peut également exiger la restitution de tout ou partie des montants provisionnés par un établissement pour le renouvellement de ses infrastructures et de ses équipements.
+1bis Dans les cas mentionnés à l'alinéa 1, chiffres 1 et 3, ou en cas de retrait de la reconnaissance d'intérêt public, le département peut également exiger la restitution de tout ou partie des montants provisionnés par un établissement pour le renouvellement de ses infrastructures et de ses équipements.
 2 Dans les cas particulièrement graves de violation de la loi, de ses dispositions d'application ou d'autres dispositions légales auxquelles l'établissement sanitaire d'intérêt public ou le réseau de soins est soumis, le département peut suspendre tout ou partie du versement de sa participation financière.
 3 Le montant et les modalités de la suspension ou de la restitution font l'objet d'une décision prise par le département. La décision de restitution est définitive et exécutoire et vaut titre de mainlevée au sens de la législation sur la poursuite pour dettes et la faillite .
 4 La loi sur les Hospices cantonaux est réservée.

@@ -1,8 +1,8 @@
 # Art. 3a Types d'établissements
 1 En regard de leurs missions, les types d'établissements sanitaires sont les suivants :
-- Hôpitaux
+a. Hôpitaux
 - Les hôpitaux sont des établissements sanitaires qui exploitent des lits des types A, B et C, avec ou sans caractère universitaire. Les règlements relevant de la planification cantonale des établissements sanitaires (ci-après : la planification cantonale, art.18ss) précisent leurs missions.
-- Etablissements médico -sociaux ( EMS )
+b. Etablissements médico -sociaux (EMS)
 - Les établissements médico-sociaux sont des établissements sanitaires qui exploitent des lits de type C. Ils sont également des lieux de vie où les résidents peuvent maintenir ou développer une vie sociale satisfaisante.
 - Les établissements psycho-sociaux médicalisés (EPSM) sont une catégorie particulière d'EMS accueillant une population adulte souffrant de manière prépondérante de troubles psychiques.
 - Les EMS peuvent fournir des "soins aigus et de transition" au sens de la législation fédérale sur l'assurance-maladie et de la loi sur la santé publique dans les limites prévues par la planification cantonale et le mandat de prestations établi conformément aux articles 18 et suivants.
