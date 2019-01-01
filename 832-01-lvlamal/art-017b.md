@@ -1,0 +1,3 @@
+# Art. 17b Calcul du taux d'effort
+1 Lors du calcul du taux d'effort, pour chacun des membres de l'unité économique, les primes de l'assurance obligatoire des soins prises en compte ne peuvent pas dépasser les primes de référence correspondantes déterminées selon l'article 18a.
+2 Le taux d'effort au sens de l'article 17a, alinéa premier, correspond au rapport entre les primes de l'assurance obligatoire des soins prises en compte et annualisées pour l'unité économique de référence, après déduction des subsides octroyés au titre des articles 11 à 13, et le revenu déterminant applicable à celle-ci, avant la déduction pour enfant à charge au sens de l'article 11, alinéa 2.

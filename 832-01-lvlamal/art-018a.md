@@ -1,0 +1,5 @@
+# Art. 18a Primes cantonales de référence
+1 Le Conseil d'Etat limite le subside des bénéficiaires de l'article 18, alinéa 1 à un montant maximum correspondant à une prime cantonale de référence, indépendante de la prime exigée par l'assureur.
+2 S'agissant des bénéficiaires du subside spécifique au sens de l'article 17a, la prime de référence pour chaque catégorie d'assurés est au moins équivalente à la moyenne des primes approuvées par l'Office fédéral de la santé publique pour les assurés vaudois en tenant compte d'une franchise de 1'000 francs pour les adultes et les jeunes adultes et sans franchise pour les enfants.
+3 Le Conseil d'Etat peut adapter les franchises applicables dans le calcul de la prime de référence au sens de l'alinéa 2, dès lors que le revenu déterminant de l'unité économique de référence est supérieur de 25% au revenu déterminant maximum à partir duquel le droit au subside au sens de l'article 17 cesse, pour chaque catégorie d'assurés concernée.
+4 Il fixe par voie d'arrêté le montant des primes cantonales de référence au sens de l'alinéa 1 et 2 par catégorie d'assurés.
