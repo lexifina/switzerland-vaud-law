@@ -6,5 +6,5 @@
 ### Chapitre I ...
 ### Chapitre II Allocation en cas de maternité ou d'adoption
 ### Chapitre III Allocations en faveur des familles s'occupant d'un mineur handicapé à domicile
-### Chapitre IV Fonds cantonal pour la famille
+### Chapitre IV ...
 ## Titre III Financement et contrôle
