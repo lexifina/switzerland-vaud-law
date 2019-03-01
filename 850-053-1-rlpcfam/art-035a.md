@@ -4,5 +4,6 @@
 a. les aides aux études et à la formation professionnelle, à l'exception des frais d'étude, d'écolage et de matériel d'étude ;
 b. la valeur de rachat des assurances sur la vie ;
 c. les capitaux relevant de la prévoyance individuelle liée et ceux déposés sous forme d'un compte bloqué jusqu'à l'âge ordinaire de la retraite au sens de la LAVS ;
-d. les capitaux du 2ème pilier, sous déduction d'une franchise de CHF 500'000.-.
+d. les capitaux du 2ème pilier.
+2bis Le capital au sens de l'alinéa 2, lettres b à d est pris en compte sous déduction d'une franchise de CHF 500'000.-.
 3 Toute libération du capital entraîne un nouveau calcul.

@@ -9,4 +9,5 @@
 ### Chapitre III DISPOSITIONS COMMUNES
 #### Section I Organisation, obligation de renseigner et financement
 #### Section II Commission d'évaluation
+#### Section III Comité pour l'octroi de prestations ponctuelles
 ### Chapitre IV Entrée en vigueur
