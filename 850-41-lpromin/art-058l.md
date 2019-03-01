@@ -1,4 +1,4 @@
 # Art. 58l Garantie de l'Etat
 1 L'Etat garantit les emprunts et prêts liés aux investissements immobiliers reconnus pour des frais de construction, de transformation et d'aménagement des institutions socio-éducatives.
-2 Le Grand Conseil détermine chaque année, par voie de décret, le montant maximum des garanties que le département peut octroyer, au nom de l'Etat, pour les emprunts contractés par les institutions socio-éducatives afin de financer leurs investissements, le total des engagements de l'Etat sous cette forme ne pouvant dépasser 68 millions de francs.
+2 Le Grand Conseil détermine chaque année, par voie de décret, le montant maximum des garanties que le département peut octroyer, au nom de l'Etat, pour les emprunts contractés par les institutions socio-éducatives afin de financer leurs investissements, le total des engagements de l'Etat sous cette forme ne pouvant dépasser 116.3 millions de francs.
 3 Le Conseil d'Etat décide, dans les limites fixées par le Grand Conseil, conformément à l'alinéa 2, de l'octroi de la garantie de l'Etat pour les emprunts contractés par les institutions socio-éducatives afin de financer leurs investissements.
