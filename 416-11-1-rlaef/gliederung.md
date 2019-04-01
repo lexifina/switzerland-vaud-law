@@ -8,4 +8,4 @@
 #### Section I Procédure
 #### Section II Protection des données
 #### Section III Commission cantonale des bourses d'études
-### Chapitre IV Dispositions finales
+### Chapitre IV Dispositions transitoires et finales
