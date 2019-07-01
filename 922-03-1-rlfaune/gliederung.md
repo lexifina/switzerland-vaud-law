@@ -12,7 +12,7 @@
 #### Section II Comportement
 ### Chapitre II Zone de chasse
 ### Chapitre III Gibier d'eau
-### Chapitre IV Chiens
+### Chapitre IV Chiens de chasse
 ### Chapitre V Circulation avec des véhicules à moteur et chasse
 #### Section I Définitions
 #### Section II Généralités
