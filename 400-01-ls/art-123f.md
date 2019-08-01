@@ -1,2 +1,0 @@
-# Art. 123f Procédure
-1 La loi sur la procédure administrative est applicable aux décisions rendues en vertu de la présente loi, ainsi qu'aux recours contre dites décisions.

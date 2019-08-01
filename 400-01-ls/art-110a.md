@@ -1,2 +1,0 @@
-# Art. 110a Expropriation
-1 Les communes sont autorisées à exproprier les droits nécessaires à la construction et à l'exploitation rationnelle des bâtiments, locaux et installations prévus à l'article 109.
