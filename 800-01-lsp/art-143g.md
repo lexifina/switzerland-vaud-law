@@ -1,5 +1,12 @@
 # Art. 143g Conditions d'exploitation
-1 L'organisation de soins à domicile doit disposer: d'un directeur répondant aux exigences des articles 147 à 149;d'un médecin-conseil;du personnel spécialisé ayant reçu la formation nécessaire à l'accomplissement de sa mission;des équipements et des locaux nécessaires à la fourniture des soins mentionnés à l'article 143f;d'une structure permettant de répondre aux demandes de soins;d'un système d'information permettant de fournir au département les renseignements statistiques nécessaires;d'un système d'évaluation et d'amélioration de la qualité agréé par le département;ou dépendre par contrat de prestations d'une structure sanitaire qui en dispose.
+1 L'organisation de soins à domicile doit disposer:
+a. d'un directeur répondant aux exigences des articles 147 à 149;
+b. d'un médecin-conseil;
+c. du personnel spécialisé ayant reçu la formation nécessaire à l'accomplissement de sa mission;
+d. des équipements et des locaux nécessaires à la fourniture des soins mentionnés à l'article 143f;
+e. d'une structure permettant de répondre aux demandes de soins;
+f. d'un système d'information permettant de fournir au département les renseignements statistiques nécessaires;
+g. d'un système d'évaluation et d'amélioration de la qualité agréé par le département;ou dépendre par contrat de prestations d'une structure sanitaire qui en dispose.
 2 Pour être admis à pratiquer à la charge de l'assurance obligatoire des soins et bénéficier du versement par l'Etat de subventions destinées à couvrir la part résiduelle du coût des soins en application de la législation fédérale, une organisation de soins à domicile doit respecter par analogie les conditions posées par l'article 4, alinéa 1, lettres a, b, e et h, ainsi que par les articles 32a et suivants de la loi sur la planification et le financement des établissements sanitaires . Elle doit en outre bénéficier d'un mandat accordé par le département, sur la base des conditions suivantes :
 a. capacité de répondre à la couverture des besoins, notamment du point de vue des soins, du champ géographique d'intervention et du type de patientèle ;
 b. présence d'un dispositif d'admission, d'évaluation et de suivi des cas ;
