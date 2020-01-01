@@ -10,12 +10,14 @@
 #### Section V Activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant
 #### Section VI Application de la loi fédérale sur le crédit à la consommation
 #### Section VII Prêt sur gage et achat à réméré
+#### Section VIII TRANSPORT DE PERSONNES À TITRE PROFESSIONNEL
 ### Chapitre III Autorisations délivrées par la préfecture
 #### Section I Commerce itinérant, forains et cirques
 #### Section II Vente en détail de tabac
-### Chapitre IV Autorisation délivrée par la commune
+### Chapitre IV Autorisation délivrée par la commune ou l'association de communes
 #### Section I Commerce d'occasions
 #### Section II Appareils automatiques mis à disposition du public contre finance
+#### Section III TRANSPORT DE PERSONNES À TITRE PROFESSIONNEL
 ## Titre IV Autres activités économiques
 #### Section I Autres crédits et courtages en crédit
 #### Section II Indication des prix
