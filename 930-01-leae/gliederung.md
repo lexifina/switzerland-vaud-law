@@ -24,6 +24,7 @@
 #### Section III Surveillance des prix
 #### Section IV Activité ayant une influence sur le psychisme
 #### Section V Solariums
+## Titre IVbis Protection des données
 ## Titre V Surveillance et voies de droit
 #### Section I En général
 #### Section II Procédure de surveillance
