@@ -1,0 +1,8 @@
+# Art. 58d Dispositions d'exécution
+1 Le règlement d'application de la présente loi fixe des dispositions d'exécution. Il définit en particulier :
+a. les catégories de données personnelles traitées ;
+b. les droits d'accès ;
+c. les mesures de sécurité techniques et organisationnelles destinées à empêcher le traitement des données par un tiers non autorisé ;
+d. les critères et les modalités de transmission des données personnelles, y compris sensibles, notamment entre les autorités ;
+e. les délais de conservation des données ;
+f. l'archivage et l'effacement des données.
