@@ -1,0 +1,8 @@
+# Art. 8c Vérification formelle de l'analyse du personnel des établissements cantonaux de droit public
+1 Les établissements de droit public qui occupent un effectif d'au moins 100 travailleurs font vérifier leur analyse de l'égalité des salaires par un organe indépendant. Ils peuvent faire appel, au choix:
+a. à une entreprise de révision agréée au sens de la loi du 16 décembre 2005 sur la surveillance de la révision;
+b. à une organisation au sens de l'article 7 LEg ou à une représentation des travailleurs au sens de la loi du 17 décembre 1993 sur la participation.
+2 Lorsque la vérification a été confiée à une entreprise de révision agréée, les personnes qui dirigent la révision vérifient que l'analyse de l'égalité des salaires, au sens de l'article 7 alinéa 2 de l'Ordonnance sur la vérification de l'analyse de l'égalité des salaires, a été effectuée correctement au plan formel et établissent un rapport à l'intention de la direction dans un délai d'un an après que l'analyse a été effectuée.
+3 Lorsque la vérification a été confiée à une organisation au sens de l'article 7 LEg ou à une représentation des travailleurs, l'employeur conclut avec l'organisation au sens de l'article 7 LEg ou la représentation des travailleurs une convention sur la marche à suivre pour la vérification et la remise du rapport à la direction de l'entreprise.
+4 Les employeurs publient les résultats détaillés de l'analyse de l'égalité des salaires et de sa vérification.
+5 Les résultats détaillés de l'analyse et de la vérification sont publiés à l'interne et à l'externe par les canaux appropriés. Les employeurs en définissent le mode de diffusion.
