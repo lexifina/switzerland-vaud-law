@@ -1,3 +1,3 @@
 # Art. 17a Emolument administratif cantonal
-1 Le service perçoit un émolument administratif de Fr. 15.–, TVA incluse, sous forme de vignette. Son montant est encaissé par l'entreprise de ramonage et entièrement reversé au service. Il figure sur la facture de ramonage de manière séparée des honoraires de l'entreprise.
+1 Le service perçoit un émolument administratif de Fr. 15.–, TVA incluse, sous forme de vignette. Son montant est encaissé par l'entreprise de ramonage et entièrement reversé au service. Il figure sur la facture de ramonage de manière séparée des honoraires de l'entreprise (art. 17).
 2 ...
