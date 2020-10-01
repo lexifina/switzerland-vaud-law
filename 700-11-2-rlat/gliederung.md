@@ -13,5 +13,6 @@
 ### Chapitre I Dispositions générales
 ### Chapitre II Décision de taxation
 ### Chapitre III Décision de perception
+### Chapitre IIIbis Décision d'indemnisation
 ### Chapitre IV Fonds
 ### Chapitre V Dispositions finales
