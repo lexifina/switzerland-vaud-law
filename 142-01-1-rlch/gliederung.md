@@ -1,6 +1,6 @@
 #### Section I Déclarations obligatoires
 #### Section II Organisation
-#### Section III Carte d'identité
+#### Section III ...
 #### Section IV Transmission de données
 #### Section V Émoluments
 #### Section VI Dispositions finales
