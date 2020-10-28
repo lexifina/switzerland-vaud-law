@@ -19,4 +19,4 @@
 ### Chapitre I Dispositions générales
 ### Chapitre II Retrait de l'autorisation et sanctions administratives
 ## Titre VI Procédure applicable en matière de sanctions ou de retrait d'autorisation par le département
-## Titre VII Dispositions finales
+## Titre VII Dispositions finales et transitoires

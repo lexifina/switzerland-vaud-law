@@ -1,0 +1,3 @@
+# Art. 73a Dispositions transitoires du règlement modifiant du 28 octobre 2020 - Laboratoire fermé et articles en vente (article 28 alinéas 1 lettre b et 2bis)
+1 Le département peut accorder à une pharmacie déjà au bénéfice d'une autorisation d'exploiter et qui renonce à l'autorisation cantonale de fabriquer un délai pour se conformer à l'article 28 alinéa 1, lettre b, qui ne peut toutefois aller au-delà de la remise de la pharmacie à un nouvel exploitant.
+2 Les pharmaciens responsables des pharmacies d'officine qui vendent des articles autres que ceux autorisés au sens de l'article 28 alinéa 2bis ont un délai d'un an dès l'entrée en vigueur de cette disposition pour s'y conformer.
