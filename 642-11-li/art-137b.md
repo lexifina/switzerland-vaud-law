@@ -1,8 +1,8 @@
-# Art. 137b Obligations en procédure simplifiée
-1 Dans la procédure simplifiée selon l'article 137a, l'employeur est tenu :
-a. de retenir l'impôt dû à l'échéance des prestations en espèces et de prélever auprès des travailleurs ou travailleuses l'impôt dû sur d'autres prestations (notamment les revenus en nature et les pourboires) ;
-b. de verser périodiquement les impôts à la caisse de compensation AVS compétente et d'en établir les relevés à son intention en temps utile.
-2 L'impôt est également retenu lorsque le travailleur ou la travailleuse est domicilié ou en séjour dans un autre canton.
-3 L'employeur répond du paiement de l'impôt.
-4 La caisse de compensation AVS remet au contribuable un relevé ou une attestation indiquant le montant de l'impôt retenu. Elle verse les impôts encaissés à l'autorité fiscale compétente.
-5 Le droit à une commission de perception selon l'article 135, alinéa 4, est transféré à la caisse de compensation AVS compétente.
+# Art. 137b Procédure simplifiée
+1 Pour les petites rémunérations provenant d'une activité lucrative dépendante, l'impôt est prélevé à la source au taux fixe de 4.5% sans tenir compte des autres revenus, ni d'éventuels frais professionnels ou déductions sociales, à la condition que l'employeur paie l'impôt dans le cadre de la procédure simplifiée prévue aux articles 2 et 3 de la loi fédérale du 17 juin 2005 concernant des mesures en matière de lutte contre le travail au noir (loi fédérale sur le travail au noir LTN).
+a. ...
+b. ...
+2 Les impôts cantonaux et communaux sur le revenu sont ainsi acquittés. Ces revenus ne sont pas pris en compte pour déterminer le taux d'imposition dans la procédure ordinaire de taxation.
+3 Les modalités relatives à la procédure simplifiée édictées par le Conseil fédéral s'appliquent par analogie.
+4 ...
+5 ...

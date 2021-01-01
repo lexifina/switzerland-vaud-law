@@ -1,0 +1,3 @@
+# Art. 147a Représentation obligatoire
+1 Les autorités fiscales peuvent exiger que le contribuable qui a son domicile ou son siège à l'étranger désigne un représentant en Suisse.
+2 Les personnes qui demandent une taxation ordinaire ultérieure en application de l'article 146a doivent fournir les documents requis et indiquer une adresse de notification en Suisse. A défaut ou si l'adresse indiquée perd sa validité pendant la procédure de taxation, l'autorité fiscale impartit à la personne contribuable un délai approprié pour lui indiquer une adresse de notification valable. Si ce délai échoit sans avoir été utilisé, l'imposition à la source se substitue à l'imposition du revenu du travail en procédure ordinaire. L'article 168 alinéa 1 s'applique par analogie.

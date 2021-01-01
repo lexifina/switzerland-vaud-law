@@ -1,0 +1,2 @@
+# Art. 176a Obligation d'être représenté
+1 Les autorités fiscales peuvent exiger que le contribuable qui a son domicile ou son siège à l'étranger désigne un représentant en Suisse.

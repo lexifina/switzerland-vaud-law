@@ -66,7 +66,7 @@
 ## Titre VI Impôt complémentaire sur les immeubles appartenant aux personnes morales
 ## Partie IV Imposition à la source des personnes physiques et morales
 ## Titre I Personnes physiques domiciliées ou en séjour dans le canton au regard du droit fiscal
-## Titre II Personnes physiques et morales qui ne sont ni domiciliées ni en séjour en suisse au regard du droit fiscal
+## Titre II Personnes physiques qui ne sont ni domiciliés ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n'ont ni leur siège ni leur administration effective en Suisse
 ## Partie V Procédure
 ## Titre I Autorités
 ## Titre II Principes généraux de procédure
