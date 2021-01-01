@@ -17,18 +17,20 @@
 #### Section V Maître assistant et assistant
 #### Section VI Renouvellement et cessation des fonctions
 #### Section VII Dispositions diverses
-## Titre V Etudiants, doctorants et auditeurs
+## Titre V Etudiants, auditeurs et formation continue
 ### Chapitre I Etudiants
 #### Section I Immatriculation
 #### Section II Inscription
 ##### Sous-section I Dispositions générales
-##### Sous-section II Inscription en vue de l'obtention d'un bachelor (baccalauréat universitaire)
-##### Sous-section III Inscription en vue de l'obtention d'un master (maîtrise universitaire)
-#### Section III Admission sur dossier en vue de l'obtention d'un bachelor (baccalauréat universitaire)
+##### Sous-section II Inscription en vue de l'obtention d'un bachelor ou en vue d'une formation à l'EFLE
+##### Sous-section III Inscription en vue de l'obtention d'un master
+##### Sous-section IV Inscription en vue de l'obtention d'un doctorat
+#### Section III Admission sur dossier en vue de l'obtention d'un bachelor
 #### Section IV Exclusion, renvoi, exmatriculation
-#### Section V Dispositions diverses
+#### Section V Autres dispositions
 ### Chapitre II Doctorants
 ### Chapitre III Auditeurs
+### Chapitre IV Formation continue
 ## Titre VI Discipline
 ## Titre VII Commission de recours
 ## Titre VIII Dispositions finales

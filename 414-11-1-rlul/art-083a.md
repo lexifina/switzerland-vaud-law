@@ -1,0 +1,3 @@
+# Art. 83a Conditions d'admission
+1 Sont admises à l'inscription en vue de l'obtention d'un doctorat les personnes qui possèdent un master délivré par une université suisse ou un grade jugé équivalent par la Direction. Des dérogations sont possibles par décision de la Direction.
+2 Les conditions supplémentaires à remplir sont fixées par la Direction ainsi que dans les règlements de faculté.

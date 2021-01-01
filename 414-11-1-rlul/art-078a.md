@@ -1,3 +1,4 @@
 # Art. 78a Refus d'inscription
-1 L'étudiant qui a été éliminé d'un cursus de bachelor ou de master au sein de l'Université de Lausanne ne peut plus s'inscrire dans ce même cursus.
+1 L'étudiant qui a été exclu d'un cursus de bachelor, de master, du doctorat ou de l'EFLE au sein de l'Université de Lausanne ne peut plus s'inscrire dans cette même formation.
 2 L'étudiant qui n'est plus autorisé à poursuivre ses études dans une autre haute école suisse ou étrangère n'est pas autorisé à s'inscrire dans la même orientation ou discipline à l'Université.
+3 Dans le cas où une durée d'au moins huit années s'est écoulée depuis l'exclusion, l'étudiant bénéficie des mêmes conditions que les autres candidats qui se présentent à l'inscription et qui commencent leurs études universitaires, y compris dans le choix d'une orientation ou discipline. En revanche, aucune équivalence ne pourra lui être octroyée pour ses cursus antérieurement interrompus ou échoués.
