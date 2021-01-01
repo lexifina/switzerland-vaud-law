@@ -7,6 +7,7 @@
 #### Section III La détention administrative
 #### Section IV Procédure de recours
 #### Section V Perquisition et fouille
+### Chapitre IVbis Opposition
 ### Chapitre V Protection des données personnelles
 ### Chapitre VI Emoluments
 ### Chapitre VII Responsabilité des communes
