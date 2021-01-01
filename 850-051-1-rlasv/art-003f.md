@@ -1,0 +1,4 @@
+# Art. 3f Moyens de l'observation (art. 39d LASV)
+1 L'utilisation d'instruments permettant des enregistrements visuels qui améliorent considérablement les capacités de perception humaine, tels que des lunettes de vision nocturne, est interdite.
+2 L'utilisation d'instruments permettant des enregistrements sonores qui améliorent les capacités de perception humaine, tels que micros directionnels, puces ou amplificateurs de son, est interdite. Il est interdit d'exploiter l'enregistrement de propos non publics; si ces enregistrements sont contenus dans des enregistrements vidéo, ces derniers sont néanmoins exploitables sans les enregistrements sonores.
+3 Pour déterminer la localisation, seuls peuvent être utilisés les instruments qui servent à cette fin conformément à leur usage, comme les appareils de localisation par satellite. L'utilisation d'aéronefs est interdite.
