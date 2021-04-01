@@ -2,6 +2,7 @@
 ### Chapitre I Registre cantonal des vignes
 ### Chapitre II Acquit
 ### Chapitre III Modalités de limitation de la production
+### Chapitre IV Protection des données
 ## Titre II Contrôle officiel de la vendange
 ### Chapitre I Dispositions générales
 ### Chapitre II Détermination quantitative de la production et modalités
