@@ -1,2 +1,2 @@
 # Art. 62c Disposition transitoire de la loi du 31 janvier 2017
-1 Dès l'entrée en vigueur de la présente loi, les communes disposent d'un délai de 3 ans pour organiser l'accueil du matin pour les élèves scolarisés de la 1 èreannée primaire à la 6 ème année primaire. Elles disposent également d'un délai de 3 ans pour organiser l'accueil de l'après-midi pour les enfants scolarisés de la 5 ème à la 8 ème année primaire.
+1 Dès l'entrée en vigueur de la présente loi, les communes disposent d'un délai de 4 ans pour organiser l'accueil du matin pour les élèves scolarisés de la 1ère année primaire à la 6ème année primaire. Elles disposent également d'un délai de 4 ans pour organiser l'accueil de l'après-midi pour les enfants scolarisés de la 5ème à la 8ème année primaire.
