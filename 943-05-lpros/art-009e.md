@@ -1,0 +1,2 @@
+# Art. 9e Début de l'exploitation
+1 Un salon ne peut être exploité qu'à partir du moment où l'autorisation est délivrée à l'intéressé. La Police cantonale du commerce veille à ce que le salon ne soit pas ouvert ou exploité auparavant. Elle peut déléguer cette compétence à la Police cantonale, la Municipalité ou la Police communale selon convention établie entre le Conseil d'Etat et la Commune concernée.
