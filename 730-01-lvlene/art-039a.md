@@ -7,3 +7,4 @@
 6 Le Conseil d'Etat adopte dans un délai de deux ans un règlement qui précise les exigences techniques et les modalités pratiques du certificat. La méthodologie et les bases de l'établissement du certificat sont publiées sur le site Internet de l'Etat de Vaud.
 7 Le Conseil d'Etat peut accorder un délai de maximum 5 ans dès l'entrée en vigueur du règlement pour rendre obligatoire l'établissement du certificat.
 8 L'établissement d'un CECB n'est lié à aucune obligation d'assainissement énergétique des bâtiments.
+9 Le service peut accorder des subventions pour l'établissement d'un CECB Plus, même si ce dernier répond à une obligation légale.
