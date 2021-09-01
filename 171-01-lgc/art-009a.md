@@ -1,0 +1,2 @@
+# Art. 9a Interdiction d'accepter ou de solliciter des libéralités ou d'autres avantages
+1 Les membres du Grand Conseil ne doivent ni accepter, ni solliciter, ni se faire promettre des libéralités ou d'autres avantages directement ou indirectement liés à l'exercice de leur fonction, que ce soit pour eux-mêmes ou pour des tiers. Font exception les libéralités ou les avantages usuels et de faible valeur.
