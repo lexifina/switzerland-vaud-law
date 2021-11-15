@@ -10,3 +10,5 @@
 ### Chapitre II Grands consommateurs
 ### Chapitre III Installations diverses
 ### Chapitre IV Piscines et jacuzzis chauffés
+## Titre V Exécution des travaux, permis d'habiter ou d'utiliser
+## Titre VI Disposition finale
