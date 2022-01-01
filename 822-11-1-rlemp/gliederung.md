@@ -5,6 +5,7 @@
 ## Titre II Emploi et aide aux chômeurs
 ### Chapitre I Service public de l'emploi et chômage
 #### Section I ORP
+#### Section Ibis Caisse cantonale de chômage (CCh)
 #### Section II Commission tripartite ORP
 ### Chapitre Ibis Assurance perte de gain maladie pour les bénéficiaires d'indemnités de chômage (APGM)
 #### Section I Généralités
