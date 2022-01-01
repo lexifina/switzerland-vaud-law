@@ -6,6 +6,7 @@
 #### Section II Organes
 #### Section III Personnel
 #### Section IV Organisation interne
+#### Section V Patrimoine immobilier
 ## Titre III Assistance aux demandeurs d'asile
 ### Chapitre I Dispositions générales
 ### Chapitre II Prestations en nature
@@ -17,7 +18,7 @@
 #### Section IV Autres prestations en nature
 ### Chapitre III Prestations financières
 ## Titre IV Assistance aux mineurs non accompagnés
-## Titre V Aide aux personnes séjournant illégalement sur territoire vaudois
+## Titre V Aide d'urgence
 ## Titre VI Aide au retour
 ## Titre VII Financement
 ### Chapitre I Subventions fédérales
