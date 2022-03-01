@@ -20,7 +20,7 @@
 ##### Sous-section III Plans de gestion
 ##### Sous-section IV Plans sectoriels forestiers
 #### Section II Gestion des forêts
-#### Section III Prévention et réparation des dégâts aux forets
+#### Section III Prévention et réparation des dégâts aux forêts
 ### Chapitre V Formation professionnelle, vulgarisation et information
 ### Chapitre VI Mesures d'encouragement
 #### Section I Promotion de l'économie forestière et du bois
