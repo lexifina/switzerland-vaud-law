@@ -1,0 +1,4 @@
+# Art. 58c Système d'information
+1 Les données, y compris sensibles, sont traitées via un système d'information du département.
+2 Seules les personnes autorisées des autorités cantonales et communales compétentes y ont accès.
+3 Pour le surplus, les exigences de la Direction générale du numérique et des systèmes d'information (DGNSI) en matière de sécurité informatique et de droits d'accès aux systèmes d'information de l'Etat de Vaud sont applicables.

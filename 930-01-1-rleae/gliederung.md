@@ -19,4 +19,5 @@
 ## Titre V Surveillance et voies de droit (Titre V de la loi)
 ### Chapitre I Achats-tests (art. 98a à 98c de la loi)
 ## Titre VI Emoluments
+## Titre VIbis Protection des données
 ## Titre VII Dispositions finales

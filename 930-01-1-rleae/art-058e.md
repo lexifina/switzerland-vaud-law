@@ -1,0 +1,4 @@
+# Art. 58e Conservation, archivage et destruction des données
+1 Les données sont conservées 10 ans après la clôture du dossier.
+2 A l'échéance de ce délai de 10 ans, les données à archiver sont versées aux archives cantonales selon les règles définies dans le calendrier de conservation.
+3 Les données qui ne sont pas versées aux archives cantonales à l'échéance de leur délai de conservation sont détruites.
