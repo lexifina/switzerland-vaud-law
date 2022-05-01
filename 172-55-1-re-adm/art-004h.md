@@ -9,4 +9,4 @@ f. autorisation spécifique pour les services d'ambulances ou d'hélicoptères a
 1. autorisation de diriger pour le responsable de l'établissement Fr. 600.-
 g. autorisations spécifiques pour les entreprises de pompes funèbres
 1. autorisation d'exhumer Fr. 500.-
-2. déplacement de personnel en relation avec 7.1. Fr. 250.-/h
+2. déplacement de personnel en relation avec la lettre g chiffre 1 Fr. 250.-/h
