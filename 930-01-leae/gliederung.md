@@ -18,6 +18,8 @@
 #### Section I Commerce d'occasions
 #### Section II Appareils automatiques mis à disposition du public contre finance
 #### Section III TRANSPORT DE PERSONNES À TITRE PROFESSIONNEL
+## Titre IIIbis Activités économiques soumises à annonce
+### Chapitre I Location ou sous-location d'hébergement de brève durée
 ## Titre IV Autres activités économiques
 #### Section I Autres crédits et courtages en crédit
 #### Section II Indication des prix
