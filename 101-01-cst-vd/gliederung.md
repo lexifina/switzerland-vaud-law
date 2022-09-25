@@ -32,11 +32,13 @@
 #### Section II Composition
 #### Section III Organisation
 #### Section IV Compétences
-#### Section V Ministère public
-### Chapitre IV Tribunaux
+#### Section V ...
+### Chapitre IV Tribunaux et Ministère public
 #### Section I Principes généraux
 #### Section II Tribunal Cantonal
 #### Section III Cour constitutionnelle
+#### Section IV Ministère public
+#### Section V Conseil de la magistrature
 ## Titre VI Communes et districts
 ### Chapitre I Communes
 #### Section I Dispositions générales
