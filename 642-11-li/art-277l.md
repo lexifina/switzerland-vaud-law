@@ -1,0 +1,2 @@
+# Art. 277l Déduction pour frais de garde
+1 Pour la période fiscale 2023, l'article 37, alinéa 1, lettre k a la teneur suivante.Sont déduits du revenu :un montant de 13'000 francs au maximum pour chaque enfant dont la garde est assurée par un tiers, si l'enfant a moins de 14 ans et vit dans le même ménage que le contribuable assurant son entretien et si les frais de garde, documentés, ont un lien de causalité direct avec l'activité lucrative, la formation ou l'incapacité de gain du contribuable.
