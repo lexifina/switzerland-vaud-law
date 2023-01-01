@@ -3,7 +3,7 @@
 ### Chapitre II Magistrats de l'ordre judiciaire
 #### Section I Elections et nominations
 #### Section II Rétribution
-#### Section III Surveillance, discipline et renvoi pour justes motifs
+#### Section III Surveillance
 #### Section IV Cessation des fonctions
 ### Chapitre III Collaborateurs de l'ordre judiciaire
 ### Chapitre IV Formation professionnelle
