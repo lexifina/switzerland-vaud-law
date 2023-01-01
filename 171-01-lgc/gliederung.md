@@ -16,8 +16,9 @@
 ##### Sous-section I Dispositions générales et communes aux commissions en matière de gestion et de finances
 ##### Sous-section II Commission de gestion
 ##### Sous-section III Commission des finances
-#### Section IIbis Commission de haute surveillance
+#### Section IIbis ...
 #### Section III Commissions thématiques
+#### Section IIIbis Commission thématiques des affaires juridiques
 #### Section IV Commission thématique en charge des affaires extérieures
 #### Section IVbis Commission des visiteurs du Grand Conseil
 #### Section V Commissions ad hoc
@@ -42,7 +43,7 @@
 ### Chapitre XI Publication et archives
 ### Chapitre XII Elections
 #### Section I Elections judiciaires
-#### Section Ibis Election du procureur général
+#### Section Ibis Election du Procureur général et des Procureurs généraux adjoints
 #### Section II Election des membres de la Cour des comptes
 #### Section IIbis Election des assesseurs
 #### Section III Commission de présentation
