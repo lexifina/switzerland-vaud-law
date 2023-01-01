@@ -1,3 +1,4 @@
 # Art. 1b Organisation et délégation
 1 Le Conseil d'Etat délègue à un ou plusieurs organes décisionnels décentralisés (ci-après : organes décisionnels) l'exécution des tâches relatives aux prestations régies par la présente loi, à l'exception de celles prévues par l'article 27b.
+1bis La direction en charge de la cohésion sociale a la compétence de dénoncer aux autorités pénales compétentes les infractions à la présente loi ou de porter plainte, avec tous les droits au sens de l'article 104, alinéa 2 CPP, contre toute personne responsable de violations à la présente loi. La direction en charge de la cohésion sociale peut déléguer cette compétence à l'agence d'assurance sociale de Lausanne, par son organe décisionnel.
 2 Les organes décisionnels sont rattachés à des collectivités publiques ou à des personnes morales de droit public.
