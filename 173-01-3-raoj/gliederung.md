@@ -1,7 +1,7 @@
 ### Chapitre I Attributions
 #### Section I Direction de l'ordre judiciaire
 #### Section II Cour plénière (8 et 69 LOJV)
-#### Section III Autorité de surveillance
+#### Section III ...
 #### Section IV Cour administrative
 #### Section V Président du Tribunal Cantonal
 #### Section VI Suppléances
