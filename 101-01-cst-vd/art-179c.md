@@ -1,0 +1,3 @@
+# Art. 179c Disposition transitoire de l'article 162, alinéa 1bis
+1 L'Etat et les communes veillent à ce que les personnes morales au sens de l'article 162 alinéa 1, élaborent des plans d'action de réduction massive des flux financiers et placements qui contreviennent aux objectifs climatiques internationaux de la Suisse (désinvestissement des énergies fossiles), avec des objectifs intermédiaires pour 2030 et 2040.
+2 L'Etat et les communes veillent à ce que les montants dégagés par ce désinvestissement soient réinvestis dans des activités suivant les principes de l'article 52b tout en étant également socialement responsables.
