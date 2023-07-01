@@ -3,7 +3,7 @@
 ### Chapitre I Définitions et prestations
 #### Section I Maintien à domicile
 #### Section II Centre d'accueil temporaire
-#### Section III Logement protégé
+#### Section III Logement adapté avec accompagnement et logement supervisé
 #### Section IV Court séjour
 ### Chapitre II Subventions aux organismes favorisant le maintien à domicile
 ## Titre III Hébergement
