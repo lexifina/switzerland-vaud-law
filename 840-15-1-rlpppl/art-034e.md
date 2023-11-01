@@ -1,0 +1,2 @@
+# Art. 34e Adjudication publique
+1 Une fois qu'elle a acquis un bien-fonds au moyen de son droit de préemption, la commune qui souhaite le mettre à disposition d'un tiers, conformément à l'article 35, alinéa 2 LPPPL, doit procéder à une procédure d'adjudication publique visant la création de LUP. L'adjudication peut définir des conditions de réalisation des LUP (p.ex. niveau de performance énergétique, niveau de loyers, types de LUP).

@@ -1,0 +1,2 @@
+# Art. 34c Droit de réméré et droit d'emption de l'acquéreur évincé - délai
+1 Le délai de trois ans dont dispose la commune pour mettre à disposition d'un tiers le bien-fonds ou déposer une demande de permis de construire ou celui de cinq ans dont la commune dispose pour déposer un projet à l'examen préalable lorsque la demande nécessite une adaptation du plan d'affectation courent à compter de la date de l'inscription du transfert de propriété au registre foncier.
