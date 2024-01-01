@@ -4,6 +4,7 @@
 #### Section I Droits
 #### Section II Mesures de contrainte
 #### Section III Bureau de la médiation et commission d'examen des plaintes
+#### Section IIIbis Traitement de données personnelles
 #### Section IV Prestations et établissements socio-éducatifs
 ## Titre II Organisation
 ### Chapitre I Compétences du département
