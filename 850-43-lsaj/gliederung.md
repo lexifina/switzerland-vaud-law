@@ -5,7 +5,7 @@
 #### Section III Commission de jeunes
 #### Section IV Au niveau communal
 ### Chapitre III Mesures de soutien et de reconnaissance
-#### Section I Projets d'activités de jeunesse ou d'organisations de jeunesse
+#### Section I Aides financières aux activités de jeunesse
 #### Section II Subventions aux organisations s'occupant de la jeunesse
 #### Section III Reconnaissance et formation
 ### Chapitre IV Dispositions transitoires et finales
