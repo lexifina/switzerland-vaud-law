@@ -1,7 +1,7 @@
 ### Chapitre I Dispositions générales
 ### Chapitre II Organisation
 ### Chapitre III Missions du CHUV
-### Chapitre IV Conseil du CHUV
+### Chapitre IV Conseil stratégique du CHUV
 ### Chapitre V Directions transversales
 #### Section I Direction des ressources humaines
 #### Section II Direction des systèmes d'information
