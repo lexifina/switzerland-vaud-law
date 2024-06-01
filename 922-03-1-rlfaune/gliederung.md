@@ -23,7 +23,7 @@
 #### Section III Munitions
 #### Section IV Tir
 #### Section V Piégeage
-## Titre VII Statistiques et controle du gibier tire
-## Titre VIII Dommages causés par le gibier
+## Titre VII Statistiques et contrôle
+## Titre VIII Dommages causés par les espèces pouvant être chassées
 ## Titre IX Gardiennage
 ## Titre X Dispositions finales
