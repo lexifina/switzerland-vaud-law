@@ -4,5 +4,5 @@
 ### Chapitre IV Commission de préavis
 ### Chapitre IVbis Permanence de médiation de l'Ordre judiciaire vaudois
 ### Chapitre V Sanctions disciplinaires et radiation
-### Chapitre VI Tarif des médiations gratuites
+### Chapitre VI Tarif des médiations gratuites ou à charge de l'assistance judiciaire
 ### Chapitre VII Dispositions finales
