@@ -1,0 +1,2 @@
+# Art. 36a Dispositions transitoires de la modification du règlement du 3 juillet 2024
+1 Les exploitants d'un commerce qui sont au bénéfice d'une autorisation de vente en détail au sens de l'article 66a de la LEAE, ainsi que toute personne physique ou morale soumise à la loi sur les procédés de réclame (LPR), ont jusqu'au 31 janvier 2025 pour procéder aux adaptations nécessaires conformément à l'article 2a, alinéas 2, 4 et 5, du présent règlement.
