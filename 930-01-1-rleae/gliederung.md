@@ -8,7 +8,7 @@
 #### Section III Prêt sur gage et achat à réméré (Section VII de la loi)
 ### Chapitre III Autorisation délivrée par la préfecture
 #### Section I Commerce itinérant (Section I de la loi)
-#### Section II Vente en détail de tabac (Section II de la loi)
+#### Section II Vente en détail de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits (Section II de la loi)
 ### Chapitre IV Autorisation délivrée par la commune
 #### Section I Commerce d'occasions
 #### Section II Appareils automatiques mis à disposition du public contre finance
@@ -20,4 +20,4 @@
 ### Chapitre I Achats-tests (art. 98a à 98c de la loi)
 ## Titre VI Emoluments
 ## Titre VIbis Protection des données
-## Titre VII Dispositions finales
+## Titre VII Dispositions transitoires et finales
