@@ -1,2 +1,2 @@
 # Art. 66h Vente de tabac par appareils automatiques
-1 Est interdite la vente de tabac par le biais d'appareils automatiques aux endroits accessibles au public, à l'exception des appareils placés à l'intérieur des établissements surveillés par leur exploitant.
+1 Est interdite la vente de produits du tabac et d'autres produits assimilables par le biais d'appareils automatiques aux endroits accessibles au public, à l'exception des appareils placés à l'intérieur des établissements qui nécessitent l'obtention d'une licence au sens de la législation sur les auberges et débits de boissons (LADB) surveillés par leur exploitant. La vente par le biais de ces appareils est cependant interdite aux mineurs.
