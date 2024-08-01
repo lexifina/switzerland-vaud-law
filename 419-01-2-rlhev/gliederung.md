@@ -1,5 +1,5 @@
 ### Chapitre I Dispositions générales
-### Chapitre II Structure et organes des hautes écoles
+### Chapitre II Organes des hautes écoles
 #### Section I Direction
 ##### Sous-section I Direction des hautes écoles cantonales
 ##### Sous-section II Direction des hautes écoles privées subventionnées
