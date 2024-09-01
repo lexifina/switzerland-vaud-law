@@ -21,4 +21,5 @@
 ### Chapitre II Conditions d'octroi de la mention Premier grand cru
 ### Chapitre III Organisation administrative
 ## Titre V TERMES VINICOLES SPECIFIQUES
+## Titre Va Comité de direction de l'Office des vins vaudois
 ## Titre VI DISPOSITIONS PÉNALES, TRANSITOIRES, ABROGATOIRES ET FINALES
