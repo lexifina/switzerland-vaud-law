@@ -1,4 +1,4 @@
 # Art. 22b Autres frais en matière de lutte contre les cas de pollution
-1 Les frais d'intervention, d'assainissement et des autres mesures de lutte contre les cas de pollution, ainsi que les frais liés à la prévention d'un danger de pollution, sont mis à la charge de ceux qui en sont la cause, par décision du département.
+1 Les frais d'intervention, d'assainissement et des autres mesures de lutte contre les cas de pollution, ainsi que les frais liés à la prévention d'un danger de pollution, sont mis à la charge de ceux qui en sont la cause, par décision du département en charge de la lutte contre les cas de pollution.
 2 Les personnes qui subissent un dommage du fait d'une intervention en matière de lutte contre les cas de pollution peuvent en réclamer la réparation à l'Etat, à moins qu'elles n'aient causé elles-mêmes cette intervention. Les prétentions à l'égard de ceux qui ont causé la pollution, au sens de l'alinéa 1 ci-dessus, sont réservées.
 3 Les avances de frais faites par l'Etat lui sont remboursées. Les dépenses occasionnées par l'intervention des services publics sont facturées sur la base d'un tarif établi par le Conseil d'Etat.

@@ -1,0 +1,6 @@
+# Art. 22c Autres frais en matière de lutte contre les incendies de forêt
+1 En cas d'incendie de forêt, les frais d'intervention, de remise en état et des autres mesures sont mis à la charge de ceux qui en sont la cause, par décision du département en charge de la lutte contre les incendies de forêt.
+2 Lorsque tel ne peut pas être le cas, parce que le responsable de l'incendie ne peut pas être identifié ou pour d'autres motifs, les frais sont assumés par l'Etat.
+3 Lorsqu'ils concernent une intervention dans une forêt appartenant à une collectivité publique ou la remise en état d'une forêt appartenant à une collectivité publique, les frais peuvent être mis à la charge de cette collectivité publique à raison de 30% au maximum.
+4 Les personnes qui subissent un dommage du fait d'une intervention en matière de lutte contre les incendies de forêt peuvent en réclamer la réparation à l'Etat, à moins qu'elles n'aient causé elles-mêmes cette intervention. Les prétentions à l'égard de ceux qui ont causé l'incendie, au sens de l'alinéa 1 ci-dessus, sont réservées.
+5 Les avances de frais faites par l'Etat lui sont remboursées. Les dépenses occasionnées par l'intervention des services publics sont facturées sur la base d'un tarif établi par le Conseil d'Etat.
