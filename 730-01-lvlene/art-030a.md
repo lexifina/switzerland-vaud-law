@@ -4,4 +4,5 @@
 a. pour des installations provisoires ;
 b. pour des chauffages de secours ;
 c. lorsque le recours à un autre système de chauffage est impossible ou disproportionné.
+2bis L'assainissement des chauffages et chauffe-eau électriques est réglé par un décret.
 3 Le Conseil d'Etat peut accorder des subventions pour le remplacement des chauffages électriques fixes lorsque le nouveau vecteur énergétique est basé sur une énergie renouvelable.
