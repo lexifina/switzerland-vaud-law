@@ -3,7 +3,7 @@
 #### Section II Conditions
 ### Chapitre II Procédure
 ### Chapitre III Modification de la situation des locataires ou des sous-locataires
-### Chapitre IV Recours et sanctions
-#### Section I Recours
+### Chapitre IV Réclamation et sanctions
+#### Section I Réclamation
 #### Section II Sanctions
 ### Chapitre V Dispositions transitoires et finales
