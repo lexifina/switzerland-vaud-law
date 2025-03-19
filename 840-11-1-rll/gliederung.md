@@ -8,5 +8,5 @@
 #### Section III Variation des loyers
 ### Chapitre IV Gestion des immeubles qui bénéficient de l'aide à la pierre
 ### Chapitre V Mixité sociale
-### Chapitre VI Recours
+### Chapitre VI Réclamation
 ## Titre III Dispositions finales
