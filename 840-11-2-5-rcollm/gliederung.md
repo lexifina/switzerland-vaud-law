@@ -7,4 +7,4 @@
 ### Chapitre III Contrôle des conditions d'occupation
 #### Section I Modification de la situation des locataires et des sous-locataires
 #### Section II Dérogations en cours de bail
-### Chapitre IV Recours et sanctions
+### Chapitre IV Réclamation et sanctions
