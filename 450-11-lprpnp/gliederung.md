@@ -12,6 +12,7 @@
 #### Section I Classement, plan d'affectation, acquisition et propriété publique
 #### Section II Mesures d'entretien
 #### Section III Mesures spécifiques pour la Venoge
+#### Section IV Mesures spécifiques pour le Mormont
 ### Chapitre V Prévention, réduction et réparation des atteintes
 #### Section I Prévention des atteintes
 #### Section II Réduction des atteintes, remplacement et réparation
