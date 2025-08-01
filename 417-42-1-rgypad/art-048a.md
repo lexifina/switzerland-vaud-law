@@ -1,0 +1,2 @@
+# Art. 48a Dispositions transitoires de la modification du 5 novembre 2025
+1 Les modifications de l'article 32 (stage extrascolaire) introduites par la révision du 5 novembre 2025 s'appliquent aux étudiants qui entament ou répètent leur 3e année de l'Ecole de culture générale pour adultes ou l'année additionnelle à compter de la rentrée scolaire 2027-2028. Les étudiants qui achèvent leur formation avant cette date sont soumis à l'ancien droit et ne sont pas soumis à l'obligation d'effectuer le stage extrascolaire.
