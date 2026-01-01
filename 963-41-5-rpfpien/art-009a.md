@@ -1,0 +1,3 @@
+# Art. 9a
+1 Dans les zones non raccordées au réseau d'eau communal ou situées dans des secteurs sous dotés du point de vue hydraulique, des participations financières peuvent être octroyées au taux fixe de 50 % pour la création de réservoirs couverts d'au moins 50 m3, ainsi que pour les aménagements sur lacs ou cours d'eau tels que barrages ou retenues. Le poste incendie et son raccordement pour utilisation directe par le propriétaire en cas de feu dans ces zones est pris en charge à 100%.
+2 La législation sur l'aménagement du territoire et des constructions concernant les zones situées hors zone à bâtir est réservée.
