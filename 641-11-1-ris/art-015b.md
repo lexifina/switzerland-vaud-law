@@ -1,0 +1,4 @@
+# Art. 15b Attestation sur les données salariales relatives aux travailleurs domiciliés dans un pays avec lequel existe un échange automatique de renseignements
+1 Lorsqu'un accord fiscal international prévoit l'échange automatique de renseignements sur les données salariales relatives à un travailleur qui, sans être domicilié ni en séjour en Suisse au regard du droit fiscal, exerce une activité lucrative dépendante dans le canton, notamment pour de courtes périodes, durant la semaine ou comme frontalier (art. 138 LI), l'employeur a l'obligation de remettre à l'Administration cantonale des impôts une attestation dans les formes et selon les modalités fixées par celle-ci.
+2 L'attestation mentionnée à l'alinéa 1 peut être transmise à l'autorité fiscale par voie électronique.
+3 L'employeur adresse un double de cette attestation au travailleur concerné.
