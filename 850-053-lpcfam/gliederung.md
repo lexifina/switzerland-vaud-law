@@ -3,6 +3,7 @@
 ##### Sous-section I Dispositions générales
 ##### Sous-section II Prestation complémentaire annuelle pour familles
 ##### Sous-section III Remboursement des frais de garde pour enfants
+##### Sous-section IV
 #### Section III PRESTATIONS CANTONALES DE LA RENTE-PONT
 #### Section IV DISPOSITIONS COMMUNES
 ##### Sous-section I Organisation, obligation de renseigner et financement
