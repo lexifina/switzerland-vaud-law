@@ -1,0 +1,4 @@
+# Art. 56a Dispositions transitoires de la modification du 10 septembre 2025
+1 Le nouveau barème de loyer entre en vigueur au 1er mars 2026, à l'exception de celui pour les jeunes adultes visés à l'article 31, alinéa 2bis LASV, pour lesquels l'entrée en vigueur du nouveau barème sera fixée ultérieurement par arrêté du Conseil d'Etat et pour lesquels le barème actuel demeure entre-temps en vigueur.
+2 L'ancien droit reste applicable pendant 2 ans à compter de l'entrée en vigueur de la présente modification aux bénéficiaires du RI dont un montant est alloué pour les frais de loyer et pour lesquels la modification du barème des normes entraîne une diminution ou une perte du montant relatif aux frais de loyer pris en charge.
+3 Le barème des normes fixant les frais de loyer défini à l'article 22 ne s'applique qu'aux prestations versées après l'entrée en vigueur de la présente modification.
