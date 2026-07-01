@@ -22,4 +22,5 @@
 ### Chapitre III Organisation administrative
 ## Titre V TERMES VINICOLES SPECIFIQUES
 ## Titre Va Comité de direction de l'Office des vins vaudois
+## Titre Vb Soutien aux vignobles en forte pente ou en terrasses (art. 41 LV)
 ## Titre VI DISPOSITIONS PÉNALES, TRANSITOIRES, ABROGATOIRES ET FINALES
