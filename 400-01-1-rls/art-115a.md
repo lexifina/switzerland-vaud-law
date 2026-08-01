@@ -1,0 +1,4 @@
+# Art. 115a Maîtres auxiliaires
+1 Les maîtres auxiliaires sont ceux qui ne disposent d'aucun titre d'enseignement, qu'ils soient ou non au bénéfice d'une formation de base et qui ne suivent pas une formation pour obtenir le titre d'enseignement requis.
+2 Les conditions de rémunération des maîtres auxiliaires effectuant des remplacements visés à l'article 88, alinéa 3, de la loi sont fixées à l'annexe 1. Pour le secteur de la scolarité obligatoire, l'annexe 1 régit également les conditions de rémunération des maîtres auxiliaires effectuant des remplacements visés à l'article 88, alinéa 2, de la loi.
+3 Le contrat de durée déterminée des maîtres auxiliaires n'est renouvelé que si le poste ne peut pas être occupé par un maître porteur des titres requis. Le contrat ne peut pas être renouvelé plus de deux fois.
