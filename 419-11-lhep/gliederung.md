@@ -10,5 +10,5 @@
 #### Section III Durée de l'engagement du personnel d'enseignement et de recherche
 ### Chapitre VIIbis Valorisation et propriété intellectuelle
 ### Chapitre VIII Etudiants
-### Chapitre IX Recours
+### Chapitre IX Voies de droit
 ### Chapitre X Dispositions transitoires et finales
