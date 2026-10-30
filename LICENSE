@@ -1,0 +1,12 @@
+The law texts in this repository are official texts of the canton of Vaud (Canton de Vaud).
+Taken from the Base législative vaudoise (https://prestations.vd.ch/pub/blv-publication/), Etat de Vaud. The canton's legal notice (https://www.vd.ch/mentions-legales) forbids reuse of "contenu protégé par les droits d'auteur" without permission; laws are not such content (Art. 5 URG).
+
+Swiss law does not protect them by copyright. Federal Act on Copyright and Related Rights (URG, SR 231.1),
+Art. 5 para. 1: "Keinen urheberrechtlichen Schutz geniessen: a. Gesetze, Verordnungen, völkerrechtliche Verträge
+und andere amtliche Erlasse; [...]" (French text: "Ne sont pas protégés par le droit d'auteur: a. les lois,
+ordonnances, accords internationaux et autres actes officiels; [...]")
+
+This repository is not an official publication; the binding text is the one the canton publishes as binding.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

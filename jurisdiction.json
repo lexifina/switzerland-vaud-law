@@ -1,0 +1,11 @@
+{
+  "path": "ch-vd",
+  "code": "CH-VD",
+  "name": "Vaud",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-vaud-law",
+  "build": "built: 594 acts, 1972 versions",
+  "language": "fr",
+  "sources": 1
+}
